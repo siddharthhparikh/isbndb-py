@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2005-12-20T19:13:54">
+ <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <BookList total_results="8408" page_size="10" page_number="13" shown_results="10">
+  <BookData book_id="age_and_sex_in_human_societies" isbn="0534003117">
+   <Title>Age and sex in human societies</Title>
+   <TitleLong>Age and sex in human societies: a biosocial perspective</TitleLong>
+   <AuthorsText>[by] Pierre L. van den Berghe</AuthorsText>
+   <PublisherText publisher_id="wadsworth_pub_co">Belmont, Calif., Wadsworth Pub. Co. [1973]</PublisherText>
+   <Details dewey_decimal="301.41" physical_description_text="140 p. 22 cm." language="eng" edition_info="" dewey_decimal_normalized="301.41" lcc_number="HM131" change_time="2004-07-13T12:44:33" price_time="2005-12-07T12:54:07" />
+   <Summary></Summary>
+   <Notes>Bibliography: p. 124-135.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="age_groups">Age groups</Subject>
+    <Subject subject_id="sex_role">Sex role</Subject>
+    <Subject subject_id="social_interaction">Social interaction</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="age_right_turn_back_the_clock_with_a_proven_personalized_ant" isbn="0684857200">
+   <Title>Age Right : Turn Back the Clock with a Proven, Personalized, Anti-Aging Program</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Karlis Ullis</AuthorsText>
+   <PublisherText publisher_id="fireside">Fireside</PublisherText>
+   <Details dewey_decimal="" physical_description_text="5.5&quot;x8.4&quot;x0.8&quot;; 320 pages; 0.6 lb" language="" edition_info="Paperback; 2000-02-17" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-21T05:33:35" price_time="2005-11-09T20:22:31" />
+   <Summary>Welcome to the new age in antiaging therapy Don't resign yourself to growing old gracefully. With Age Right as your guide, you can reduce body fat, increase strength and energy, and boost your sex drive, all while adding years to your life. With his revolutionary approach, Karlis Ullis, M.D,, provides you with the latest methods for stopping -- and even reversing -- the aging process. Based on twenty years of pioneering work with Olympic and professional athletes, Age Right offers an antiaging program that helps you extend your life span by identifying your unique aging pathway through the "Mind-Body-Spirit" test. USING A STEP-BY-STEP, PERSONALIZED PLAN OF EXERCISE, NUTRITION, AND ANTIAGING SUPPLEMENTS, THIS UNIQUE PROGRAM OFFERS The most up-to-date information on how and why we age, and the four key factors in the aging process Self-tests to determine your "biological age" (versus your chronological age) Expert advice on the best combination of nutrition, exercise, and supplements to fight the effects of age-related problems as indicated by your aging pathway Specific guidelines for modifying your antiaging regimen based on gender, fitness level, and lifestyle Detailed descriptions of all the antiaging supplements available today as well as treatments for the next millennium Practical and extensive resources for choosing the right supplements, creating a specific diet and exercise plan, and finding the best antiaging health professionals</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="amazon_com_health_mind_body_nutrition_general">Amazon.com -- Health, Mind &amp; Body -- Nutrition -- General</Subject>
+    <Subject subject_id="amazon_com_medicine_specialties_preventive_medicine">Amazon.com -- Medicine -- Specialties -- Preventive Medicine</Subject>
+    <Subject subject_id="amazon_com_health_mind_body_personal_health_healthy_living">Amazon.com -- Health, Mind &amp; Body -- Personal Health -- Healthy Living</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="age_sex_marital_status_and_common_law_status" isbn="0660142589">
+   <Title>Age, sex, marital status and common-law status</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Statistics Canada</AuthorsText>
+   <PublisherText publisher_id="statistics_canada">Ottawa : Statistics Canada, 1993.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="iii, 66 p. ; 28 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2004-07-31T06:43:42" price_time="2005-06-20T12:19:52" />
+   <Summary></Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="age_canada_statistics">Age -- Canada -- Statistics</Subject>
+    <Subject subject_id="sex_statistics">Sex -- Statistics</Subject>
+    <Subject subject_id="marital_status_canada_statistics">Marital status -- Canada -- Statistics</Subject>
+    <Subject subject_id="unmarried_couples_canada_statistics">Unmarried couples -- Canada -- Statistics</Subject>
+    <Subject subject_id="canada_statistics_vital">Canada -- Statistics, Vital</Subject>
+    <Subject subject_id="canada_census_1991">Canada -- Census, 1991</Subject>
+    <Subject subject_id="age_canada_statistiques">Âge -- Canada -- Statistiques</Subject>
+    <Subject subject_id="statistiques_selon_le_sexe">Statistiques selon le sexe</Subject>
+    <Subject subject_id="etat_matrimonial_canada_statistiques">État matrimonial -- Canada -- Statistiques</Subject>
+    <Subject subject_id="concubinage_canada_statistiques">Concubinage -- Canada -- Statistiques</Subject>
+    <Subject subject_id="canada_statistiques_demographiques">Canada -- Statistiques démographiques</Subject>
+    <Subject subject_id="canada_recensement_1991">Canada -- Recensement, 1991</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="aging_sex_and_dna_repair" isbn="0120928604">
+   <Title>Aging, sex, and DNA repair</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Carol Bernstein, Harris Bernstein</AuthorsText>
+   <PublisherText publisher_id="academic_press">San Diego : Academic Press, c1991.</PublisherText>
+   <Details dewey_decimal="574.3/72" physical_description_text="xii, 382 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="574.372" lcc_number="QP86" change_time="2003-11-06T09:32:13" price_time="2005-12-17T00:14:48" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and index.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="aging_molecular_aspects">Aging -- Molecular aspects</Subject>
+    <Subject subject_id="dna_repair">DNA repair</Subject>
+    <Subject subject_id="dna_damage">DNA damage</Subject>
+    <Subject subject_id="sex_biology">Sex (Biology)</Subject>
+    <Subject subject_id="aging_genetics">Aging -- genetics</Subject>
+    <Subject subject_id="reproduction_genetics">Reproduction -- genetics</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="agrippina_a01" isbn="0300065981">
+   <Title>Agrippina</Title>
+   <TitleLong>Agrippina: sex, power, and politics in the early Empire</TitleLong>
+   <AuthorsText>Anthony A. Barrett</AuthorsText>
+   <PublisherText publisher_id="yale_university_press">New Haven : Yale University Press, 1996.</PublisherText>
+   <Details dewey_decimal="937/.07/092" physical_description_text="xxi, 330 p., 8 p. of plates : ill., maps ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="937.07092" lcc_number="DG282.6" change_time="2003-11-22T08:51:31" price_time="2005-12-06T11:11:39" />
+   <Summary></Summary>
+   <Notes>"Published 1996 in the United Kingdom as Agrippina, Mother of Nero"--T.p. verso.
+
+Includes bibliographical references (p. 305-324) and index.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="agrippina_minor_15_59">Agrippina,Minor,15-59</Subject>
+    <Subject subject_id="empresses_rome_biography">Empresses -- Rome -- Biography</Subject>
+    <Subject subject_id="rome_history_the_five_julii_30_b_c_68_a_d">Rome -- History -- The five Julii, 30 B.C.-68 A.D</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="agrippina_sex_power_and_politics_in_the_early_empire" isbn="0300078560">
+   <Title>Agrippina: Sex, Power, and Politics in the Early Empire</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Anthony Barrett, </AuthorsText>
+   <PublisherText publisher_id="yale_university_press">Yale University Press</PublisherText>
+   <Details dewey_decimal="" physical_description_text="6.1&quot;x9.2&quot;x0.8&quot;; 330 pages; 1.1 lb" language="" edition_info="Paperback; 1999-07-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-11T23:45:52" price_time="2005-07-16T08:15:13" />
+   <Summary></Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="amazon_com_biographies_memoirs_historical_general">Amazon.com -- Biographies &amp; Memoirs -- Historical -- General</Subject>
+    <Subject subject_id="amazon_com_history_ancient_rome">Amazon.com -- History -- Ancient -- Rome</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="ah_ku_and_karayuki_san_a01" isbn="9971692678">
+   <Title>Ah Ku and Karayuki-San</Title>
+   <TitleLong>Ah Ku and Karayuki-San: Prostitution in Singapore 1880-1940</TitleLong>
+   <AuthorsText>James Francis Warren, </AuthorsText>
+   <PublisherText publisher_id="singapore_university_press">Singapore University Press</PublisherText>
+   <Details dewey_decimal="" physical_description_text="6.4&quot;x9.7&quot;x1.3&quot;; 472 pages; 1.5 lb" language="" edition_info="Paperback; 2003-05-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-10T22:06:57" price_time="2005-11-23T02:55:34" />
+   <Summary>Among the many groups of workers whose labor built Singapore in the 20th century, there may be none as marginalized in memory as the women who travelled from China and Japan to work in Singapore as prostitutes. This study sketches in the trade in women and children in Asia, and--making innovative use of Coroner's Inquests and other records--hones in on the details of the prostitutes' lives in the colonial city: the daily brothel routine, crises and violence, social relations, leisure, mobility, disease and death. The result is a powerful historical account of human nature, of human relationships, of pride, prejudice, struggle and spirit. Ordinary people tumble from the pages of the records: they talk about choice of partners, love and betrayal, desperation and alienation, drawing us into their lives. This social history is a powerful corrective to the romantic image of colonial Singapore as a city of excitement, sophistication, exotic charm and easy sex. In the years since its original publication in 1992, this book, and its companion Rickshaw Coolie, have become an inspiration to those seeking to come to grips with Singapore's past.</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="amazon_com_history_asia_singapore">Amazon.com -- History -- Asia -- Singapore</Subject>
+    <Subject subject_id="amazon_com_health_mind_body_psychology_counseling_sexuality_">Amazon.com -- Health, Mind &amp; Body -- Psychology &amp; Counseling -- Sexuality -- Human</Subject>
+    <Subject subject_id="amazon_com_history_asia_china_general">Amazon.com -- History -- Asia -- China -- General</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="aids_and_sex" isbn="0195069099">
+   <Title>AIDS and sex</Title>
+   <TitleLong>AIDS and sex: an integrated biomedical and biobehavioral approach</TitleLong>
+   <AuthorsText>edited by Bruce Voeller, June Machover Reinisch, Michael Gottlieb</AuthorsText>
+   <PublisherText publisher_id="oxford_university_press">New York : Oxford University Press, 1990.</PublisherText>
+   <Details dewey_decimal="616.97/92" physical_description_text="xv. 449 p. : ill. ; 25 cm." language="eng" edition_info="" dewey_decimal_normalized="616.9792" lcc_number="RA644" change_time="2003-10-27T23:40:59" price_time="2005-10-02T06:55:11" />
+   <Summary></Summary>
+   <Notes>Proceedings of the Symposium on AIDS and Sex held at the Kinsey Institute, Dec. 5-8, 1987, cosponsored by the Kinsey Institute for Research in Sex, Gender, and Reproduction, the National Institute of Allergy and Infectious Diseases and the National Institute of Child Health and Human Development.
+
+Includes index.
+
+Includes bibliographical references.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="aids_disease_congresses">AIDS (Disease) -- Congresses</Subject>
+    <Subject subject_id="aids_disease_social_aspects_congresses">AIDS (Disease) -- Social aspects -- Congresses</Subject>
+    <Subject subject_id="acquired_immunodeficiency_syndrome_congresses">Acquired Immunodeficiency Syndrome -- Congresses</Subject>
+    <Subject subject_id="sex_behavior_congresses">Sex Behavior -- congresses</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="aids_b04" isbn="092191802X">
+   <Title>AIDS</Title>
+   <TitleLong>AIDS: words and meanings</TitleLong>
+   <AuthorsText>by Theresa Dobko</AuthorsText>
+   <PublisherText publisher_id="aids_committee_of_toronto">Toronto : AIDS Committee of Toronto, 1990.</PublisherText>
+   <Details dewey_decimal="616.97/92/003" physical_description_text="[81] p. ; 27 cm." language="eng" edition_info="$15.00" dewey_decimal_normalized="616.9792003" lcc_number="" change_time="2004-10-11T23:29:55" price_time="2005-11-16T15:26:16" />
+   <Summary>Listing of AIDS-associated words and definitions. Intended for persons with HIV and for those working with persons with HIV. Includes all AIDS terminology available, also including "medical tests, treatment, experimental drugs, safer sex terms, and drug use terms." Explains both slang and clinical words. Entries are explanatory and contain cross references.</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="aids_disease_dictionaries">AIDS (Disease) -- Dictionaries</Subject>
+    <Subject subject_id="acquired_immunodeficiency_syndrome_terminology">Acquired Immunodeficiency Syndrome -- terminology</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="aids_drugs_and_prostitution" isbn="0415041082">
+   <Title>AIDS, drugs, and prostitution</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>edited by Martin Plant</AuthorsText>
+   <PublisherText publisher_id="tavistock_routledge">London ; Tavistock/Routledge, 1990.</PublisherText>
+   <Details dewey_decimal="616.97/92071" physical_description_text="xvi, 213 p. : 22 cm." language="eng" edition_info="" dewey_decimal_normalized="616.9792071" lcc_number="RA644" change_time="2003-11-12T03:39:08" price_time="2005-12-05T22:29:02" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and indexes.
+
+Sex work, alcohol, drugs, and AIDS / Martin Plant -- Prostitution, intravenous drug use, and HIV-1 in the United States / William Darrow -- Safer prostitution : a new approach in Holland / Petrien Uniken Venema and Jan Visser -- The Praed Street Project : a cohort of prostitute women in London / Sophie Day and Helen Ward -- Outreach work with female prostitutes in Liverpool / Lyn Matthews -- AIDS risks, alcohol, drugs, and the sex industry : a Scottish study / Ruth Morgan Thomas -- Intravenous drug use and syringe-sharing practices of call men and hustlers / Dan Waldorf and Sheigla Murphy -- Female prostitutes, AIDS, drugs, and alcohol in New South Wales / Christine Harcourt and Ross Philpot -- Prostitution and AIDS risks among female drug users in Frankfurt / Dagmar Hedrich -- Prostitution in Accra / Alfred Neequaye.
+
+Prostitution and AIDS in Spain / Pilar Estebanez Estebanez -- Conclusions and future strategies / Martin Plant.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="aids_disease_epidemiology">AIDS (Disease) -- epidemiology</Subject>
+    <Subject subject_id="prostitutes_diseases">Prostitutes -- Diseases</Subject>
+    <Subject subject_id="prostitutes_health_and_hygiene">Prostitutes -- Health and hygiene</Subject>
+    <Subject subject_id="prostitutes_drug_use">Prostitutes -- Drug use</Subject>
+    <Subject subject_id="prostitutes_alcohol_use">Prostitutes -- Alcohol use</Subject>
+   </Subjects>
+  </BookData>
+ </BookList>
+</ISBNdb>

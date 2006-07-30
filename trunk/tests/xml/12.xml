@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2005-12-20T19:13:52">
+ <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <BookList total_results="8408" page_size="10" page_number="12" shown_results="10">
+  <BookData book_id="after_a_stroke" isbn="1932603115">
+   <Title>After a Stroke</Title>
+   <TitleLong>After a Stroke: 300 Tips for Making Life Easier</TitleLong>
+   <AuthorsText>Cleo Hutton, RN, Cleo Hutton, </AuthorsText>
+   <PublisherText publisher_id="demos_medical_publishing">Demos Medical Publishing</PublisherText>
+   <Details dewey_decimal="" physical_description_text="128 pages" language="" edition_info="Paperback; 2005-06-10" dewey_decimal_normalized="" lcc_number="" change_time="2005-10-21T01:16:23" price_time="2005-11-02T14:33:55" />
+   <Summary>Covers the home-recovery process after a stroke -- and no subject is off-limits. Readers will learn how to progress from patient to person again. The author shares 300+ tips she learned and used during her recovery, including information about communication, emotional liability, safety issues, rest periods, dressing, personal care, cooking, home maintenance, housekeeping skills, traveling, relaxation techniques, and sex.</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects></Subjects>
+  </BookData>
+  <BookData book_id="after_the_second_sex" isbn="0394724305">
+   <Title>After The second sex</Title>
+   <TitleLong>After The second sex: conversations with Simone De Beauvoir</TitleLong>
+   <AuthorsText>by Alice Schwarzer; translated from the French by Marianne Howarth</AuthorsText>
+   <PublisherText publisher_id="pantheon_books">New York : Pantheon Books, c1984.</PublisherText>
+   <Details dewey_decimal="305.4/2/0924" physical_description_text="220 p. ; 21 cm." language="eng" edition_info="(pbk.) :$5.95" dewey_decimal_normalized="305.420924" lcc_number="HQ1154" change_time="2004-03-06T15:42:40" price_time="2005-09-28T13:51:40" />
+   <Summary></Summary>
+   <Notes>Translation of: Simone de Beauvoir heute.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="beauvoir_simone_de_1908_interviews">Beauvoir, Simone de,1908-Interviews</Subject>
+    <Subject subject_id="feminism">Feminism</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="after_the_second_sex_a01" isbn="0394537424">
+   <Title>After The second sex</Title>
+   <TitleLong>After The second sex: conversations with Simone De Beauvoir</TitleLong>
+   <AuthorsText>by Alice Schwarzer; translated from the French by Marianne Howarth</AuthorsText>
+   <PublisherText publisher_id="pantheon_books">New York : Pantheon Books, c1984.</PublisherText>
+   <Details dewey_decimal="305.4/2/0924" physical_description_text="220 p. ; 21 cm." language="eng" edition_info="$10.95" dewey_decimal_normalized="305.420924" lcc_number="HQ1154" change_time="2004-03-06T15:42:40" price_time="2005-10-07T13:22:31" />
+   <Summary></Summary>
+   <Notes>Translation of: Simone de Beauvoir heute.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="beauvoir_simone_de_1908_interviews">Beauvoir, Simone de,1908-Interviews</Subject>
+    <Subject subject_id="feminism">Feminism</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="after_welfare" isbn="0814797547">
+   <Title>After welfare</Title>
+   <TitleLong>After welfare: the culture of postindustrial social policy</TitleLong>
+   <AuthorsText>Sanford F. Schram</AuthorsText>
+   <PublisherText publisher_id="new_york_university_press">New York : New York University Press, c2000.</PublisherText>
+   <Details dewey_decimal="361.6/1/0973" physical_description_text="x, 234 p. : ill., map ; 24 cm." language="eng" edition_info="(cloth : alk. paper)" dewey_decimal_normalized="361.610973" lcc_number="HN65" change_time="2004-07-01T22:07:15" price_time="2005-12-15T00:40:09" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 185-228) and index.
+
+Contracting America : the cycle of representation and the contagion of policy discourse -- Where the welfare queen resides : the subtext of personal responsibility -- In the clinic : the medicalization of welfare -- Deconstructing devolution : racing to the bottom and other ironies of welfare reform -- Redefining the family, redefining the state : the politics of incorporation and the case of same-sex marriage -- A new space for welfare policy research : benefit decline on the internet -- After social security : searching for a postindustrial ethic.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="public_welfare_united_states">Public welfare -- United States</Subject>
+    <Subject subject_id="united_states_social_policy_1993">United States -- Social policy -- 1993</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="after_welfare_a01" isbn="0814797555">
+   <Title>After welfare</Title>
+   <TitleLong>After welfare: the culture of postindustrial social policy</TitleLong>
+   <AuthorsText>Sanford F. Schram</AuthorsText>
+   <PublisherText publisher_id="new_york_university_press">New York : New York University Press, c2000.</PublisherText>
+   <Details dewey_decimal="361.6/1/0973" physical_description_text="x, 234 p. : ill., map ; 24 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="361.610973" lcc_number="HN65" change_time="2004-07-01T22:07:17" price_time="2005-11-28T01:01:27" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 185-228) and index.
+
+Contracting America : the cycle of representation and the contagion of policy discourse -- Where the welfare queen resides : the subtext of personal responsibility -- In the clinic : the medicalization of welfare -- Deconstructing devolution : racing to the bottom and other ironies of welfare reform -- Redefining the family, redefining the state : the politics of incorporation and the case of same-sex marriage -- A new space for welfare policy research : benefit decline on the internet -- After social security : searching for a postindustrial ethic.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="public_welfare_united_states">Public welfare -- United States</Subject>
+    <Subject subject_id="united_states_social_policy_1993">United States -- Social policy -- 1993</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="after_welfare_a02" isbn="0585325278">
+   <Title>After welfare</Title>
+   <TitleLong>After welfare the culture of postindustrial social policy</TitleLong>
+   <AuthorsText>Sanford F. Schram</AuthorsText>
+   <PublisherText publisher_id="new_york_university_press">New York : New York University Press, c2000.</PublisherText>
+   <Details dewey_decimal="361.6/1/0973" physical_description_text="x, 234 p. : ill. ; 24 cm." language="eng" edition_info="(electronic bk.) :$55.00" dewey_decimal_normalized="361.610973" lcc_number="HN65" change_time="2004-07-15T19:46:51" price_time="2005-12-14T11:21:06" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 185-228) and index.
+
+Contracting America : the cycle of representation and the contagion of policy discourse -- Where the welfare queen resides : the subtext of personal responsibility -- In the clinic : the medicalization of welfare -- Deconstructing devolution : racing to the bottom and other ironies of welfare reform -- Redefining the family, redefining the state : the politics of incorporation and the case of same-sex marriage -- A new space for welfare policy research : benefit decline on the Internet -- After social security : sea
+
+Electronic reproduction.Boulder, Colo. :NetLibrary,2000.Available via World Wide Web.Access may be limited to NetLibrary affiliated libraries.</Notes>
+   <UrlsText>http://www.netLibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=48236 An electronic book accessible through the World Wide Web; click for information</UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="public_welfare_united_states">Public welfare -- United States</Subject>
+    <Subject subject_id="united_states_social_policy_1993">United States -- Social policy -- 1993</Subject>
+    <Subject subject_id="electronic_books">Electronic books</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="ageing_and_later_life_a01" isbn="0803989652">
+   <Title>Ageing and later life</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>edited by Julia Johnson and Robert Slater</AuthorsText>
+   <PublisherText publisher_id="sage_publications_in_associati">London ; Sage Publications in association with The Open University, 1993.</PublisherText>
+   <Details dewey_decimal="305.26/0941" physical_description_text="xi, 369 p. : ill., map ; 24 cm." language="eng" edition_info="(cased)" dewey_decimal_normalized="305.260941" lcc_number="HQ1064" change_time="2005-02-06T05:59:10" price_time="2005-11-29T12:15:06" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and indexes.
+
+Personal Accounts -- 1.Look me in the eye /Barbara Macdonald -- 2.Coming out of the age closet /Maxine Myers -- 3.ageing of Mary Berenson /Bill Bytheway -- 4.Home from home? /Evan Marsh -- 5.Mrs Hatter /Janet Ford and Ruth Sinclair -- 6.Mr and Mrs Cosgrove /Jeremy Seabrook -- 7.Epilogue to An Autobiography /Agatha Christie -- Images and identity -- 8.Old age in crime fiction /Mike Hepworth -- 9.cream cracker under the settee /Alan Bennett -- 10.Have the men had enough? /Margaret Forster -- 11.photographic image /Kathleen Woodward -- 12.Ageing with a disability /Gerry Zarb -- 13.Ageing and cultural stereotypes of older women /Jay Ginn and Sara Arber -- 14.Ageing and ethnicity /Ken Blakemore -- Ill-Health and Well-Being -- 15.health of older Asians /Liam Donaldson and Marie Johnson -- 16.Osteoporosis in women /Jean Shapiro -- 17.Depression in later life /Elaine Murphy -- 18.Frames of reference for an understanding of dementia /Tom Kitwood -- 19.Love, sex and aging /Edward M. Brecher -- 20.Age discrimination in health care /Melanie Henwood -- Intervention and Therapy -- 21.Does group living work? /Julia Johnson -- 22.holistic approach in the ward /Helen Passant -- 23.Elderly people: their medicines and their doctors /Drug and Therapeutics Bulletin -- 24.Assessing risk /Alison Norman -- 25.Vulnerable to abuse /Olive Stevenson -- 26.Baffle locks: in whose best interest? /Grainne Sheridan -- 27.Freedom to wander /Peter Blackburn -- Power and Control -- 28.Obstacles to the development of user-centred services /Tim Booth -- 29.Rest assured: new moves in quality assurance for residential care /Leonie Kellaher and Sheila Peace -- 30.powerhouse for change: empowering users /Phyllida Parsloe and Olive Stevenson -- 31.Approaches to advocacy /Chris Phillipson -- 32.pensioners' movement: federation, consolidation, fragmentation, 1938-1948 /Andrew Blaikie -- 33.On being a woman in the pensioners' movement /Zelda Curtis -- Concepts and Values -- 34.Ageism: concept and definition /Julia Johnson and Bill Bytheway -- 35.'Us' and 'them'? Feminist research, community care and disability /Jenny Morris -- 36.Philosophical perspectives on quality of life /Andrew Sixsmith -- 37.Religion and aging /David O. Moberg -- 38.Gerontological approaches to quality of life /Beverley Hughes -- 39.Measuring quality of life /Michael Bury and Anthea Holme -- Policy and Politics -- 40.Ideology and the private sector of welfare /Roy Parker -- 41.Housing and community care /Robin Means -- 42.Workers versus pensioners /Paul Johnson, Christoph Conrad and David Thompson -- 43.new prospects for retirement /Michael Young and Tom Schuller -- 44.Older people in Europe: social and economic policies /Alan Walker and Jens Alber -- Pasts -- 45.Born 1898; a brief group biography /Mark Abrams -- 46.Oral history as a social movement: reminiscence and older people /Joanna Bornat -- 47.History of migration to the United Kingdom /John Young and James George -- 48.Glimpses of a lost history /Paul Thompson -- 49.Social services for elderly people: from Beveridge to Thatcher /Robin Means -- 50.historical development of geriatric medicine as a specialty /Helen Evers -- 51.History of old age in western culture and society /Georges Minois -- Futures -- 52.politics of age /Russell A. Ward -- 53.Ageing in developing countries: has it got anything to do with us? /Alex Kalache -- 54.Paths for future population aging /Jill S. Grigsby -- 55.Can we survive the world revolution? /Alexander King and Bertrand Schneider.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="older_people_great_britain">Older people -- Great Britain</Subject>
+    <Subject subject_id="aging_social_aspects_great_britain">Aging -- Social aspects -- Great Britain</Subject>
+    <Subject subject_id="humans_ageing">Humans -- Ageing</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="age_aint_nothing_but_a_number" isbn="0807028231">
+   <Title>Age ain't nothing but a number</Title>
+   <TitleLong>Age ain't nothing but a number: Black women explore midlife</TitleLong>
+   <AuthorsText>edited by Carleen Brice</AuthorsText>
+   <PublisherText publisher_id="beacon_press">Boston : Beacon Press, c2003.</PublisherText>
+   <Details dewey_decimal="810.8/09287/096073" physical_description_text="xiii, 233 p. ; 22 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="810.809287096073" lcc_number="PS509" change_time="2004-07-22T20:01:13" price_time="2005-12-01T04:13:03" />
+   <Summary></Summary>
+   <Notes>Who says an older woman shouldn't dance? / Gloria Wade-Gayles -- Age / Nikki Giovanni -- The affirmation / Patricia Raybon -- Journal (February 12, 1987) / Alice Walker -- Unlocking midlife / Jackie Warren-Moore -- Games / Jackie Warren-Moore -- What I learned on the way to getting old : don't tell your age and other lessons / Elyse Singleton -- Midlife blues / Carmen Turner -- How to fly into fifty (without a fear of flying) / S. Pearl Sharp -- The ball of a lifetime / Trudier Harris-Lopez -- In search of meaningful work / Jan Thomas -- Dreaming of crones / Carleen Brice -- New bones / Lucille Clifton -- Choosing longevity / Susan L. Taylor -- Maneuvering through menopause : a rite of passage / Marilyn Hughes Gaston and Gayle K. Porter. -- To my last period / Lucille Clifton -- Hair matters at midlife / Brenda J. Allen -- Am I ugly? / Terri Sutton -- Banyan trunk / Ada Nelribi -- From I left my back door open / April Sinclair -- Used / Rita Dove -- My cups used to runneth over / Diane Donaldson -- Middle-age UFO / Colleen McElroy -- From a day late and a dollar short / Terry McMillan -- Homegirl reunion / Joan Hopewell-Hartgens -- Letting go with love / Miriam Decosta-Willis -- From the women of Brewster Place / Gloria Naylor -- Babies??!! / Tina McElroy Ansa -- Adoption : a midlife love story / Sheila Stainback -- The pathway home / Stephanie Rose Bird -- The dance of life / Wuanda M. T. Walls -- Full circling / Elaine Lee -- In the heat of shadow / Jewelle Gomez -- Parents, wives, and womanhood : the lessons we never learned / Ta'shia Asanti Karade -- Age and sexuality / Maya Angelou -- Trust me / Pearl Cleage -- Gray pussy hair / Opal Palmer Adisa -- Safer sex (before and) after fifty / Gale Madyun -- Plum jelly in hot shiny jars / Akasha Gloria Hull -- It might as well be spring / Carleen Brice -- The company she keeps / Colleen McElroy -- From do-it-yourself rainbows / J. California Cooper.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="american_literature_african_american_authors">American literature -- African American authors</Subject>
+    <Subject subject_id="african_american_women_literary_collections">African American women -- Literary collections</Subject>
+    <Subject subject_id="middle_aged_women_literary_collections">Middle aged women -- Literary collections</Subject>
+    <Subject subject_id="american_literature_women_authors">American literature -- Women authors</Subject>
+    <Subject subject_id="middle_aged_women_united_states">Middle aged women -- United States</Subject>
+    <Subject subject_id="middle_age_literary_collections">Middle age -- Literary collections</Subject>
+    <Subject subject_id="aging_literary_collections">Aging -- Literary collections</Subject>
+    <Subject subject_id="middle_age_united_states">Middle age -- United States</Subject>
+    <Subject subject_id="aging_united_states">Aging -- United States</Subject>
+    <Subject subject_id="african_american_women">African American women</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="age_and_sex" isbn="0660573679">
+   <Title>Age and sex</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Statistics Canada = Âge et sexe / Statistique Canada</AuthorsText>
+   <PublisherText publisher_id="statistics_canada_statistique_">Ottawa : Statistics Canada = Statistique Canada, 1993.</PublisherText>
+   <Details dewey_decimal="306/.089/9710021$220" physical_description_text="xiii, 57, 33 p. ; 28 cm." language="eng" edition_info="" dewey_decimal_normalized="306.0899710021" lcc_number="" change_time="2005-12-16T01:13:18" price_time="2005-12-16T01:13:27" />
+   <Summary></Summary>
+   <Notes>Text in English and French.
+
+On cover: 91 aboriginal data.
+
+"Catalogue no.94-327"</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="sex_statistics">Sex -- Statistics</Subject>
+    <Subject subject_id="age_canada_statistics">Age -- Canada -- Statistics</Subject>
+    <Subject subject_id="canada_statistics_vital">Canada -- Statistics, Vital</Subject>
+    <Subject subject_id="canada_census_1991">Canada -- Census, 1991</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="age_and_sex_distribution_of_estimated_resident_population_qu" isbn="0642132550">
+   <Title>Age and sex distribution of estimated resident population, Queensland, 30 June 1986</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Australian Bureau of Statistics, Queensland Office</AuthorsText>
+   <PublisherText publisher_id="abs_queensland_office">Brisbane : ABS, Queensland Office, 1987.</PublisherText>
+   <Details dewey_decimal="307.2/0994/3" physical_description_text="53 p., 5 folded leaves : 6 maps ; 30 cm." language="eng" edition_info="" dewey_decimal_normalized="307.209943" lcc_number="" change_time="2005-04-27T10:03:52" price_time="2005-04-27T10:03:59" />
+   <Summary></Summary>
+   <Notes>Catalogue no. 3210.3.
+
+"D.N. Allen, Deputy Commonwealth Statistician" -- p. 3.
+
+Chiefly tables.
+
+Cover title.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="queensland_statistics_vital">Queensland -- Statistics, Vital</Subject>
+   </Subjects>
+  </BookData>
+ </BookList>
+</ISBNdb>

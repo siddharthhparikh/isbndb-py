@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2005-12-20T19:13:51">
+ <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <BookList total_results="8408" page_size="10" page_number="11" shown_results="10">
+  <BookData book_id="affirmative_action_and_sex_discrimination_a01" isbn="0949138096">
+   <Title>Affirmative action and sex discrimination</Title>
+   <TitleLong>Affirmative action and sex discrimination: a handbook on legal rights for women</TitleLong>
+   <AuthorsText>Chris Ronalds</AuthorsText>
+   <PublisherText publisher_id="pluto_press">Sydney : Pluto Press, 1987.</PublisherText>
+   <Details dewey_decimal="344.94/014133" physical_description_text="xii, 218 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="344.94014133" lcc_number="" change_time="2005-12-13T04:19:01" price_time="2005-12-19T05:10:00" />
+   <Summary></Summary>
+   <Notes>Bibliography: p. [214]-215.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="australia_sex_discrimination_act_1984">Australia -- Sex Discrimination Act 1984</Subject>
+    <Subject subject_id="sex_discrimination_in_employment_law_and_legislation_austral">Sex discrimination in employment -- Law and legislation -- Australia</Subject>
+    <Subject subject_id="affirmative_action_programs_law_and_legislation_australia">Affirmative action programs -- Law and legislation -- Australia</Subject>
+    <Subject subject_id="women_legal_status_laws_etc_australia_aaaa0">Women -- Legal status, laws, etc -- Australia</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="affirmative_action_and_sex_discrimination_a02" isbn="0949138630">
+   <Title>Affirmative action and sex discrimination</Title>
+   <TitleLong>Affirmative action and sex discrimination: a handbook on legal rights for women</TitleLong>
+   <AuthorsText>Chris Ronalds</AuthorsText>
+   <PublisherText publisher_id="pluto_press">Sydney : Pluto Press, 1991</PublisherText>
+   <Details dewey_decimal="344.94/014133" physical_description_text="x, 254 p. ; 22 cm." language="eng" edition_info="(corrected)" dewey_decimal_normalized="344.94014133" lcc_number="" change_time="2005-12-13T04:19:09" price_time="2005-12-19T05:10:00" />
+   <Summary></Summary>
+   <Notes>Cover title: Affirmative action &amp; sex discrimination
+
+Includes index
+
+Bibliography: p. [240]-242</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="australia_sex_discrimination_act_1984">Australia -- Sex Discrimination Act 1984</Subject>
+    <Subject subject_id="sex_discrimination_in_employment_law_and_legislation_austral">Sex discrimination in employment -- Law and legislation -- Australia</Subject>
+    <Subject subject_id="affirmative_action_programs_law_and_legislation_australia">Affirmative action programs -- Law and legislation -- Australia</Subject>
+    <Subject subject_id="women_legal_status_laws_etc_australia_aaaa0">Women -- Legal status, laws, etc -- Australia</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="affirmative_action_on_trial" isbn="070060829X">
+   <Title>Affirmative action on trial</Title>
+   <TitleLong>Affirmative action on trial: sex discrimination in Johnson v. Santa Clara</TitleLong>
+   <AuthorsText>Melvin I. Urofsky</AuthorsText>
+   <PublisherText publisher_id="university_press_of_kansas">Lawrence, Kan. : University Press of Kansas, c1997.</PublisherText>
+   <Details dewey_decimal="342.73/087" physical_description_text="xiii, 201 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="342.73087" lcc_number="KF228" change_time="2003-10-23T20:23:30" price_time="2005-12-19T05:10:03" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 187-188) and index.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="johnson_paul_1925_trials_litigation_etc">Johnson, Paul,1925-Trials, litigation, etc</Subject>
+    <Subject subject_id="santa_clara_county_transportation_agency_trials_litigation_e">Santa Clara County Transportation Agency -- Trials, litigation, etc</Subject>
+    <Subject subject_id="reverse_discrimination_in_employment_law_and_legislation_uni">Reverse discrimination in employment -- Law and legislation -- United States</Subject>
+    <Subject subject_id="reverse_discrimination_in_employment_california_santa_clara_">Reverse discrimination in employment -- California -- Santa Clara County</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="affirmative_action_on_trial_a01" isbn="0700608303">
+   <Title>Affirmative action on trial</Title>
+   <TitleLong>Affirmative action on trial: sex discrimination in Johnson v. Santa Clara</TitleLong>
+   <AuthorsText>Melvin I. Urofsky</AuthorsText>
+   <PublisherText publisher_id="university_press_of_kansas">Lawrence, Kan. : University Press of Kansas, c1997.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="xiii, 201 p. ; 22 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="" lcc_number="KF228" change_time="2003-11-04T08:14:36" price_time="2005-12-19T05:10:07" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 187-188) and index.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="johnson_paul_1925_trials_litigation_etc">Johnson, Paul,1925-Trials, litigation, etc</Subject>
+    <Subject subject_id="santa_clara_county_transportation_agency_trials_litigation_e">Santa Clara County Transportation Agency -- Trials, litigation, etc</Subject>
+    <Subject subject_id="reverse_discrimination_in_employment_law_and_legislation_uni">Reverse discrimination in employment -- Law and legislation -- United States</Subject>
+    <Subject subject_id="reverse_discrimination_in_employment_california_santa_clara_">Reverse discrimination in employment -- California -- Santa Clara County</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="affirmative_acts" isbn="0385492251">
+   <Title>Affirmative acts</Title>
+   <TitleLong>Affirmative acts: political essays</TitleLong>
+   <AuthorsText>June Jordan</AuthorsText>
+   <PublisherText publisher_id="anchor_books">New York : Anchor Books, 1998.</PublisherText>
+   <Details dewey_decimal="305.896/073" physical_description_text="xiv, 268 p. ; 21 cm." language="eng" edition_info="" dewey_decimal_normalized="305.896073" lcc_number="E185.615" change_time="2004-07-27T08:48:08" price_time="2005-12-19T05:10:08" />
+   <Summary></Summary>
+   <Notes>Mandela and the Kingdom Come -- Intifada, USA -- Thomas Was Not the Point -- The Big-Time Coward -- On the Night of November 3, 1992 -- Valentine's Day, 1992 -- The Light of the Fire -- Willing and Able -- I Am Seeking an Attitude -- The Truth of Rodney King -- Islam and the USA Today -- Bosnia Betrayed -- Freedom Time -- A Good Fight -- Ruth and Naomi, David and Jonathan: One Love -- Give Me Two Reasons -- A Powerful Hatred -- We Are All Refugees -- O. J. Simpson: Innocent of What? -- An Angry Black Woman on the Subject of the Angry White Man -- Where I Live Now -- Where I Live Now, Part Two -- In the Land of White Supremacy -- My Mess, and Ours -- Justice at Risk -- Getting Down on My Street -- On Bisexuality and Cultural Pluralism -- Eyewitness in Lebanon -- Notes Toward a Model of Resistance -- Besting a Worst Case Scenario -- On the Politics of Change -- A Good News' Blues: A Jazz Prose-Poem -- The Revolution Now: Update on Beloved Community.
+
+Root Canal to the Future of Women -- Tribute to Paul Robeson -- Affirmative Acts: Language, Information, and Power -- Bilingual Education and Home Language -- Update on Martin Luther King, Jr., and the Best of My Heart -- A Couple of Words on Behalf of Sex (Itself) -- Break the Law!</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="jordan_june_1936">Jordan, June,1936</Subject>
+    <Subject subject_id="african_americans_civil_rights">African Americans -- Civil rights</Subject>
+    <Subject subject_id="affirmative_action_programs_united_states">Affirmative action programs -- United States</Subject>
+    <Subject subject_id="african_americans_social_conditions_1975">African Americans -- Social conditions -- 1975</Subject>
+    <Subject subject_id="womens_rights_united_states">Women's rights -- United States</Subject>
+    <Subject subject_id="women_united_states_social_conditions">Women -- United States -- Social conditions</Subject>
+    <Subject subject_id="united_states_politics_and_government_1989">United States -- Politics and government -- 1989</Subject>
+    <Subject subject_id="united_states_social_conditions_1980">United States -- Social conditions -- 1980</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="african_feminism" isbn="081221580X">
+   <Title>African feminism</Title>
+   <TitleLong>African feminism: the politics of survival in sub-Saharan Africa</TitleLong>
+   <AuthorsText>edited by Gwendolyn Mikell</AuthorsText>
+   <PublisherText publisher_id="university_of_pennsylvania_pre">Philadelphia : University of Pennsylvania Press, c1997.</PublisherText>
+   <Details dewey_decimal="305.42/0967" physical_description_text="xv, 361 p. : ill., maps ; 24 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="305.420967" lcc_number="HQ1240.5" change_time="2003-11-01T02:58:52" price_time="2005-12-19T05:10:15" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and index.
+
+Introduction / Gwendolyn Mikell -- 1. Changing the Meaning of Marriage: Women and Family Law in Cote d'Ivoire / Jeanne Maddox Toungara -- 2. Wives, Children, and Intestate Succession in Ghana / Takyiwaa Manuh -- 3. Pleas for Domestic Relief: Akan Women and Family Courts / Gwendolyn Mikell -- 4. Swazi Women Workers in Cottage Industries and Factories / Betty J. Harris -- 5. Alcohol and Politics in Urban Zambia: The Intersection of Gender and Class / Ilsa M. Glazer -- 6. Women's Roles in Settlement and Resettlement in Mali / Dolores Koenig -- 7. Ethiopian Rural Women and the State / Tsehai Berhane-Selassie -- 8. Women and Grassroots Politics in Abidjan, Cote d'Ivoire / Carlene H. Dei -- 9. Kenyan Women in Politics and Public Decision Making / Maria Nzomo -- 10. "Our Women Keep Our Skies from Falling": Women's Networks and Survival Imperatives in Tshunyane, South Africa / Shawn Riva Donaldson.
+
+11. Technology and the Fuel Crisis: Adjustment among Women in Northern Nigeria / D. J. Shehu -- 12. Swazi Traditional Healers, Role Transformation, and Gender / Enid Gort -- 13. AIDS, Gender, and Sexuality during Africa's Economic Crisis / Brooke Grundfest Schoepf -- Conclusions: Theorizing and Strategizing about African Women and State Crisis / Gwendolyn Mikell -- Table A.1. Sub-Saharan Africa: Male-Female Data -- Table A.2. Economic Activity by Sector and Sex -- Table A.3. Sub-Saharan Africa Socioeconomic Data.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="women_in_development_africa_sub_saharan">Women in development -- Africa, Sub-Saharan</Subject>
+    <Subject subject_id="feminism_africa_sub_saharan">Feminism -- Africa, Sub-Saharan</Subject>
+    <Subject subject_id="women_africa_sub_saharan_social_conditions">Women -- Africa, Sub-Saharan -- Social conditions</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="african_feminism_a01" isbn="0812233492">
+   <Title>African feminism</Title>
+   <TitleLong>African feminism: the politics of survival in sub-Saharan Africa</TitleLong>
+   <AuthorsText>edited by Gwendolyn Mikell</AuthorsText>
+   <PublisherText publisher_id="university_of_pennsylvania_pre">Philadelphia : University of Pennsylvania Press, c1997.</PublisherText>
+   <Details dewey_decimal="305.42/0967" physical_description_text="xv, 361 p. : ill., maps ; 24 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="305.420967" lcc_number="HQ1240.5" change_time="2003-11-01T02:58:52" price_time="2005-11-17T01:01:12" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and index.
+
+Introduction / Gwendolyn Mikell -- 1. Changing the Meaning of Marriage: Women and Family Law in Cote d'Ivoire / Jeanne Maddox Toungara -- 2. Wives, Children, and Intestate Succession in Ghana / Takyiwaa Manuh -- 3. Pleas for Domestic Relief: Akan Women and Family Courts / Gwendolyn Mikell -- 4. Swazi Women Workers in Cottage Industries and Factories / Betty J. Harris -- 5. Alcohol and Politics in Urban Zambia: The Intersection of Gender and Class / Ilsa M. Glazer -- 6. Women's Roles in Settlement and Resettlement in Mali / Dolores Koenig -- 7. Ethiopian Rural Women and the State / Tsehai Berhane-Selassie -- 8. Women and Grassroots Politics in Abidjan, Cote d'Ivoire / Carlene H. Dei -- 9. Kenyan Women in Politics and Public Decision Making / Maria Nzomo -- 10. "Our Women Keep Our Skies from Falling": Women's Networks and Survival Imperatives in Tshunyane, South Africa / Shawn Riva Donaldson.
+
+11. Technology and the Fuel Crisis: Adjustment among Women in Northern Nigeria / D. J. Shehu -- 12. Swazi Traditional Healers, Role Transformation, and Gender / Enid Gort -- 13. AIDS, Gender, and Sexuality during Africa's Economic Crisis / Brooke Grundfest Schoepf -- Conclusions: Theorizing and Strategizing about African Women and State Crisis / Gwendolyn Mikell -- Table A.1. Sub-Saharan Africa: Male-Female Data -- Table A.2. Economic Activity by Sector and Sex -- Table A.3. Sub-Saharan Africa Socioeconomic Data.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="women_in_development_africa_sub_saharan">Women in development -- Africa, Sub-Saharan</Subject>
+    <Subject subject_id="feminism_africa_sub_saharan">Feminism -- Africa, Sub-Saharan</Subject>
+    <Subject subject_id="women_africa_sub_saharan_social_conditions">Women -- Africa, Sub-Saharan -- Social conditions</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="afterburn_a_novel" isbn="0743470974">
+   <Title>Afterburn</Title>
+   <TitleLong>Afterburn: a novel</TitleLong>
+   <AuthorsText>Zane</AuthorsText>
+   <PublisherText publisher_id="atria_books">New York : Atria Books, 2005.</PublisherText>
+   <Details dewey_decimal="813/.54" physical_description_text="312 p. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="813.54" lcc_number="PS3626" change_time="2005-12-18T13:35:07" price_time="2005-12-18T13:35:25" />
+   <Summary></Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="amazon_com_literature_fiction_general_comic">Amazon.com -- Literature &amp; Fiction -- General -- Comic</Subject>
+    <Subject subject_id="african_americans_fiction">African Americans -- Fiction</Subject>
+    <Subject subject_id="amazon_com_romance_contemporary_general">Amazon.com -- Romance -- Contemporary -- General</Subject>
+    <Subject subject_id="dating_social_customs_fiction">Dating (Social customs) -- Fiction</Subject>
+    <Subject subject_id="washington_d_c_fiction">Washington (D.C.) -- Fiction</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="afterimage_a08" isbn="0812540441">
+   <Title>Afterimage</Title>
+   <TitleLong>Afterimage (Chris Sinclair)</TitleLong>
+   <AuthorsText>Jay Brandon, </AuthorsText>
+   <PublisherText publisher_id="tor_books">Tor Books</PublisherText>
+   <Details dewey_decimal="" physical_description_text="4.2&quot;x6.8&quot;x1.0&quot;; 384 pages; 0.4 lb" language="" edition_info="Paperback; 2000-12-15" dewey_decimal_normalized="" lcc_number="" change_time="2005-02-25T18:05:43" price_time="2005-12-07T17:29:22" />
+   <Summary>District Attorney Chris Sinclair has never really forgotten his first real love, Jean, a college girlfriend from the era of free love, a wild young woman who introduced him to a world of sex and drugs and alcohol drastically unlike is own. But she left his life in college and he's never seen her since, until a young woman is found buried in a shallow grave on the outskirts of San Antonio. Through forensic reconstruction of the decomposed skull, a face takes shape. A detail or two is different, but there's no doubt the face is Jean's, like an after image in his mind, he sees her face in the young girl's and he knows. What he doesn't know is why Jean wouldn't have reported her own daughter's disappearance; the body had been buried for months.</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects></Subjects>
+  </BookData>
+  <BookData book_id="afternoon_of_a_good_woman" isbn="1860495265">
+   <Title>Afternoon of a Good Woman</Title>
+   <TitleLong>Afternoon of a Good Woman (Virago Modern Classics)</TitleLong>
+   <AuthorsText>Nina Bawden, </AuthorsText>
+   <PublisherText publisher_id="acacia_press_inc">Acacia Press, Inc.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="5.2&quot;x0.5&quot;x8.2&quot;; 192 pages; 0.3 lb" language="" edition_info="Paperback; 1999-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-22T23:27:18" price_time="1970-01-01T00:00:00" />
+   <Summary>Penelope has always done her best to be a good wife, a good mistress, a good mother  and a good magistrate. Today, she is more conscious than usual of the thinness of the thread that separates good from bad, the law-abiding from the criminal. Sitting in court, hearing a short, sad case of indecent exposure and a long, confused theft, she finds herself simultaneously examining her own sex life (how would all that sound in court?), her own actions and intentions. A tour de force, Nina Bawden¹s ingeniously constructed novel counterpoints public appearance with private behavior. The result is a marvelous picture of a not always admirable but engagingly complex, very human heroine.</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="amazon_com_literature_fiction_general_contemporary">Amazon.com -- Literature &amp; Fiction -- General -- Contemporary</Subject>
+   </Subjects>
+  </BookData>
+ </BookList>
+</ISBNdb>

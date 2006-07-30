@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ISBNdb server_time="2005-12-20T19:13:47">
+ <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <BookList total_results="8408" page_size="10" page_number="9" shown_results="10">
+  <BookData book_id="adolescence_today" isbn="025601731X">
+   <Title>Adolescence today</Title>
+   <TitleLong>Adolescence today: sex roles and the search for identity</TitleLong>
+   <AuthorsText>David R. Matteson</AuthorsText>
+   <PublisherText publisher_id="dorsey_press">Homewood, Ill. : Dorsey Press, 1975.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="xvi, 400 p. : ill. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2003-11-23T04:12:21" price_time="2005-11-15T14:45:23" />
+   <Summary></Summary>
+   <Notes>Includes index.
+
+Bibliography: p. 359-386.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="youth_united_states">Youth -- United States</Subject>
+    <Subject subject_id="adolescence">Adolescence</Subject>
+    <Subject subject_id="sex_role">Sex role</Subject>
+    <Subject subject_id="identity_psychology">Identity (Psychology)</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adolescents_and_their_music_a01" isbn="0815321384">
+   <Title>Adolescents and their music</Title>
+   <TitleLong>Adolescents and their music: if it's too loud, you're too old</TitleLong>
+   <AuthorsText>edited by Jonathon S. Epstein</AuthorsText>
+   <PublisherText publisher_id="garland_pub">New York : Garland Pub., 1994.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="xxxiv, 401 p. : ill. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="ML3534" change_time="2005-05-05T03:07:00" price_time="2005-10-20T00:45:14" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and index.
+
+Introduction: Misplaced childhood: an introduction to the sociology of youth and their music / Jonathon S. Epstein -- Rock: youth and its music / Deena Weinstein -- The Political status of youth and youth culture / Lawrence Grossberg -- The Local economy of suburban scenes / Donna Gaines -- Expendable youth: the rise and fall of youth culture / Deena Weinstein -- Rock and roll is here to stray: youth subculture, deviance, and social typing in rock's early years / Daniel Dotter -- Secular rituals in popular culture: a case for Grateful Dead concerts and dead head identity / Robert Sardiello -- The Postmodernization of rock and roll music: the case of Metallica / Joseph A. Kotarba -- Redeeming the rap music experience / Venise Berry -- Guerrilla music: avant-garde voice as oppositional discourse / Thaddeus Coreno -- Does love really stink?: The "Mean world" of love and sex in popular music of the 1980s / Emily D. Edwards -- Crowd crushes at two rock concerts: a value-added analysis / Jerry M. Lewis -- Popular music as a "social cement": a content analysis of social criticism and alienation in alternative-music song titles / Amy B. Mohan and Jean Malone -- Living on a lighted stage: identity salience, psychological centrality, authenticity, and role behavior of semi-professional rock musicians / Scott A. Reid, Jonathon S. Epstein, and D.E. Benson -- Recent theory and research in the sociology of popular music: a selected and annotated bibliography / Stephen B. Groce and Jonathon S. Epstein.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="rock_music_social_aspects">Rock music -- Social aspects</Subject>
+    <Subject subject_id="rock_music_history_and_criticism">Rock music -- History and criticism</Subject>
+    <Subject subject_id="music_and_youth">Music and youth</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adolescents_sex_and_contraception" isbn="0898592178">
+   <Title>Adolescents, sex, and contraception</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>edited by Donn Byrne, William A. Fisher</AuthorsText>
+   <PublisherText publisher_id="l_erlbaum_associates">Hillsdale, N.J. : L. Erlbaum Associates, 1983.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="x, 314 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2004-07-17T21:41:39" price_time="2005-12-05T14:15:30" />
+   <Summary></Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="youth_united_states_sexual_behavior">Youth -- United States -- Sexual behavior</Subject>
+    <Subject subject_id="birth_control_united_states">Birth control -- United States</Subject>
+    <Subject subject_id="youth_united_states_attitudes">Youth -- United States -- Attitudes</Subject>
+    <Subject subject_id="college_students_united_states_sexual_behavior">College students -- United States -- Sexual behavior</Subject>
+    <Subject subject_id="contraception_in_adolescence">Contraception -- in adolescence</Subject>
+    <Subject subject_id="sex_behavior_in_adolescence_united_states">Sex Behavior -- in adolescence -- United States</Subject>
+    <Subject subject_id="jeunesse_etats_unis_comportement_sexuel">Jeunesse -- États-Unis -- Comportement sexuel</Subject>
+    <Subject subject_id="naissances_regulation_des_etats_unis">Naissances, Régulation des -- États-Unis</Subject>
+    <Subject subject_id="jeunesse_etats_unis_attitudes">Jeunesse -- États-Unis -- Attitudes</Subject>
+    <Subject subject_id="etudiants_etats_unis_comportement_sexuel">Étudiants -- États-Unis -- Comportement sexuel</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adolescent_sex_and_love_addicts" isbn="0275946819">
+   <Title>Adolescent sex and love addicts</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Eric Griffin-Shelley</AuthorsText>
+   <PublisherText publisher_id="praeger">Westport, Conn. : Praeger, 1994.</PublisherText>
+   <Details dewey_decimal="616.85/83/00835" physical_description_text="vi, 171 p. : ill. ; 25 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="616.858300835" lcc_number="RJ506" change_time="2005-01-10T06:11:28" price_time="2005-09-22T07:02:06" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. [165]-167) and index.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="sex_addiction_in_adolescence">Sex addiction in adolescence</Subject>
+    <Subject subject_id="relationship_addiction_in_adolescence">Relationship addiction in adolescence</Subject>
+    <Subject subject_id="sex_addiction_in_adolescence_case_studies">Sex addiction in adolescence -- Case studies</Subject>
+    <Subject subject_id="relationship_addiction_in_adolescence_case_studies">Relationship addiction in adolescence -- Case studies</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adolescent_sex_offenders" isbn="0772611025">
+   <Title>Adolescent sex offenders</Title>
+   <TitleLong>Adolescent sex offenders: prevention, treatment and management: conference proceedings</TitleLong>
+   <AuthorsText>prepared by the Justice Institute of B. C</AuthorsText>
+   <PublisherText publisher_id="the_institute">Vancouver : The Institute, 1990.</PublisherText>
+   <Details dewey_decimal="364.1/53" physical_description_text="" language="eng" edition_info="12450" dewey_decimal_normalized="364.153" lcc_number="" change_time="2004-03-18T09:48:22" price_time="2005-11-17T10:02:16" />
+   <Summary></Summary>
+   <Notes>Conference held Nov. 6-8, 1989.
+
+"A joint national conference".</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="teenage_sex_offenders_congresses">Teenage sex offenders -- Congresses</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adolescent_sex_roles_and_social_change" isbn="0231057121">
+   <Title>Adolescent sex roles and social change</Title>
+   <TitleLong></TitleLong>
+   <AuthorsText>Lloyd B. Lueptow</AuthorsText>
+   <PublisherText publisher_id="columbia_university_press">New York : Columbia University Press, 1984.</PublisherText>
+   <Details dewey_decimal="" physical_description_text="xiv, 332 p. : ill. ; 24 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="" lcc_number="HQ796" change_time="2004-07-17T21:43:50" price_time="2005-06-09T16:59:58" />
+   <Summary></Summary>
+   <Notes>Includes indexes.
+
+Bibliography: p. [309]-322.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="youth_united_states_longitudinal_studies">Youth -- United States -- Longitudinal studies</Subject>
+    <Subject subject_id="adolescent_psychology_united_states_longitudinal_studies">Adolescent psychology -- United States -- Longitudinal studies</Subject>
+    <Subject subject_id="sex_role_united_states_longitudinal_studies">Sex role -- United States -- Longitudinal studies</Subject>
+    <Subject subject_id="sex_differences_psychology_longitudinal_studies">Sex differences (Psychology) -- Longitudinal studies</Subject>
+    <Subject subject_id="personality_longitudinal_studies">Personality -- Longitudinal studies</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adoption_forum" isbn="0967414512">
+   <Title>Adoption Forum</Title>
+   <TitleLong>Adoption Forum: Intimate Discussions to Unite the Triad in Healing</TitleLong>
+   <AuthorsText>Kasey Hamner, </AuthorsText>
+   <PublisherText publisher_id="triad_pub">Triad Pub</PublisherText>
+   <Details dewey_decimal="" physical_description_text="5.2&quot;x0.5&quot;x8.2&quot;; 272 pages; 0.7 lb" language="" edition_info="Paperback; 2002-08-10" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-18T08:57:12" price_time="1970-01-01T00:00:00" />
+   <Summary>"Adoption Forum" is a non-biased and comprehensive discussion book for all voices of adoption. It includes original poetry, interviews with Late Discovery Adoptees and those touched by Donor Insemination, and discussion of various timely topics in adoption. Some topics include same-sex adoptions, adoption remorse, relinquishment remorse, adoption synchronicity, birth family integration, adoption dissolution, and many more. Thanks to the Internet, Kasey was able to interview adoption community members from all over the world. All opinions are welcomed and included.</Summary>
+   <Notes></Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects></Subjects>
+  </BookData>
+  <BookData book_id="ads_fads_and_consumer_culture_a01" isbn="0742500314">
+   <Title>Ads, fads, and consumer culture</Title>
+   <TitleLong>Ads, fads, and consumer culture: advertising's impact on American character and society</TitleLong>
+   <AuthorsText>Arthur Asa Berger</AuthorsText>
+   <PublisherText publisher_id="rowman_littlefield">Lanham, Md. : Rowman &amp; Littlefield, c2000.</PublisherText>
+   <Details dewey_decimal="659.1/042/0973" physical_description_text="xv, 167 p. : ill. ; 24 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="659.10420973" lcc_number="HF5823" change_time="2005-03-18T14:57:50" price_time="2005-11-25T16:53:13" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 157-159)and index.
+
+Preface: I Stink, Therefore I Am -- Advertising in American Society -- Advertising as a Puzzlement -- Defining Advertising -- A Psycho-Cultural Perspective on Advertising -- Running It Up a Flagpole to See If Anyone Salutes -- Commercials as Mini-Dramas and Works of Art -- Teleculture -- Consumer Cultures -- A Cultural Critique of Advertising -- Consumer Cultures Defined -- Consumer Culture and Privatism -- Neiman Marcus and "Couthification" -- Needs Are Finite, Desires Are Infinite -- Mimetic Desire -- Advertising and the Communication Process -- The Lasswell Formula -- Focal Points and the Study of Media -- The Lasswell Formula and Focal Points -- A Problem with the Lasswell Formula -- Johnny Q. Public's Daily Media Diet -- Television Viewing and Exposure to Commercials -- Our All-Consuming Passion for Consuming -- The Price We Pay for "Free" Television -- Running It Up a Flagpole to See If Anyone Salutes -- Tiffany's Morning: A Fiction -- The Illusion of Control -- Being a "Branded" Individual -- Selling Oneself -- The Problem of Self-Alienation -- We Can Choose as We Please, But Can We Please as We Please? -- Sexuality and Advertising -- Sex in Advertising -- The Peach That Became a Prune: A Cautionary Fable -- The Pseudo-Poetic Appeal to the Illiterati -- Sex Sells Cigarettes -- The Case of Joe Camel -- Sex and the Problem of Clutter -- Political Advertising -- Kinds of Political Advertisements -- The 1998 California Primary: A "Virtual" Campaign for Governor -- "Experience Money Can't Buy." -- Questions Raised by the "Virtual" Campaign -- The Code of the Commercial (and Other Political Advertising) -- The Death of the Tobacco Bill -- The Marketing Society -- Statistics on Advertising -- More Comments on the Illusion of Freedom -- The Marketing View -- The VALS 1 Typology -- Using the VALS 1 Typology: A Case Study -- VALS 2: A Revision of the VALS 1 Typology -- Zip Codes and Kinds of Consumers -- Magazine Choice as an Indicator of Consumer Taste -- Types of Teenage Consumers -- A Typology for Everyone in the World -- A Comparison of the Different Typologies -- A Conclusion in the Form of a Question -- Analyzing Print Advertisements or: Six Ways of Looking at a Fidji Perfume Advertisement -- Lotman's Contributions to Understanding Texts -- What's There to Analyze in an Advertisement? -- Analyzing the Fidji Ad -- A Semiotic Interpretation of the Fidji Advertisement -- A Psychoanalytic Interpretation of the Fidji Advertisement -- A Sociological Interpretation of the Fidji Advertisement -- A Marxist Interpretation of the Fidji Advertisement -- The Myth Model and the Fidji Advertisement -- A Feminist Interpretation of the Fidji Advertisement -- Analyzing Television Commercials The Macintosh "1984" Commercial -- Analyzing Television Commercials -- A Synopsis of the Text -- George Orwell's 1984 and Ridley Scott's "1984" -- The Image of the Total Institution -- The Prisoners' Boots -- The Blond as Symbol -- The Brainwashing Scenario -- The Big Brother Figure -- The Brainwasher's Message -- The Big Explosion -- The Inmates' Response -- The Macintosh Announcement -- The Heroine as Mythic Figure -- Psychoanalytic Aspects of the Commercial -- The Blond as Mediator -- Alienated Proles -- The Big Blue -- A Clever Marketing Strategy -- The "1984" Commercial and a Bit of Scholarly Research.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="amazon_com_business_investing_general">Amazon.com -- Business &amp; Investing -- General</Subject>
+    <Subject subject_id="advertising_united_states">Advertising -- United States</Subject>
+    <Subject subject_id="amazon_com_business_investing_marketing_sales_advertising">Amazon.com -- Business &amp; Investing -- Marketing &amp; Sales -- Advertising</Subject>
+    <Subject subject_id="popular_culture_united_states">Popular culture -- United States</Subject>
+    <Subject subject_id="amazon_com_nonfiction_current_events_mass_media_general">Amazon.com -- Nonfiction -- Current Events -- Mass Media -- General</Subject>
+    <Subject subject_id="consumer_education_united_states">Consumer education -- United States</Subject>
+    <Subject subject_id="amazon_com_nonfiction_social_sciences_media_studies">Amazon.com -- Nonfiction -- Social Sciences -- Media Studies</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="ads_fads_and_consumer_culture_a02" isbn="0742500306">
+   <Title>Ads, fads, and consumer culture</Title>
+   <TitleLong>Ads, fads, and consumer culture: advertising's impact on American character and society</TitleLong>
+   <AuthorsText>Arthur Asa Berger</AuthorsText>
+   <PublisherText publisher_id="rowman_littlefield">Lanham, Md. : Rowman &amp; Littlefield, c2000.</PublisherText>
+   <Details dewey_decimal="659.1/042/0973" physical_description_text="xv, 167 p. : ill. ; 24 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="659.10420973" lcc_number="HF5823" change_time="2005-03-18T14:58:18" price_time="2005-11-27T19:15:49" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references (p. 157-159)and index.
+
+Preface: I Stink, Therefore I Am -- Advertising in American Society -- Advertising as a Puzzlement -- Defining Advertising -- A Psycho-Cultural Perspective on Advertising -- Running It Up a Flagpole to See If Anyone Salutes -- Commercials as Mini-Dramas and Works of Art -- Teleculture -- Consumer Cultures -- A Cultural Critique of Advertising -- Consumer Cultures Defined -- Consumer Culture and Privatism -- Neiman Marcus and "Couthification" -- Needs Are Finite, Desires Are Infinite -- Mimetic Desire -- Advertising and the Communication Process -- The Lasswell Formula -- Focal Points and the Study of Media -- The Lasswell Formula and Focal Points -- A Problem with the Lasswell Formula -- Johnny Q. Public's Daily Media Diet -- Television Viewing and Exposure to Commercials -- Our All-Consuming Passion for Consuming -- The Price We Pay for "Free" Television -- Running It Up a Flagpole to See If Anyone Salutes -- Tiffany's Morning: A Fiction -- The Illusion of Control -- Being a "Branded" Individual -- Selling Oneself -- The Problem of Self-Alienation -- We Can Choose as We Please, But Can We Please as We Please? -- Sexuality and Advertising -- Sex in Advertising -- The Peach That Became a Prune: A Cautionary Fable -- The Pseudo-Poetic Appeal to the Illiterati -- Sex Sells Cigarettes -- The Case of Joe Camel -- Sex and the Problem of Clutter -- Political Advertising -- Kinds of Political Advertisements -- The 1998 California Primary: A "Virtual" Campaign for Governor -- "Experience Money Can't Buy." -- Questions Raised by the "Virtual" Campaign -- The Code of the Commercial (and Other Political Advertising) -- The Death of the Tobacco Bill -- The Marketing Society -- Statistics on Advertising -- More Comments on the Illusion of Freedom -- The Marketing View -- The VALS 1 Typology -- Using the VALS 1 Typology: A Case Study -- VALS 2: A Revision of the VALS 1 Typology -- Zip Codes and Kinds of Consumers -- Magazine Choice as an Indicator of Consumer Taste -- Types of Teenage Consumers -- A Typology for Everyone in the World -- A Comparison of the Different Typologies -- A Conclusion in the Form of a Question -- Analyzing Print Advertisements or: Six Ways of Looking at a Fidji Perfume Advertisement -- Lotman's Contributions to Understanding Texts -- What's There to Analyze in an Advertisement? -- Analyzing the Fidji Ad -- A Semiotic Interpretation of the Fidji Advertisement -- A Psychoanalytic Interpretation of the Fidji Advertisement -- A Sociological Interpretation of the Fidji Advertisement -- A Marxist Interpretation of the Fidji Advertisement -- The Myth Model and the Fidji Advertisement -- A Feminist Interpretation of the Fidji Advertisement -- Analyzing Television Commercials The Macintosh "1984" Commercial -- Analyzing Television Commercials -- A Synopsis of the Text -- George Orwell's 1984 and Ridley Scott's "1984" -- The Image of the Total Institution -- The Prisoners' Boots -- The Blond as Symbol -- The Brainwashing Scenario -- The Big Brother Figure -- The Brainwasher's Message -- The Big Explosion -- The Inmates' Response -- The Macintosh Announcement -- The Heroine as Mythic Figure -- Psychoanalytic Aspects of the Commercial -- The Blond as Mediator -- Alienated Proles -- The Big Blue -- A Clever Marketing Strategy -- The "1984" Commercial and a Bit of Scholarly Research.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="advertising_united_states">Advertising -- United States</Subject>
+    <Subject subject_id="popular_culture_united_states">Popular culture -- United States</Subject>
+    <Subject subject_id="consumer_education_united_states">Consumer education -- United States</Subject>
+   </Subjects>
+  </BookData>
+  <BookData book_id="adult_mortality_in_developed_countries" isbn="0198233299">
+   <Title>Adult mortality in developed countries</Title>
+   <TitleLong>Adult mortality in developed countries: from description to explanation</TitleLong>
+   <AuthorsText>edited by Alan D. Lopez, Graziella Caselli, and Tapani Valkonen</AuthorsText>
+   <PublisherText publisher_id="clarendon_press">Oxford : Clarendon Press ; 1995.</PublisherText>
+   <Details dewey_decimal="304.6/4/091722" physical_description_text="xvi, 361 p. : ill., maps ; 24 cm." language="eng" edition_info="(acid-free paper)" dewey_decimal_normalized="304.64091722" lcc_number="HB1321" change_time="2004-02-19T17:40:50" price_time="2005-05-12T21:38:02" />
+   <Summary></Summary>
+   <Notes>Includes bibliographical references and indexes.
+
+Moving from description to explanation of adult mortality : issues and approaches / Alan D. Lopez, Graziella Caselli, and Tapani Valkonen -- Causal theories and models in the study of mortality / Evelyne Thiltgès, Josianne Duchêne, and Guillaume Wunsch -- Conceptual frameworks for the investigation of mortality from major cardio-vascular diseases / Robert Beaglehole -- Assessing mortality differentials using life histories : a method and applications / Mohamed Salhi ... [et al.] -- Suicide mortality in developed countries / Lado T. Ruzicka -- The lung cancer epidemic in developed countries / Alan D. Lopez -- Mortality and the position of women in developed countries / Constance A. Nathanson -- Contributions of biological and behavioural factors to changing sex differences in ischaemic heart disease mortality / Ingrid Waldron -- Can sex differentials in mortality be explained by socio-economic mortality differentials? / Jacques Vallin -- The association between unemployment and mortality : causation or selection? / Tapani Valkonen and Pekka Martikainen -- Socio-economic mortality differentials among adults in Sweden / Denny Vågerö and Olle Lundberg -- Social differentials in mortality : the Whitehall studies / Michael Marmot -- Regional differences in mortality from ischaemic heart disease in Finland / Seppo Koskinen -- Soci-economic and cultural determinants of regional mortality patterns in the Netherlands / Johan P. Mackenbach and Anton E. Kunst -- Policy-relevant health information : the Canadian experience in assessing socio-economic differentials in mortality / Russell Wilkins -- Setting objectives for preventable mortality and promoting healthful behaviours : experience from the United States / Michael A. Stoto.</Notes>
+   <UrlsText></UrlsText>
+   <AwardsText></AwardsText>
+   <Subjects>
+    <Subject subject_id="mortality_case_studies">Mortality -- Case studies</Subject>
+   </Subjects>
+  </BookData>
+ </BookList>
+</ISBNdb>

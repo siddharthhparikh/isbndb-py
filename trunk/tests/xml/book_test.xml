@@ -2,7 +2,7 @@
 
 <ISBNdb server_time="2005-12-13T17:59:08">
  <Args>
-  <Arg name="access_key" value="26CUOUG4" />
+  <Arg name="access_key" value="test" />
   <Arg name="index1" value="isbn" />
   <Arg name="results" value="subjects,texts,args,pricehistory,details,prices" />
   <Arg name="value1" value="0130206016" />

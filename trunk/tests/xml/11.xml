@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ISBNdb server_time="2005-12-20T19:13:51">
- <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <KeyStats granted="0" access_key="test" requests="0" limit="0" />
  <BookList total_results="8408" page_size="10" page_number="11" shown_results="10">
   <BookData book_id="affirmative_action_and_sex_discrimination_a01" isbn="0949138096">
    <Title>Affirmative action and sex discrimination</Title>

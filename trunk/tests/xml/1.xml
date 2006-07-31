@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ISBNdb server_time="2005-12-20T19:13:34">
- <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <KeyStats granted="0" access_key="test" requests="0" limit="0" />
  <BookList total_results="8408" page_size="10" page_number="1" shown_results="10">
   <BookData book_id="0_to_bitch_in_10_seconds_or_less" isbn="1402203829">
    <Title>0 to Bitch in 10 Seconds or Less</Title>

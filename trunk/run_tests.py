@@ -3,13 +3,13 @@ import sys
 sys.path.insert(0,'./tests/')
 
 import unittest
-import helpers_test,cursors_test,book_test,setup_xml,params_test,key_test
+import helpers_test,cursors_test,book_test,setup_xml,setup_keys,params_test,key_test
 import internet_tests
 
 
 #setup test input files:
 setup_xml.main()
-
+setup_keys.main()
 #add the tests
 s=unittest.TestSuite()
 s.addTest(helpers_test.suite())

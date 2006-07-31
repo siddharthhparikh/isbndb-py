@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ISBNdb server_time="2005-12-20T19:13:55">
- <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <KeyStats granted="0" access_key="test" requests="0" limit="0" />
  <BookList total_results="8408" page_size="10" page_number="14" shown_results="10">
   <BookData book_id="aids_drugs_and_prostitution_a01" isbn="0415041090">
    <Title>AIDS, drugs, and prostitution</Title>

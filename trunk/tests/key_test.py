@@ -62,7 +62,7 @@ class TestKeyFuncs(unittest.TestCase):
     def test_loadKeys(self):
         print "Testing loadKeys() with a test_file...",
         keys.loadKeys(prependdir+'xml/keys')
-        t = ['26CUOUG4','foo']
+        t = [KEY,'foo']
         self.assertEqual(t, keys._KEYS, 'FAILED (loadkeys)')
         self.assert_(not keys._KEYS[-1].active, 'FAILED (bad key active)')
         print "OK"
@@ -111,7 +111,7 @@ class TestKeyFuncs(unittest.TestCase):
         print 'good key...',
         good=keys.addKey(KEY)
         self.assert_(good, 'FAILED (wrong return type on good key)')
-        self.assert_('26CUOUG4' in keys._KEYS, 'FAILED (didnt add good key)')
+        self.assert_(KEY in keys._KEYS, 'FAILED (didnt add good key)')
         print 'bad key ...',
         bad = keys.addKey('foo')
         self.assert_(not bad, "FAILED (wront return type on bad key)")

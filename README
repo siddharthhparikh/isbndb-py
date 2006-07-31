@@ -1,0 +1,47 @@
+isbndb module
+-------------------------------------------------------------------------------
+Author: Erich Heine (sophacles@gmail.com)
+Date: 12-23-2005
+
+The isbndb module is a python interface to the remote api for book searches
+provided by isbndb.com. It allows for quick pythonic access to database without
+having to deal with parsing or other annoyances.
+
+I have set a project page up on google code (code.google.com/p/isbndb-py/)
+SVN access: http://isbndb-py.googlecode.com/svn/trunk
+
+The google project was set up on 7-30-2006. It is the first public hosting of 
+this project.
+This code is released under the GNU Lesser Public License.
+
+Requirements
+-------------
+This module is written and tested for python 2.3.5. Presumably it should work
+for all python 2.3 and greater releases. The only other requirement for this
+package to work is ElementTree. Many linux distros provide packages, the main
+website for ElementTree is: http://effbot.org/zone/element-index.htm
+*I sugges you also look into cElementTree, it provides something like a 200%
+ speed-up in my tests.
+ 
+Basic Idea
+----------
+The isbndb module is written to be as pythonic as possible. There are two
+different classes to work with: IsbndbGetter and ResultCursor.  IsbndbGetter
+objects return ResultCursor objects.  Initial search conditions are set in
+IsbndbGetter, and then passed on to the ResultCursor so the search is the same
+when accessing further result pages (Read up on the isbndb api).  ResultCursor
+behaves like a python sequence as much as possible. ResultCursor deals pages of
+returns (each index holds a sequence).
+
+
+Stuff (notes etc):
+---------------------
+--Caching needs to be fixed, turned off.
+--Please supply your own key. its easy to get one. the key needs to be the 
+  contents of a file in tests called .isbndbkey 
+--The lib defaults to a file in the homedir called .isbndbkeys for it keyfile. 
+  this should be created to use it. It can be done with the keys api pretty 
+  easily. Hopefully better docs and setup scripts coming soon...
+--If anyone wants to write some docs it would be great...
+--if you send a bugfix and/or modification, please include test_code for it.
+--Since the initial authoring of this, isbndb.com has added to thier api. This should still work, but now does not provide full access to the funtionality provided.

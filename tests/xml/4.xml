@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ISBNdb server_time="2005-12-20T19:13:39">
- <KeyStats granted="0" access_key="26CUOUG4" requests="0" limit="0" />
+ <KeyStats granted="0" access_key="test" requests="0" limit="0" />
  <BookList total_results="8408" page_size="10" page_number="4" shown_results="10">
   <BookData book_id="21st_century_kinkycrafts" isbn="1890159581">
    <Title>21st Century Kinkycrafts</Title>

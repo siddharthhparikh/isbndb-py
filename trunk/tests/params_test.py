@@ -1,7 +1,7 @@
 if __name__ == "__main__":
     import sys
     sys.path.insert(0,'..')
-    
+
 import unittest
 import isbndb.internet as isbndb
 import isbndb.keys as keys
@@ -9,13 +9,13 @@ import isbndb.keys as keys
 from isbndbkey import KEY
 
 class TestParams(unittest.TestCase):
-    
+
     def setUp(self):
         print "\nTestParams:",
         self.access_key = keys.Key(KEY)
         self.testobj = isbndb.params()
-        
-    
+
+
     def test_key(self):
         print "Testing key stuff...",
         self.testobj.key = self.access_key
@@ -50,7 +50,7 @@ class TestParams(unittest.TestCase):
         self.testobj.results = n
         self.assertEquals(self.testobj.results, n, "FAILED (list)")
         print "OK"
-    
+
     def test_resultsDropsArgs(self):
         print "Testing results drops args quietly...",
         self.testobj.results = ['keystats','details','args']
@@ -74,7 +74,7 @@ class TestParams(unittest.TestCase):
         self.testobj.pageNum = None
         self.assertEqual(self.testobj.pageNum,None, 'FAILED (PageNum not None)')
         print "OK"
-    
+
     def test_uri(self):
         print "Testing url construction...",
         import urllib

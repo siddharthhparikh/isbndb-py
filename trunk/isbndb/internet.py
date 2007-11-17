@@ -16,9 +16,9 @@ class params(object):
                       'book_id', 'person_id', 'subject_id')
     _ok_results = ('args','texts','details','prices','pricehistory',\
                     'subjects','keystats')
-    
+
     def __init__(self):
-        self.__access_key = None 
+        self.__access_key = None
         self.results = []
         self.searchValue = ''
         self.searchIndex = 'isbn'
@@ -70,7 +70,7 @@ class params(object):
             val.append('keystats')
         self.__results = LimitList(val, self._ok_results)
     results = property(_get_results,_set_results)
-    
+
     #PROPERTY: pageNum
     def _get_pageNum(self):
         return self.__pn
@@ -79,7 +79,7 @@ class params(object):
         if val == None:
             self.__pn = val
             return
-            
+
         try:
             val = int(val)
         except:
@@ -89,7 +89,7 @@ class params(object):
             raise ValueError, "pageNum must be greater than 1"
         self.__pn = val
     pageNum = property(_get_pageNum, _set_pageNum)
-    
+
     #PROPERTY: key
     def _get_key(self):
         return self.__access_key

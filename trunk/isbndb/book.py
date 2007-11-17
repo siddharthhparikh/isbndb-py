@@ -18,7 +18,7 @@ class IsbndbBook(object):
         def __init__(self,elem):
             self.subject_id = elem.get('subject_id')
             self.subject = elem.text
-            
+
     class Price:
         def __init__(self,elem):
             for name,value in elem.items():
@@ -33,18 +33,18 @@ class IsbndbBook(object):
                     setattr(self,name,int(value))
                 else:
                     setattr(self,name,value)
-                    
+
     def __init__(self, elem):
         if elem.tag != 'BookData':
             raise ValueError, "IsbndbBook needs to be a BookData ElementTree"
         self.subjects=[]
         self.prices=[]
-        
+
         for x in elem.getiterator():
             self.__addelem(x)
-        
+
         #NOTE: for short title names isbndb doesnt give a value for title long,
-        #i think TitleLong should be the same as Title in that case, so thats 
+        #i think TitleLong should be the same as Title in that case, so thats
         #what this is about. change it if you dont want this behavior.
         if not self.TitleLong:
             self.TitleLong=self.Title
@@ -65,16 +65,10 @@ class IsbndbBook(object):
             setattr(self,tname,text)
             for x in elem.items():
                 setattr(self,x[0],x[1].strip())
-                
+
     def __addsubject(self,elem):
         self.subjects.append(self.Subject(elem))
-        
+
     def __addprice(self,elem):
         self.prices.append(self.Price(elem))
-        
-if __name__ == '__main__':
-    import sys
-    x = IsbndbGetter()
-    x.searchType = sys.argv [1]
-    x.searchValue = ' '.join(sys.argv[2:])
-    print x.search()
+

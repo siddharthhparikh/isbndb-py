@@ -2,12 +2,13 @@
 
 import unittest
 from isbndb.helpers import *
+
 class LimitListTester(unittest.TestCase):
     def setUp(self):
         print "\nLimitListTester:",
         tv = ('foo','bar','baz','things','stuff','yellow','red','green',\
               'blue','purple','aces','web','books','isbn','stuff')
-              
+
         self.l = LimitList(ok=tv)
         self.tv = tv
 
@@ -44,7 +45,7 @@ class LimitListTester(unittest.TestCase):
         self.assertEqual(n, self.l,"FAILED, not equal")
         self.failIf(n is self.l, "FAILED, same object")
         print "OK"
-       
+
     def test_add(self):
         print "Testing adds good...",
         self.l += ['red','aces']
@@ -56,6 +57,6 @@ def suite():
     suite = unittest.TestSuite()
     suite.addTest(unittest.makeSuite(LimitListTester, 'test'))
     return suite
-    
+
 if __name__=='__main__':
     unittest.main()

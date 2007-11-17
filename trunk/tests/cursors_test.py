@@ -4,7 +4,7 @@ if __name__=='__main__':
     prependdir = ''
 else:
     prependdir = 'tests/'
-    
+
 from isbndb import PageCursor, PyPageCursor, BookCursor, PyBookCursor
 from isbndb.book import IsbndbBook
 import unittest,urllib
@@ -16,7 +16,7 @@ except:
 class fauxParams(object):
     def __init__(self):
         self.pageNum = 1
-        
+
 def fauxFetch(params):
     """This is a simple fetch for testing cursor functionality"""
     f = open(prependdir+'xml/%s.xml'%params.pageNum)
@@ -27,19 +27,19 @@ def fauxFetch(params):
         return r
     else:
         raise Exception, 'not getting a page...'
-        
+
 class cursorTestsMixin(object):
     def setUp(self):
         a = fauxParams()
         self.cursor = self.cursor_type(a,fauxFetch(a))
         self.cursor.get = fauxFetch
-    
+
     def validateSlice(self,li):
         for x in li:
             if not self.validateResult(x):
                 return False
         return True
-        
+
     def test_numbers(self):
         print "Test that everything parses right...",
         self.assertEqual(self.cursor.totalBooks, 8408, "FAILED (totalBooks)")
@@ -82,7 +82,7 @@ class pageMixin(cursorTestsMixin):
         self.start_index = 4
         self.stop_index = 13
         cursorTestsMixin.setUp(self)
-        
+
     def validateResult(self, r):
         if not isinstance(r, list):
             return False
@@ -96,7 +96,7 @@ class bookMixin(cursorTestsMixin):
 
     def validateResult(self,r):
         return self.check_type(r)
-        
+
 class elementMixin(object):
     def check_type(self, c):
         return ElementTree.iselement(c)
@@ -116,7 +116,7 @@ class TestPyPageCursor(unittest.TestCase,pageMixin, pyMixin):
         print "\nTestPyPageCursor:",
         self.cursor_type = PyPageCursor
         pageMixin.setUp(self)
-        
+
 class TestBookCursor(unittest.TestCase,bookMixin,elementMixin):
     def setUp(self):
         print "\nTestBookCursor:",
@@ -129,7 +129,7 @@ class TestPyBookCursor(unittest.TestCase,bookMixin,pyMixin):
         self.cursor_type = PyBookCursor
         bookMixin.setUp(self)
 
-        
+
 def suite():
     suite = unittest.TestSuite()
     suite.addTest(unittest.makeSuite(TestPageCursor,'test'))

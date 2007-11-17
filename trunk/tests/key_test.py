@@ -4,7 +4,7 @@ if __name__ == '__main__':
     prependdir = ''
 else:
     prependdir = 'tests/'
-    
+
 import unittest
 
 try:
@@ -17,7 +17,7 @@ from isbndbkey import KEY
 class fauxKey(str):
     def __init__(self,key):
         self.active = True
-        
+
 class TestKeyObject(unittest.TestCase):
     def setUp(self):
         print '\nTestKeyConstructor:',
@@ -33,7 +33,7 @@ class TestKeyObject(unittest.TestCase):
         self.assert_(isinstance(self.key.limit, int), 'FAILED (limit)')
         self.assert_(self.key.active ==True, 'FAILED (made inactive key)')
         print 'OK'
-    
+
     def test_badKey(self):
         print "Testing construction with bad key...",
         self.assertRaises(ValueError, keys.Key, self.bad_key)
@@ -42,7 +42,7 @@ class TestKeyObject(unittest.TestCase):
         self.assertEqual(x, self.bad_key, "FAILED (didnt make the bad key)")
         self.assert_(x.active == False, "FAILED (made bad key active)")
         print "OK"
-    
+
     def test_update(self):
         print "Testing the update function...",
         self.key = keys.Key(self.good_key)
@@ -53,7 +53,7 @@ class TestKeyObject(unittest.TestCase):
         self.assertEqual(self.key.granted, 45, 'FAILED (update granted)')
         self.assertEqual(self.key.limit, 0, 'FAILED (update limit)')
         print "OK"
-        
+
 class TestKeyFuncs(unittest.TestCase):
     def setUp(self):
         print "\nTestKeyFuncs:",
@@ -66,7 +66,7 @@ class TestKeyFuncs(unittest.TestCase):
         self.assertEqual(t, keys._KEYS, 'FAILED (loadkeys)')
         self.assert_(not keys._KEYS[-1].active, 'FAILED (bad key active)')
         print "OK"
-    
+
     def test_loadKeysSetsFile(self):
         print "Testing that loadKeys sets the KEYFILE global...",
         keys.loadKeys(prependdir+'xml/keys')
@@ -96,7 +96,7 @@ class TestKeyFuncs(unittest.TestCase):
         keys._KEYS[0].active = True
         self.assertEqual(keys.getKey(),'stuff',"FAILED (Reactivating)")
         print "OK"
-    
+
     def test_getKeyReturnsNoneOnOutOfKeys(self):
         print "Testing getKey() returns none on no keys...",
         keys._KEYS = [fauxKey('foo'),fauxKey('bar')]
@@ -123,7 +123,7 @@ class TestKeyFuncs(unittest.TestCase):
         self.assert_(keys._KEYS[keys._KEYS.index('foo')].active == False,
                      "FAILED (didnt make bad key inactive)")
         print "OK"
-    
+
     def test_saveKeys(self):
         import os, os.path
         print "Testing SaveKeys...",
@@ -140,8 +140,8 @@ class TestKeyFuncs(unittest.TestCase):
         self.assert_(os.path.exists(kf), "FAILED (kf doesnt exits)")
         self.assert_(x == keys._KEYS, "FAILED (didnt save right)")
         print "OK"
-        
-        
+
+
 def suite():
     s = unittest.TestSuite()
     s.addTest(unittest.makeSuite(TestKeyObject, 'test'))

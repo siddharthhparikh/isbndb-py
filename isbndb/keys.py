@@ -8,7 +8,7 @@ __all__ = ['getKey']
 
 _KEYFILE = ''
 _KEYS = []
-    
+
 def addKey(key,force_=False):
     try:
         k = Key(key, force_)
@@ -16,7 +16,7 @@ def addKey(key,force_=False):
         return False
     _KEYS.append(k)
     return True
-    
+
 def getKey():
     for x in _KEYS:
         if x.active:
@@ -38,7 +38,7 @@ def loadKeys(fname=None):
             _KEYS.append(Key(x.text))
         except:
             _KEYS.append(Key(x.text, force_=True))
-    
+
 def saveKeys():
     if not _KEYFILE:
         raise Exception, 'No _KEYFILE'
@@ -56,10 +56,11 @@ def saveKeys():
 #        KEY = Key(k)
 #    except:
 #        raise
-        
+
 class Key(str):
     def __new__(cls, key, force_=False):
         return str.__new__(cls,key)
+
     def __init__(self, key, force_=False):
         #didn't i read somwhere that variable reuse is bad like this? :)
         x = 'http://isbndb.com/api/books.xml?access_key=%s&index1=isbn'
@@ -80,7 +81,7 @@ class Key(str):
         y = y.find('KeyStats')
         self.granted = int(y.get('granted'))
         self.limit = int(y.get('limit'))
-        
+
     def update(self, elem):
         self.granted = int(elem.get('granted'))
         self.limit = int(elem.get('limit'))

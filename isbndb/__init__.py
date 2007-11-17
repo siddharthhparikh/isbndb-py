@@ -9,7 +9,7 @@ from internet import fetch, params
 #from keys import Keys
 
 #IsbndbSearch function, a factory that makes cursors. Also does silly things,
-#like makes search way easy... 
+#like makes search way easy...
 def IsbndbSearch(searchValue='', searchIndex='',\
                    results=[], key='', p=None, cursor=PyBookCursor):
     if not p and not searchValue:
@@ -25,7 +25,7 @@ def IsbndbSearch(searchValue='', searchIndex='',\
         if results: p.results = results
         if searchValue: p.searchValue = searchValue
         if searchIndex: p.searchIndex = searchIndex
-    
+
     while True:
         try:
             x = fetch(p)

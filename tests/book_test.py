@@ -6,7 +6,7 @@ try:
     import cElementTree as ElementTree
 except:
     from elementtree import ElementTree
-    
+
 from isbndb.book import IsbndbBook
 
 class Comparer(object):
@@ -34,7 +34,7 @@ class Comparer(object):
         self.is_new = 0
         self.currency_rate='1'
         self.price = 45.33
-        
+
 class IsbndbBookTest(unittest.TestCase):
     def setUp(self):
         #This uses a canned file so that im not dealing with changed values to
@@ -46,7 +46,7 @@ class IsbndbBookTest(unittest.TestCase):
         elem = elem.find('BookData')
         self.book = IsbndbBook(elem)
         self.comparer = Comparer()
-    
+
     def test_basicFunc(self):
         print 'Testing basic constructor functionality...',
         c = self.assertEqual
@@ -65,7 +65,7 @@ class IsbndbBookTest(unittest.TestCase):
         self.assert_(len(self.book.prices) == 27, 'FAILED (wrong # of prices)\n%s,%s'%(len(self.book.prices),27))
         self.assert_(len(self.book.subjects) == 2, 'FAILED (wrong # of subs)')
         print "OK"
-    
+
     def test_priceContstuctor(self):
         print 'Testing that the price is right...',
         fs = 'FAILED (bad %s)'
@@ -94,7 +94,7 @@ class IsbndbBookTest(unittest.TestCase):
             +' Operating Systems -- Unix -- Administration', \
             'FAILED (subject)\ntv:%s'%x.subject)
         print "OK"
-    
+
     def test_titleBehavior(self):
         print "Testing Title and TitleLong match if no TitleLong given...",
         xmlstr =\

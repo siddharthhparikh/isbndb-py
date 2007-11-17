@@ -1,5 +1,5 @@
 #So in a fun departure from the rest of the basic naming scheme going on
-#with these tests, I dont have params tests in here, even tho they are in the 
+#with these tests, I dont have params tests in here, even tho they are in the
 #internet module. you know. fun stuff.
 
 if __name__=='__main__':
@@ -13,9 +13,10 @@ except:
 
 import unittest
 from isbndb.cursors import PageCursor, PyPageCursor, BookCursor, PyBookCursor
-from isbndb.internet import params, fetch 
+from isbndb.internet import params, fetch
 from isbndb.keys import getKey, loadKeys, Key
 from isbndb import IsbndbSearch
+
 #set up keys...
 loadKeys()
 
@@ -29,12 +30,12 @@ class ParamSetupMixin(object):
         self.p.results = ['texts','details','subjects']
         self.p.searchValue = 'sex'
         self.p.key = self.key
-        
+
 class TestFetch(unittest.TestCase,ParamSetupMixin):
-    def setUp(self):    
+    def setUp(self):
         print "\nTestFetch:",
         ParamSetupMixin.setUp(self)
-    
+
 
     def test_fetchReturnType(self):
         print "Testing return type is an Element and BookList...",
@@ -56,7 +57,7 @@ class TestIsbndbSearch(unittest.TestCase, ParamSetupMixin):
     def setUp(self):
         print "\nTestIsbndbSearch:",
         ParamSetupMixin.setUp(self)
-    
+
     def test_searchWorksWithParams(self):
         print "Testing that a params obj works with search...",
         print "with key...",
@@ -66,7 +67,7 @@ class TestIsbndbSearch(unittest.TestCase, ParamSetupMixin):
         p = params()
         p.searchIndex = 'full'
         p.searchValue = 'sex'
-        
+
         x = IsbndbSearch(p=p)
         self.assert_(isinstance(x,PyBookCursor), "FAILED (didnt assign key)")
         print "OK"
@@ -89,10 +90,12 @@ class TestIsbndbSearch(unittest.TestCase, ParamSetupMixin):
         x = IsbndbSearch(p=self.p, cursor = PyPageCursor)
         self.assert_(isinstance(x, PyPageCursor),"FAILED (didnt change cursor)")
         print "OK"
+
 def suite():
     s = unittest.TestSuite()
     s.addTest(unittest.makeSuite(TestFetch,'test'))
     s.addTest(unittest.makeSuite(TestIsbndbSearch,'test'))
     return s
+
 if __name__ == '__main__':
     unittest.main()

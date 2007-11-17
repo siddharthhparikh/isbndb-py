@@ -15,7 +15,7 @@ def make_xml():
 
     return
 
-    
+
 def main():
     if not check_xml():
         make_xml()

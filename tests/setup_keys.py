@@ -1,4 +1,5 @@
 import os
+import ElementTree
 from isbndbkey import KEY
 
 def make_keyfiles():
@@ -6,7 +7,7 @@ def make_keyfiles():
     y = ElementTree.Element('key')
     y.text = KEY
     x.append(y)
-    y = ElmentTree.Element('key')
+    y = ElementTree.Element('key')
     y.text = 'foo'
     x.append(y)
     b = ElementTree.ElementTree(x)

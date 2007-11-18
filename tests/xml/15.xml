@@ -1,171 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ISBNdb server_time="2005-12-20T19:13:57">
- <KeyStats granted="0" access_key="test" requests="0" limit="0" />
- <BookList total_results="8408" page_size="10" page_number="15" shown_results="10">
-  <BookData book_id="alejandro_morales" isbn="0927534606">
-   <Title>Alejandro Morales</Title>
-   <TitleLong>Alejandro Morales: fiction past, present, future perfect</TitleLong>
-   <AuthorsText>edited by José Antonio Gurpegui</AuthorsText>
-   <PublisherText publisher_id="bilingual_review_press">Tempe, Ariz. : Bilingual Review/Press, c1996.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="114 p. : ill. ; 26 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="" lcc_number="PS3563" change_time="2004-08-24T04:24:12" price_time="2005-12-01T15:55:28" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 109-114)
+<ISBNdb server_time="2007-11-18T00:05:24Z">
+<KeyStats granted="50" access_key="26CUOUG4" requests="50" limit="100" />
+<BookList total_results="14655" page_size="10" page_number="15" shown_results="10">
+<BookData book_id="actresses_and_whores_a01" isbn="0521833418">
+<Title>Actresses and whores</Title>
+<TitleLong>Actresses and whores: on stage and in society</TitleLong>
+<AuthorsText>Kirsten Pullen</AuthorsText>
+<PublisherText publisher_id="cambridge_university_press">Cambridge ; Cambridge University Press, 2005.</PublisherText>
+<Details dewey_decimal="792.02/092273" physical_description_text="xii, 215 p. : ill. ; 24 cm." language="eng" edition_info="(hardback)" dewey_decimal_normalized="792.02092273" lcc_number="PN1590" change_time="2007-07-17T22:24:39Z" price_time="2007-09-19T09:53:40Z" />
+<Summary>"The categories of 'whore' and "'ctress' have overlapped over centuries. Actresses are assumed to be sexually available and promiscuous, and prostitutes are assumed to perform for their clients. Employing historical biographies as well as interviews with contemporary sex workers, this book compares actresses and prostitutes from Nell Gwynne to Mae West. Ranging from the seventeenth century to the present, Kirsten Pullen offers many new insights to theater historians and scholars of cultural, social and gender studies."--Publisher's description.</Summary>
+<Notes>Includes bibliographical references (p. 195-212) and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_arts_photography_performing_arts_theater_stagecra">Amazon.com -- Arts &amp; Photography -- Performing Arts -- Theater -- Stagecraft</Subject>
+<Subject subject_id="actors_and_actresses_united_states_social_conditions">Actors and actresses -- United States -- Social conditions</Subject>
+<Subject subject_id="actresses_united_states_social_conditions">Actresses -- United States -- Social conditions</Subject>
+<Subject subject_id="actors_and_actresses_great_britain_social_conditions">Actors and actresses -- Great Britain -- Social conditions</Subject>
+<Subject subject_id="actresses_great_britain_social_conditions">Actresses -- Great Britain -- Social conditions</Subject>
+<Subject subject_id="amazon_com_nonfiction_social_sciences_gender_studies_general">Amazon.com -- Nonfiction -- Social Sciences -- Gender Studies -- General</Subject>
+<Subject subject_id="amazon_com_nonfiction_social_sciences_sociology_general">Amazon.com -- Nonfiction -- Social Sciences -- Sociology -- General</Subject>
+<Subject subject_id="prostitutes_united_states_social_conditions">Prostitutes -- United States -- Social conditions</Subject>
+<Subject subject_id="prostitutes_great_britain_social_conditions">Prostitutes -- Great Britain -- Social conditions</Subject>
+<Subject subject_id="feminism_and_theater_united_states_history">Feminism and theater -- United States -- History</Subject>
+<Subject subject_id="feminism_and_theater_great_britain_history">Feminism and theater -- Great Britain -- History</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="acts_of_abuse" isbn="0415073723">
+<Title>Acts of abuse</Title>
+<TitleLong>Acts of abuse: sex offenders and the criminal justice system</TitleLong>
+<AuthorsText>Adam Sampson</AuthorsText>
+<PublisherText publisher_id="routledge">London ; Routledge, 1994.</PublisherText>
+<Details dewey_decimal="364.1/53/092241" physical_description_text="xiv, 141 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="364.153092241" lcc_number="HQ72" change_time="2003-11-12T09:16:23Z" price_time="2007-01-09T05:28:22Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references (p. [126]-137) and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="sex_offenders_great_britain">Sex offenders -- Great Britain</Subject>
+<Subject subject_id="criminal_justice_administration_of_great_britain">Criminal justice, Administration of -- Great Britain</Subject>
+<Subject subject_id="sex_offenders">Sex offenders</Subject>
+<Subject subject_id="great_britain">Great Britain</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="acts_of_abuse_a01" isbn="0415073731">
+<Title>Acts of abuse</Title>
+<TitleLong>Acts of abuse: sex offenders and the criminal justice system</TitleLong>
+<AuthorsText>Adam Sampson</AuthorsText>
+<PublisherText publisher_id="routledge">London ; Routledge, 1994.</PublisherText>
+<Details dewey_decimal="364.1/53/092241" physical_description_text="xiv, 141 p. ; 23 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="364.153092241" lcc_number="HQ72" change_time="2003-11-12T09:16:28Z" price_time="2007-11-04T22:41:19Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references (p. [126]-137) and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="sex_offenders_great_britain">Sex offenders -- Great Britain</Subject>
+<Subject subject_id="criminal_justice_administration_of_great_britain">Criminal justice, Administration of -- Great Britain</Subject>
+<Subject subject_id="sex_offenders">Sex offenders</Subject>
+<Subject subject_id="great_britain">Great Britain</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="acts_of_faith_acts_of_love_a01" isbn="0826418368">
+<Title>Acts of Faith, Acts of Love</Title>
+<TitleLong>Acts of Faith, Acts of Love: Gay Catholic Autobiographies As Sacred Texts</TitleLong>
+<AuthorsText>Dugan McGinley, </AuthorsText>
+<PublisherText publisher_id="continuum_international_pu_a02">Continuum International Publishing Group</PublisherText>
+<Details dewey_decimal="291" physical_description_text="246 pages" language="" edition_info="Paperback; 2006-05-31" dewey_decimal_normalized="291" lcc_number="" change_time="2007-04-06T01:09:08Z" price_time="2007-04-14T21:06:42Z" />
+<Summary>In Acts of Faith, Acts of Love, McGinely explores the overlap of religious and sexual identities in the stories gay men write about themselves. The autobiographical writings of forty gay Catholics (or once Catholics) are analysed. The work is both literary and theological on the premise that experience constitutes one of the four sources of theological reflection, along with scripture, tradition, and reason. "This is an important contribution to the ongoing discussion of the intersection of homosexuality and religion. McGinley presents a scholarly, well-documented discussion of the integration of sexuality and identity, as well as of the theoretical issues of moral agency and narrative form. He complements this discussion with a sensitive exploration of patterns and themes in contemporary autobiographical writings by 40 gay Catholics (or former Catholics)… . This book resounds with the authenticity and integrity of personal narrative and academic critique. Highly recommended.” -Library Journal “Our newspapers and churches are filled with questions about gay rights, same-sex marriage and gay/lesbian adoption. What we may miss is the human face of the debate. In this regard, McGinley has done a great service, assembling and analyzing forty gay Catholic autobiographies. Some excerpts are funny, others heart-breaking; all attempt to save lives. They are acts of courage and sacred texts because they save not only the author, but also other gay Catholics for whom following church teaching ‘led not to virtue but to pathology.’” -Human Development</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="act_of_marriage_after_40_the" isbn="0310231140">
+<Title>Act of Marriage After 40, The</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Tim LaHaye, Beverly LaHaye, Mike Yorkey</AuthorsText>
+<PublisherText publisher_id="zondervan_publishing_company">Zondervan Publishing Company</PublisherText>
+<Details dewey_decimal="" physical_description_text="5.8&quot;x8.9&quot;x1.0&quot;; 272 pages; 0.9 lb" language="" edition_info="Hardcover; 2000-10-01" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-21T07:58:02Z" price_time="2007-05-24T06:34:14Z" />
+<Summary>The Act of Marriage After 40: Making Love for Life by Tim and Beverly LaHaye with Mike Yorkey is a practical, no-nonsense guidebook that will teach married couples to have a more satisfying sex life in middle age and beyond. A follow-up to their successful Act of Marriage, the topics covered in this book are based on the results of a comprehensive survey investigating the sexual issues that are most important to older Christian couples. Although the LaHayes say their research indicates that "the frequency of sex is reduced by advancing age," they make a convincing case for their belief that "the meaning of the act of marriage can be enriching, more satisfying even with the passage of years." Each chapter of the book explores topics such as menopause, erectile dysfunction, breast cancer, prostate cancer, and the temptation of extramarital affairs. The LaHayes also provide a number of strategies for jump-starting stalled sex lives. Some of these strategies are atmospheric (men will learn that "items that stir a woman's senses are a bouquet of flowers, a bowl of fresh fruit, or 100-gram bars of Swiss chocolate (chocolate has been known for its aphrodisiac qualities for centuries)." Other strategies are more technical. (Various sexual positions are described, and although the LaHayes "do not personally recommend or advocate oral sex," they "see no biblical grounds to preclude two married people from enjoying the practice.") The Act of Marriage is a passionate exploration of an important subject, and its advice will help many married couples practice sexual faithfulness to one another as an expression of Christian faith. --Paul Power</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_health_mind_body_relationships_marriage">Amazon.com -- Health, Mind &amp; Body -- Relationships -- Marriage</Subject>
+<Subject subject_id="amazon_com_health_mind_body_sex_general">Amazon.com -- Health, Mind &amp; Body -- Sex -- General</Subject>
+<Subject subject_id="amazon_com_religion_spirituality_christianity_christia_aaaa3">Amazon.com -- Religion &amp; Spirituality -- Christianity -- Christian Living -- Relationships -- Marriage</Subject>
+<Subject subject_id="amazon_com_religion_spirituality_authors_a_z_l_lahaye_tim_ge">Amazon.com -- Religion &amp; Spirituality -- Authors, A-Z -- ( L ) -- Lahaye, Tim -- General</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="ac_dc_maximum_rock_roll" isbn="0061133914">
+<Title>AC/DC: Maximum Rock &amp; Roll</Title>
+<TitleLong>AC/DC: Maximum Rock &amp; Roll: The Ultimate Story of the World's Greatest Rock-and-Roll Band</TitleLong>
+<AuthorsText>Murray Engleheart, Arnaud Durieux, </AuthorsText>
+<PublisherText publisher_id="harperentertainment">HarperEntertainment</PublisherText>
+<Details dewey_decimal="781" physical_description_text="496 pages" language="" edition_info="Hardcover; 2007-01-01" dewey_decimal_normalized="781" lcc_number="" change_time="2007-01-03T14:03:06Z" price_time="2007-11-15T01:56:46Z" />
+<Summary>Over three decades and more than 150 million albums, AC/DC has established itself as much more than just a great rock band. For millions of fans spanning several generations across the world, they are an ear-bleedingly loud, sweat-soaked religion, courtesy of such classic albums as Highway to Hell and Back in Black. Now, in a book of astonishing breadth and scope, comes, for the very first time, the complete story of AC/DC. Everything you ever wanted to know and plenty more you never dreamt of is all here, the ultimate balls-out adventure, laced with sex, drunken escapades and brawls. It's a journey that started in the suburban Sydney, Australia, bedrooms of brothers Malcolm and Angus Young, boys who could wreak havoc with their guitars. Over their power chords were the lyrics and voice of Bon Scott, who would lead them higher and higher—until his tragic death in 1980. The bittersweet irony after his death was that not only did the Youngs manage to hold together without him, but the band's fortunes and status skyrocketed with his replacement, Brian Johnson, and the album Back in Black. Five long years in the making, AC/DC: Maximum Rock &amp; Roll is sourced from more than 1,300 interviews the band has given over the past thirty years combined with in excess of 75 of the authors' own interviews with those who worked with AC/DC both in the studio and on the road—many of whom have never spoken about the band publicly. It's topped off with stunning, never-before-seen photos to create the ultimate portrait of the ultimate rock band.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="adamu_luciferian_tantra_and_sex_magick" isbn="1411690656">
+<Title>ADAMU - Luciferian Tantra and Sex Magick</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Michael, W. Ford, </AuthorsText>
+<PublisherText publisher_id="lulu_com">Lulu.com</PublisherText>
+<Details dewey_decimal="291" physical_description_text="200 pages" language="" edition_info="Paperback; 2006-05-15" dewey_decimal_normalized="291" lcc_number="" change_time="2006-09-20T02:41:59Z" price_time="2007-10-10T04:33:48Z" />
+<Summary>ADAMU is a grimoire of Luciferian Tantra. This path is of the exploration of the dark recesses of the Mind and Spirit, transforming the self into a vessel of Divinity, the Daemonic itself. Found in ADAMU are foundation rituals and theory of Luciferian Sex Magick, the Forbidden Art of transforming consciousness and body into a Temple of the Adversarial Spirit, being Samael and Lilith, to initiate the self and become a part of the divine by awakening the symbol of Cain, the First Satanist. ADAMU outlines practice which defines the how the Luciferian Sex Magick path is a sucessful method of initiation which only strengthens and awakens consciousness. Vampiric (spiritual) Sex Magick and ancient Buddhism/Bon Po, including workings and descriptions of Kali and her various mythological guises. Adamu features numerous discipline-building excercises which will set the focus for serious initiatory practice.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="adapting_to_russias_new_labour_market" isbn="0415349605">
+<Title>Adapting to Russia's new labour market</Title>
+<TitleLong>Adapting to Russia's new labour market: gender and employment behaviour</TitleLong>
+<AuthorsText>edited by Sarah Ashwin</AuthorsText>
+<PublisherText publisher_id="routledge">London ; Routledge, 2006.</PublisherText>
+<Details dewey_decimal="331.1'2'0947" physical_description_text="x, 228 p. ; 25 cm." language="eng" edition_info="(hbk.)" dewey_decimal_normalized="331.1" lcc_number="HD5797.2" change_time="2007-10-02T14:04:01Z" price_time="2007-10-02T14:05:04Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references and index.
 
-I. Introduction / Jose Antonio Gurpegui -- II. Interview with Alejandro Morales / Jose Antonio Gurpegui -- III. Essay: Dynamic Identities in Heterotopia / Alejandro Morales -- IV. Works about Alejandro Morales. Historia y ficcion en la narrativa de Alejandro Morales / Luis Leal. Implicaciones existenciales del uso del espanol en las novelas de Alejandro Morales / Jose Antonio Gurpegui. Rereading Alejandro Morales's Caras viejas y vino nuevo: Violence, Sex, Drugs, and Videotape in a Chicano Glass Darkly / Francisco A. Lomeli. El cronotopo del encuentro en Reto en el paraiso de Alejandro Morales / Jesus Rosales. The Use and Abuse of History in Alejandro Morales's The Brick People and The Rag Doll Plagues / Antonio C. Marquez. The Global Border: Transnationalism and Cultural Hybridism in Alejandro Morales's The Rag Doll Plagues / Manuel M. Martin-Rodriguez. Epidemics, Epistemophilia, and Racism: Ecological Literary Criticism and The Rag Doll Plagues / Maria Herrera-Sobek -- V. Bibliography of Works by and about Alejandro Morales / Jose Antonio Gurpegui and Karen S. Van Hooft.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="morales_alejandro_1944_criticism_and_interpretation">Morales, Alejandro,1944-Criticism and interpretation</Subject>
-    <Subject subject_id="mexican_american_authors_20th_century_interviews">Mexican American authors -- 20th century -- Interviews</Subject>
-    <Subject subject_id="mexican_americans_in_literature">Mexican Americans in literature</Subject>
-    <Subject subject_id="california_in_literature_aaaa0">California -- In literature</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alfred_c_kinsey_a01" isbn="0712664661">
-   <Title>Alfred C. Kinsey</Title>
-   <TitleLong>Alfred C. Kinsey: sex the measure of all things: a biography</TitleLong>
-   <AuthorsText>Jonathan Gathorne-Hardy</AuthorsText>
-   <PublisherText publisher_id="pimlico">London : Pimlico, 1999.</PublisherText>
-   <Details dewey_decimal="306.7092" physical_description_text="xii, 513 p., [16] p. of plates : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="306.7092" lcc_number="HQ18.32" change_time="2005-12-02T18:13:30" price_time="2005-12-02T18:13:35" />
-   <Summary></Summary>
-   <Notes>Originally published: London : Chatto &amp; Windus, 1998.
-
-Includes bibliographical references and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="kinsey_alfred_c_alfred_charles_1894_1956_aaaa0">Kinsey, Alfred C. -- (Alfred Charles) -- 1894-1956</Subject>
-    <Subject subject_id="sexologists_united_states_biography">Sexologists -- United States -- Biography</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alfred_hitchcock_a08" isbn="006039322X">
-   <Title>Alfred Hitchcock </Title>
-   <TitleLong>Alfred Hitchcock : A Life in Darkness and Light</TitleLong>
-   <AuthorsText>Patrick McGilligan</AuthorsText>
-   <PublisherText publisher_id="regan_books">Regan Books</PublisherText>
-   <Details dewey_decimal="" physical_description_text="6.0&quot;x9.5&quot;x1.9&quot;; 864 pages; 2.9 lb" language="" edition_info="Hardcover; 2003-10-01" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-23T06:38:03" price_time="2005-09-25T07:32:50" />
-   <Summary>In a career that spanned six decades and more than sixty films, Alfred Hitchcock was the dominant figure in the first century of cinema. His films -- from The 39 Steps to The Birds, from Rear Window to Vertigo, from Notorious to Psycho -- set new standards for cinematic invention and storytelling élan. He was both visionary artist and consummate entertainer ... and became the most widely recognized director who ever lived. In the decades since his death, the public image of Hitchcock has crystallized into a series of iconic images: the macabre Englishman, the sexual obsessive, the Master of Suspense. But this remarkable new biography -- the first in a quarter-century -- draws on prodigious new research to restore Hitchcock the man, in all his three-dimensional glory. Here is the comprehensive film craftsman, forever pushing forward the boundaries of his art. Here is the passionate collaborator, who cheekily referred to actors as "cattle" but invigorated the careers of Cary Grant, James Stewart, Ingrid Bergman, and Grace Kelly. Here is the insatiable provocateur, testing the limits of his audience with his cocktails of sex and violence. And here, too, is the private man: dedicated romantic, constant trickster, impotent voyeur, devoted husband, a man who sacrificed his life, again and again, for his work. Like the best Hitchcock films, Patrick McGilligan's life of Hitchcock is a drama full of fresh revelation, graced by a central love story, dark humor, and cliff-hanging suspense: a definitive portrait of the most creative, and least understood, figure in film history.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_biographies_memoirs_arts_literature_movie_directo">Amazon.com -- Biographies &amp; Memoirs -- Arts &amp; Literature -- Movie Directors</Subject>
-    <Subject subject_id="amazon_com_biographies_memoirs_general">Amazon.com -- Biographies &amp; Memoirs -- General</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alias_assumed_sex_lies_and_sd_6" isbn="1932100466">
-   <Title>Alias Assumed : Sex, Lies and SD-6</Title>
-   <TitleLong>Alias Assumed : Sex, Lies and SD-6 (Smart Pop series)</TitleLong>
-   <AuthorsText>Kevin Weisman (Editor)</AuthorsText>
-   <PublisherText publisher_id="benbella_books">Benbella Books</PublisherText>
-   <Details dewey_decimal="" physical_description_text="240 pages" language="" edition_info="Paperback; 2005-08-28" dewey_decimal_normalized="" lcc_number="" change_time="2005-05-18T12:10:16" price_time="2005-09-19T17:44:22" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="alice_in_genderland_a01" isbn="0595315623">
-   <Title>Alice in Genderland</Title>
-   <TitleLong>Alice in Genderland: A Crossdresser Comes of Age</TitleLong>
-   <AuthorsText>Richard J. Novic M.D., </AuthorsText>
-   <PublisherText publisher_id="iuniverse_inc">iUniverse, Inc.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="292 pages" language="" edition_info="Paperback; 2005-01-05" dewey_decimal_normalized="" lcc_number="" change_time="2005-09-02T10:23:34" price_time="2005-10-21T05:35:56" />
-   <Summary>Alice in Genderland tells the story of Dr. Richard Novic, Harvard-educated psychiatrist and crossdresser. No memoir like it has ever been published. Most of the time, he is a man at the office or a husband and father at home. But one evening a week, she is a woman about town, shopping, dining, dancing, and dating a man for over five years. And its all out in the open. Although he now leads a richly expressive life, Dr. Novic suffered since childhood with a secret, a desire he was in no way equipped to handle, but one that eventually burst through his denial, a few months before his wedding date. Just once, he felt, while he still could, he had to know what it felt like to be a woman. Like Alice in Wonderland, his curiosity led him to fall headlong down a rabbit hole, through desperate straits, mind-opening surprises, heart-rending changes, and boundless love. By the time he was back on his feet, he was a different person, living a lifestyle he hadn't known existed. Anyone who has struggled to figure out who they are and how they want to live will see themselves in this powerful life story. Praise for Alice in Genderland Few know the transgender scene like GIRL TALK magazines Alice Novic. This exciting new memoir by her male alter ego takes us along with him and the people he loves, as he encounters and explores each twist and turn around him and within him. As much Lewis and Clark as it is Lewis Carroll, Alice in Genderland blazes a new trail in the world of crossdressing. Linda Jensen, contributing writer, Transgender Forum Alice bravely explores the limits of gender, sexuality, and relationshipsa sexy, poignant, and often hilarious memoir of transgenderism. Vernon A. Rosario, M.D., author of The Erotic Imagination, clinical faculty, UCLA Neuropsychiatric Institute Alice in Genderland is a fascinating story, well worth reading. Vern L. Bullough, Ph.D., author of Crossdressing, Sex, and Gender, past president of the Society of the Scientific Study of Sex</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="alice_on_the_outside" isbn="0689803591">
-   <Title>Alice on the outside</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Phyllis Reynolds Naylor</AuthorsText>
-   <PublisherText publisher_id="atheneum_books_for_young_reade">New York : Atheneum Books for Young Readers, c1999.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="169 p. ; 20 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2004-07-16T03:16:02" price_time="2005-11-27T14:31:22" />
-   <Summary>Eighth-grader Alice has lots of questions about sex, relationships, prejudice, and change.</Summary>
-   <Notes>"A Jean Karl book."</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="interpersonal_relations_juvenile_fiction">Interpersonal relations -- Juvenile fiction</Subject>
-    <Subject subject_id="sex_juvenile_fiction">Sex -- Juvenile Fiction</Subject>
-    <Subject subject_id="prejudices_fiction">Prejudices -- Fiction</Subject>
-    <Subject subject_id="single_parent_families_juvenile_fiction">Single-parent families -- Juvenile fiction</Subject>
-    <Subject subject_id="schools_juvenile_fiction">Schools -- Juvenile fiction</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alien_sex" isbn="0631211802">
-   <Title>Alien sex</Title>
-   <TitleLong>Alien sex: the body and desire in cinema and theology</TitleLong>
-   <AuthorsText>Gerard Loughlin</AuthorsText>
-   <PublisherText publisher_id="blackwell_pub">Malden, MA : Blackwell Pub., 2004.</PublisherText>
-   <Details dewey_decimal="233/.5" physical_description_text="xxx, 306 p. : ill. ; 24 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="233.5" lcc_number="BT741.3" change_time="2004-08-28T22:52:16" price_time="2005-11-21T01:41:52" />
-   <Summary>"Gerard Loughlin is one of the leading theologians working at the interface between religion and contemporary culture. In this work he uses cinema and the films it shows to think about the church and the visions of desire it displays." "In the figure of the alien, Loughlin finds a metaphor for that which is both most feared and desired: the body and its cravings. Secular culture follows St. Augustine in thinking sex an alien force within the body. But the ancient church also found in sex the presence of a yet stranger desire that secularity forgets: the divine eros that is always other to us even as it draws us into its embrace. In God we find that which is both infinitely alien and intimate to ourselves." "Alien Sex explores the Christian tradition of 'sacred eroticism' - from Gregory of Nyssa to Hans Urs von Balthasar. Through a close reading of such films as The Devils, Breaking the Waves and Derek Jarman's The Garden, Loughlin shoes how Christianity calls to us to view sexuality from the perspective of heaven, not in order to escape the body but to encounter it more intensively. Through desire of the body we regain paradise."--BOOK JACKET.</Summary>
-   <Notes>Includes bibliographical references and index.
-
-Pt. I.Introduction -- 1.Desiring Bodies -- Pt. II.Cavities -- 2.Seeing in the Dark -- 3.Visionary Screens -- Pt. III.Copulations -- 4.Alien Sex -- 5.God's Sex -- 6.Sex Slaves -- 7.Want of Family -- Pt. IV.Consolations -- 8.The Man Who Fell to Earth -- 9.The Garden.</Notes>
-   <UrlsText>Table of contents http://www.loc.gov/catdir/toc/ecip046/2003015211.html</UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="body_human_religious_aspects_christianity">Body, Human -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="sex_religious_aspects_christianity">Sex -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="motion_pictures_religious_aspects_christianity">Motion pictures -- Religious aspects -- Christianity</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alien_sex_a01" isbn="0631211799">
-   <Title>Alien sex</Title>
-   <TitleLong>Alien sex: the body and desire in cinema and theology</TitleLong>
-   <AuthorsText>Gerard Loughlin</AuthorsText>
-   <PublisherText publisher_id="blackwell_pub">Malden, MA : Blackwell Pub., 2004.</PublisherText>
-   <Details dewey_decimal="233/.5" physical_description_text="xxx, 306 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="233.5" lcc_number="BT741.3" change_time="2004-08-28T22:52:18" price_time="2005-12-04T14:16:39" />
-   <Summary>"Gerard Loughlin is one of the leading theologians working at the interface between religion and contemporary culture. In this work he uses cinema and the films it shows to think about the church and the visions of desire it displays." "In the figure of the alien, Loughlin finds a metaphor for that which is both most feared and desired: the body and its cravings. Secular culture follows St. Augustine in thinking sex an alien force within the body. But the ancient church also found in sex the presence of a yet stranger desire that secularity forgets: the divine eros that is always other to us even as it draws us into its embrace. In God we find that which is both infinitely alien and intimate to ourselves." "Alien Sex explores the Christian tradition of 'sacred eroticism' - from Gregory of Nyssa to Hans Urs von Balthasar. Through a close reading of such films as The Devils, Breaking the Waves and Derek Jarman's The Garden, Loughlin shoes how Christianity calls to us to view sexuality from the perspective of heaven, not in order to escape the body but to encounter it more intensively. Through desire of the body we regain paradise."--BOOK JACKET.</Summary>
-   <Notes>Includes bibliographical references and index.
-
-Pt. I.Introduction -- 1.Desiring Bodies -- Pt. II.Cavities -- 2.Seeing in the Dark -- 3.Visionary Screens -- Pt. III.Copulations -- 4.Alien Sex -- 5.God's Sex -- 6.Sex Slaves -- 7.Want of Family -- Pt. IV.Consolations -- 8.The Man Who Fell to Earth -- 9.The Garden.</Notes>
-   <UrlsText>Table of contents http://www.loc.gov/catdir/toc/ecip046/2003015211.html</UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="body_human_religious_aspects_christianity">Body, Human -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="sex_religious_aspects_christianity">Sex -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="motion_pictures_religious_aspects_christianity">Motion pictures -- Religious aspects -- Christianity</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alien_sex_a02" isbn="0525248633">
-   <Title>Alien sex</Title>
-   <TitleLong>Alien sex: 19 tales by the masters of science fiction and dark fantasy</TitleLong>
-   <AuthorsText>edited by Ellen Datlow</AuthorsText>
-   <PublisherText publisher_id="dutton">New York : Dutton, c1990.</PublisherText>
-   <Details dewey_decimal="813/.0876208353" physical_description_text="xvi, 251 p. ; 25 cm." language="eng" edition_info="$18.95" dewey_decimal_normalized="813.0876208353" lcc_number="PS648" change_time="2004-09-08T18:21:49" price_time="2005-11-04T13:31:43" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="science_fiction_american">Science fiction, American</Subject>
-    <Subject subject_id="erotic_stories_american">Erotic stories, American</Subject>
-    <Subject subject_id="horror_tales_american">Horror tales, American</Subject>
-    <Subject subject_id="sex_customs_fiction">Sex customs -- Fiction</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alleged_sex_and_threatened_violence" isbn="0804727686">
-   <Title>Alleged sex and threatened violence</Title>
-   <TitleLong>Alleged sex and threatened violence: Doctor Russel, Bishop Vladimir, and the Russians in San Francisco, 1887-1892</TitleLong>
-   <AuthorsText>Terence Emmons</AuthorsText>
-   <PublisherText publisher_id="stanford_university_press">Stanford, Calif. : Stanford University Press, 1997.</PublisherText>
-   <Details dewey_decimal="979.4/610049171" physical_description_text="vi, 251 p. : ill. ; 23 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="979.4610049171" lcc_number="F869" change_time="2003-11-30T07:56:37" price_time="2005-05-09T17:23:49" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="russel_john_fl_1889_1892">Russel, John,fl. 1889-1892</Subject>
-    <Subject subject_id="vladimir_bishop_of_the_aleutians_and_alaska">Vladimir,Bishop of the Aleutians and Alaska</Subject>
-    <Subject subject_id="russkaia_pravoslavnaia_tserkov_california_san_francisco_hist">Russkai︠a︡ pravoslavnai︠a︡ t︠s︡erkovʹ -- California -- San Francisco -- History -- 19th century</Subject>
-    <Subject subject_id="russians_california_san_francisco_history_19th_century">Russians -- California -- San Francisco -- History -- 19th century</Subject>
-    <Subject subject_id="san_francisco_calif_history">San Francisco (Calif.) -- History</Subject>
-   </Subjects>
-  </BookData>
- </BookList>
+1.Dealing with devastation in Russian : men and women compared /Sarah Ashwin --2.The post-Soviet gender order : imperatives and implications /Sarah Ashwin --3.Sex segregation and discrimination in the new Russian labour market /Irina Kozina and Elena Zhidkova --4.Work orientations and employment behaviour : gender differences? /Sarah Ashwin, Irina Kozina, Irina Popova and Elena Zhidkova --5.Gender differences in employment behaviour in Russia's new labour market /Svetlana Yaroshenko, Elena Omel'Chenko, Natal'ya Goncharova and Olga Issoupova --6.Who benefits from networks? /Irina Tartakovskaya and Sarah Ashwin --7.Critical life events and downward trajectories /Marjna Ilyina --8.Conclusion /Sarah Ashwin.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="labor_market_russia_federation">Labor market -- Russia (Federation)</Subject>
+<Subject subject_id="women_employment_russia_federation">Women -- Employment -- Russia (Federation)</Subject>
+<Subject subject_id="men_employment_russia_federation">Men -- Employment -- Russia (Federation)</Subject>
+<Subject subject_id="russia_federation_economic_conditions_1991">Russia (Federation) -- Economic conditions -- 1991</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="addicted_a02" isbn="0967460174">
+<Title>Addicted</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Zane, </AuthorsText>
+<PublisherText publisher_id="strebor_books">Strebor Books</PublisherText>
+<Details dewey_decimal="813" physical_description_text="264 pages" language="" edition_info="Paperback; 2001-02-24" dewey_decimal_normalized="813" lcc_number="" change_time="2007-06-18T20:53:49Z" price_time="2007-09-10T10:14:59Z" />
+<Summary>Zoe Reynard has it all. A successful career, a loving husband, three beautiful children, a devoted mother, and the house of her dreams. Most women would kill to be in her shoes. There's just one thing she has that no one else in their right mind would want. A secret addiction that could very well ruin her fairy tale life. Zoe is addicted to sex. Addicted is the story of Zoe, an African-American female arts dealer. It traces her life from the time she first meets her husband, Jason, in the fifth grade, falls in love with him over a game of Twister in the eighth grade, loses her virginity to him in high school and eventually marries him. Everything seems perfect in Zoes life to her friends and family as she secretly deals with serious problems in her marriage. After failing to get Jason to open up to her sexually, Zoe becomes involved in not one, not two but three extramarital affairs. By the time she seeks the aid of a prominent female African-American therapist, the walls of her picture perfect life have already started to crumble. Addicted shifts into high gear as Zoe finds out that everyone from her lovers to her husband to her own mother are hiding secrets of their own. Zoe's best friend, Brina, is physically abused by her alcoholic boyfriend, Dempsey. Meanwhile, Zoe discovers under hypnosis that her fascination with sex stems from she had buried deep in the crevices of her mind years before. Zoe ends up being repetitively stalked and attacked. It all comes to a head on a cold, dark mountain following a trail of murders and the true murderer is anyone's guess. Addicted does for women what Fatal Attraction did for men. It will make a woman think twice before risking it all.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="addicted_to_love" isbn="0892836997">
+<Title>Addicted to "love"</Title>
+<TitleLong>Addicted to "love": recovering from unhealthy dependencies in romance, relationships, and sex</TitleLong>
+<AuthorsText>Stephen Arterburn</AuthorsText>
+<PublisherText publisher_id="servant_publications">Ann Arbor, Mich. : Servant Publications, c1991.</PublisherText>
+<Details dewey_decimal="248.8/6" physical_description_text="287 p. ; 24 cm." language="eng" edition_info="$16.95 (est.)" dewey_decimal_normalized="248.86" lcc_number="BV4596" change_time="2005-05-20T02:52:36Z" price_time="2007-10-10T04:33:54Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references (p. 287).</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="relationship_addiction_religious_aspects_christianity">Relationship addiction -- Religious aspects -- Christianity</Subject>
+<Subject subject_id="sex_addiction_religious_aspects_christianity">Sex addiction -- Religious aspects -- Christianity</Subject>
+</Subjects>
+</BookData>
+</BookList>
 </ISBNdb>

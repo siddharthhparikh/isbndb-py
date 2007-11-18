@@ -1,5 +1,5 @@
+import sys, os
 if __name__=='__main__':
-    import sys
     sys.path.insert(0,'..')
     prependdir = ''
 else:
@@ -8,10 +8,15 @@ else:
 from isbndb import PageCursor, PyPageCursor, BookCursor, PyBookCursor
 from isbndb.book import IsbndbBook
 import unittest,urllib
-try:
-    import cElementTree as ElementTree
-except:
-    from elementtree import ElementTree
+
+if sys.version_info[0] == 2 and sys.version_info[1] <= 4:
+    try:
+        import cElementTree as ElementTree
+    except:
+        from elementtree import ElementTree
+
+elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
+    from xml.etree import ElementTree
 
 class fauxParams(object):
     def __init__(self):
@@ -19,9 +24,15 @@ class fauxParams(object):
 
 def fauxFetch(params):
     """This is a simple fetch for testing cursor functionality"""
-    f = open(prependdir+'xml/%s.xml'%params.pageNum)
-    a = f.read()
-    r =  ElementTree.fromstring(unicode(a,'ascii',errors='ignore'))
+    page = os.path.join(prependdir,'xml','%s.xml'%(params.pageNum,))
+    sys.stdout.write('OPENING PAGE: %s\n' % (page,))
+    #f = open(page)
+    #a = f.read()
+    #r =  ElementTree.fromstring(unicode(a,'ascii',errors='ignore'))
+    try:
+        r = ElementTree.parse(page)
+    except:
+        raise SyntaxError, 'page was: %s' % (page,)
     r = r.find('BookList')
     if ElementTree.iselement(r):
         return r
@@ -42,8 +53,8 @@ class cursorTestsMixin(object):
 
     def test_numbers(self):
         print "Test that everything parses right...",
-        self.assertEqual(self.cursor.totalBooks, 8408, "FAILED (totalBooks)")
-        self.assertEqual(self.cursor.numPages, 841, "FAILED (numPages)")
+        self.assertEqual(self.cursor.totalBooks, 14655, "FAILED (totalBooks)")
+        self.assertEqual(self.cursor.numPages, 1466, "FAILED (numPages)")
         print "OK"
 
     def test_listfuncs(self):
@@ -60,7 +71,7 @@ class cursorTestsMixin(object):
         print "OK"
 
     def test_resultsNotSame(self):
-        print "Testing that different accesses return different results...",
+        print "Testing that different  accesses return different results...",
         a = self.cursor[self.start_index]
         b = self.cursor[self.stop_index]
         self.assertNotEqual(a, b, 'FAILED (different pages same)')

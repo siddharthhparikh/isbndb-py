@@ -2,14 +2,17 @@
 #with these tests, I dont have params tests in here, even tho they are in the
 #internet module. you know. fun stuff.
 
+import sys
 if __name__=='__main__':
-    import sys
     sys.path.insert(0,'..')
 
-try:
-    import cElementTree as ElementTree
-except:
-    from elementtree import ElementTree
+if sys.version_info[0] == 2 and sys.version_info[1] <= 4:
+    try:
+        import cElementTree as ElementTree
+    except:
+        from elementtree import ElementTree
+elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
+    from xml.etree import ElementTree
 
 import unittest
 from isbndb.cursors import PageCursor, PyPageCursor, BookCursor, PyBookCursor

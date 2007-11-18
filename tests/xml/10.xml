@@ -1,149 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ISBNdb server_time="2005-12-20T19:13:49">
- <KeyStats granted="0" access_key="test" requests="0" limit="0" />
- <BookList total_results="8408" page_size="10" page_number="10" shown_results="10">
-  <BookData book_id="advanced_sex_tips_for_girls" isbn="0684849224">
-   <Title>Advanced sex tips for girls</Title>
-   <TitleLong>Advanced sex tips for girls: this time it's personal</TitleLong>
-   <AuthorsText>Cynthia Heimel</AuthorsText>
-   <PublisherText publisher_id="simon_schuster">New York : Simon &amp; Schuster, c2002.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="221 p. ; 22 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2004-07-26T14:25:06" price_time="2005-12-05T13:36:13" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="sex_humor">Sex -- Humor</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="advances_in_brain_vasopressin" isbn="0444500804">
-   <Title>Advances in Brain Vasopressin</Title>
-   <TitleLong>Advances in Brain Vasopressin (Progress in Brain Research)</TitleLong>
-   <AuthorsText>I.J.A. Urban, J.P.H. Burbach, D. De Wied, </AuthorsText>
-   <PublisherText publisher_id="elsevier_science">Elsevier Science</PublisherText>
-   <Details dewey_decimal="" physical_description_text="664 pages" language="" edition_info="Hardcover; 1998-12-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-10-21T02:15:37" price_time="1970-01-01T00:00:00" />
-   <Summary>Advances in Brain Vasopressin elucidates the functions of the regulatory peptide vasopressin in the nervous system, and reviews the current status of this field at different levels.It deals with the cell biology and anatomy of the neurons that produce vasopressin in the brain, and provides an overview on the receptors of vasopressin and the signal transduction pathways that they activate, including the cellular responses that are triggered by vasopressin. Reviews are presented on the modulation of behavior induced by vasopressin in a number of different contexts, such as sex-linked and steroid-dependent behaviors, social behaviors, and learning and memory.Furthermore, the volume deals with several controversial issues in the field by presenting overlapping chapters from different research groups in order to provide the reader with current views.Highly relevant and useful, for those working on this "first" neuropeptide, and for young investigators entering the field, and in addition, shows how important a multidisciplinary approach is to unravelling the function of a neuropeptide in the brain.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="advances_in_genetics_volume_47" isbn="0120176475">
-   <Title>Advances in Genetics, Volume 47</Title>
-   <TitleLong>Advances in Genetics, Volume 47 (Advances in Genetics)</TitleLong>
-   <AuthorsText>Jeffrey C. Hall (Editor), Jay C. Dunlap (Editor), Theodore Friedman (Editor), Francesco Giannelli (Editor)</AuthorsText>
-   <PublisherText publisher_id="academic_press">Academic Press</PublisherText>
-   <Details dewey_decimal="" physical_description_text="224 pages" language="" edition_info="Hardcover; 2002-03" dewey_decimal_normalized="" lcc_number="" change_time="2005-11-24T12:19:16" price_time="2005-11-26T11:01:32" />
-   <Summary>Advances in Genetics increases its focus on modern human genetics and its relation to medicine with the merger of this long-standing serial with Molecular Genetic Medicine. This merger affirms the Academic Press commitment to publish important reviews of the broadest interest to geneticists and their colleagues in affiliated disciplines.Genetics, the science of heredity, lies at the heart of biology, and many diseases are impacted by an individuals genetic make-up. The field of genetics is rapidly evolving and new medical break-throughs are occurring as a result of advances in knowledge of genetics. Advances in Genetics continually publishes important reviews of the broadest interest to geneticists and their colleagues in affiliated disciplines. This volume of Advances in Genetics contains the following articles: Targeted Expression of Tetanus Toxin; Germ-line Transformants Spreading Out to Many Insect Species; Genes Mediating Sex-Specific Behaviors in Drosophila; and Evolutionary Analyses of Genes and Their Functional Implications.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="advances_in_sex_hormone_research" isbn="0806719141">
-   <Title>Advances in sex hormone research</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>edited by J. A. Thomas, R. L. Singhal</AuthorsText>
-   <PublisherText publisher_id="urban_schwarzenberg">Baltimore : Urban &amp; Schwarzenberg, 1980.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="xi, 364 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2003-11-05T07:36:56" price_time="2005-10-30T10:24:41" />
-   <Summary></Summary>
-   <Notes>Includes bibliographies and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="hormones_sex">Hormones, Sex</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="adventures_in_monogamy" isbn="0874774217">
-   <Title>Adventures in monogamy</Title>
-   <TitleLong>Adventures in monogamy: exploring the creative possibilities of love, sexuality, and commitment</TitleLong>
-   <AuthorsText>George Leonard</AuthorsText>
-   <PublisherText publisher_id="j_p_tarcher_a01">Los Angeles : J.P. Tarcher ; c1988.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="xvi, 178 p. ; 21 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2005-07-04T23:43:24" price_time="2005-11-28T18:17:23" />
-   <Summary></Summary>
-   <Notes>Rev. ed. of: The end of sex. 1st ed. c1983.
-
-Includes bibliographical references (p. 161-165) and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="love">Love</Subject>
-    <Subject subject_id="sex">Sex</Subject>
-    <Subject subject_id="marriage">Marriage</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="affair_a01" isbn="0553574078">
-   <Title>Affair</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>AMANDA QUICK, </AuthorsText>
-   <PublisherText publisher_id="bantam">Bantam</PublisherText>
-   <Details dewey_decimal="" physical_description_text="4.2&quot;x6.9&quot;x0.9&quot;; 416 pages; 0.5 lb" language="" edition_info="Paperback; 1998-02-02" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-16T03:51:19" price_time="2005-11-22T01:34:46" />
-   <Summary>Charlotte Arkendale knew all there was to know about men. After all, she'd made a career out of steering marriage-minded women away from untrustworthy members of the opposite sex.Yet nothing could have prepared her for Baxter St. Ives--an arresting stranger too daring, too determined, too dangerous to be her new man-of-affairs. Still, perhaps he was the perfect person to help Charlotte investigate the recent murder of one of her clients. So she gave him a chance, never realizing that Baxter, a gifted scientist, would soon conduct a risky exploration into the alchemy of desire, with Charlotte as his subject.But even as he sets out to seduce Charlotte, a twisted killer lies in wait, ready to part the lovers...or see them joined together forever--in death.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_romance_general">Amazon.com -- Romance -- General</Subject>
-    <Subject subject_id="amazon_com_romance_historical_regency">Amazon.com -- Romance -- Historical -- Regency</Subject>
-    <Subject subject_id="amazon_com_romance_historical_general">Amazon.com -- Romance -- Historical -- General</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="affair_a02" isbn="1568954751">
-   <Title>Affair</Title>
-   <TitleLong>Affair (Wheeler Large Print (Feature Selection))</TitleLong>
-   <AuthorsText>Amanda Quick, </AuthorsText>
-   <PublisherText publisher_id="wheeler_publishing">Wheeler Publishing</PublisherText>
-   <Details dewey_decimal="" physical_description_text="6.3&quot;x9.3&quot;x1.0&quot;; 437 pages; 1.5 lb" language="" edition_info="Library Binding; 1997-09-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-22T02:01:02" price_time="2005-11-10T08:37:59" />
-   <Summary>Charlotte Arkendale knew all there was to know about men. After all, she'd made a career out of steering marriage-minded women away from untrustworthy members of the opposite sex.Yet nothing could have prepared her for Baxter St. Ives--an arresting stranger too daring, too determined, too dangerous to be her new man-of-affairs. Still, perhaps he was the perfect person to help Charlotte investigate the recent murder of one of her clients. So she gave him a chance, never realizing that Baxter, a gifted scientist, would soon conduct a risky exploration into the alchemy of desire, with Charlotte as his subject.But even as he sets out to seduce Charlotte, a twisted killer lies in wait, ready to part the lovers...or see them joined together forever--in death.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="affair_a03" isbn="0553100769">
-   <Title>Affair</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>AMANDA QUICK, </AuthorsText>
-   <PublisherText publisher_id="bantam">Bantam</PublisherText>
-   <Details dewey_decimal="" physical_description_text="6.5&quot;x1.2&quot;x1.2&quot;; 352 pages; 1.4 lb" language="" edition_info="Hardcover; 1997-04-14" dewey_decimal_normalized="" lcc_number="" change_time="2005-03-20T07:38:01" price_time="2005-08-11T16:15:22" />
-   <Summary>Regency writer Amanda Quick is one of romance's greatest authors for a reason: she can manipulate even the most discerning reader. In Affair, she takes the most unlikely hero, a nondescript, scientific nerd, and a bastard, and turns him into one of the most desirable "to-die-for heroes" ever. Of course, as the reader, you feel that you (and the heroine) are the only ones in on this fabulous secret. Of course, there's a great plot, great sex, and a happy ending, too! Don't miss this one!</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="affective_subjects_in_the_classroom" isbn="0700224165">
-   <Title>Affective subjects in the classroom</Title>
-   <TitleLong>Affective subjects in the classroom; exploring race, sex, and drugs</TitleLong>
-   <AuthorsText></AuthorsText>
-   <PublisherText publisher_id="intext_educational_publishers">Scranton, Intext Educational Publishers [1972]</PublisherText>
-   <Details dewey_decimal="" physical_description_text="x, 180 p. 22 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="LC6519" change_time="2005-06-29T01:59:54" price_time="2005-10-18T14:04:05" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="discussion">Discussion</Subject>
-    <Subject subject_id="interaction_analysis_in_education">Interaction analysis in education</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="affirmative_action_and_sex_discrimination" isbn="0949138088">
-   <Title>Affirmative action and sex discrimination</Title>
-   <TitleLong>Affirmative action and sex discrimination: a handbook on legal rights for women</TitleLong>
-   <AuthorsText>Chris Ronalds</AuthorsText>
-   <PublisherText publisher_id="pluto_press">Sydney : Pluto Press, 1987.</PublisherText>
-   <Details dewey_decimal="344.94/014133" physical_description_text="xii, 218 p. ; 23 cm." language="eng" edition_info="(pbk.) :$14.95 Aust" dewey_decimal_normalized="344.94014133" lcc_number="" change_time="2005-12-13T04:18:59" price_time="2005-12-13T04:19:06" />
-   <Summary></Summary>
-   <Notes>Bibliography: p. [214]-215.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="australia_sex_discrimination_act_1984">Australia -- Sex Discrimination Act 1984</Subject>
-    <Subject subject_id="sex_discrimination_in_employment_law_and_legislation_austral">Sex discrimination in employment -- Law and legislation -- Australia</Subject>
-    <Subject subject_id="affirmative_action_programs_law_and_legislation_australia">Affirmative action programs -- Law and legislation -- Australia</Subject>
-    <Subject subject_id="women_legal_status_laws_etc_australia_aaaa0">Women -- Legal status, laws, etc -- Australia</Subject>
-   </Subjects>
-  </BookData>
- </BookList>
+<ISBNdb server_time="2007-11-18T00:05:20Z">
+<KeyStats granted="50" access_key="26CUOUG4" requests="50" limit="100" />
+<BookList total_results="14655" page_size="10" page_number="10" shown_results="10">
+<BookData book_id="52_ways_to_a_healthy_you" isbn="1933285869">
+<Title>52 Ways To a Healthy You</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Laura Lewis, </AuthorsText>
+<PublisherText publisher_id="brown_books_publishing_group">Brown Books Publishing Group</PublisherText>
+<Details dewey_decimal="" physical_description_text="296 pages" language="" edition_info="Paperback; 2007-05-01" dewey_decimal_normalized="" lcc_number="" change_time="2007-10-26T15:40:34Z" price_time="2007-11-18T00:05:20Z" />
+<Summary>What is the one brain boosting fruit that crosses the blood brain barrier just like alcohol? A little cup will do you! What hot beverage is good for your heart, levels out blood sugar in diabetics, increases sex drive and more? A fabulous fat that will help you be less moody, lose weight, maintain balanced moods, increase focusing abilities and more? You bet! Which scent made people smarter while awake and asleep? What type of exercise will boost your youthful hormones?</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="52_ways_to_have_fun_fantastic_sex_a_guidebook_for_married_co" isbn="0840734840">
+<Title>52 Ways To Have Fun, Fantastic Sex - A Guidebook For Married Couples</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Joyce J. Penner, Clifford L. Penner</AuthorsText>
+<PublisherText publisher_id="nelson_books">Nelson Books</PublisherText>
+<Details dewey_decimal="" physical_description_text="5.2&quot;x7.9&quot;x0.4&quot;; 142 pages; 0.3 lb" language="" edition_info="Paperback; 1993-12-15" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-21T07:51:32Z" price_time="2007-10-10T04:33:11Z" />
+<Summary>Addressing both "cautious types" and "risk takers," 52 Ways to Have Fun, Fantastic Sex" offers new, creative ideas to try over the course of one year to help rekindle the passion in marriage.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_health_mind_body_sex_sex_instruction_general">Amazon.com -- Health, Mind &amp; Body -- Sex -- Sex Instruction -- General</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="52_weeks_of_passionate_sex" isbn="0762415886">
+<Title>52 Weeks of Passionate Sex</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Melanie Votaw, </AuthorsText>
+<PublisherText publisher_id="running_press_book_publishers">Running Press Book Publishers</PublisherText>
+<Details dewey_decimal="" physical_description_text="7.6&quot;x11.9&quot;x1.9&quot;; 96 pages; 1.3 lb" language="" edition_info="Paperback; 2004-01-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-02-13T23:22:51Z" price_time="2007-10-10T04:33:16Z" />
+<Summary>You've seen the ads in many popular magazines and newspapers: "Great Lovers are Made, not Born(tm)." Here's an easy and thoroughly enjoyable way for couples to transform themselves-and each other-into better lovers. This kit, which provides creative inspiration for a whole year's worth of fresh and imaginative approaches to sex, comes from The Sinclair Intimacy Institute(r), the home of the best-selling sex education videos for adults. The 96-page book contains 52 quick and fun ideas, tips, and techniques for busy couples, plus a dozen suggestions for more leisurely approaches to lovemaking-each designed to inspire tremendous sensual creativity. The kit also features a variety of tasteful accessories, including silk rose petals, a scented candle, a feather, a slim volume of erotic stories, a blindfold, and a "Do Not Disturb" sign for the door.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="55_answers_to_questions_about_life_after_death" isbn="1590524365">
+<Title>55 Answers to Questions about Life After Death</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Mark Hitchcock, </AuthorsText>
+<PublisherText publisher_id="multnomah">Multnomah</PublisherText>
+<Details dewey_decimal="236.2" physical_description_text="256 pages" language="" edition_info="Paperback; 2005-03-03" dewey_decimal_normalized="236.2" lcc_number="" change_time="2007-10-26T17:08:30Z" price_time="2007-11-18T00:05:20Z" />
+<Summary>Four thousand years ago, amid tragic suffering and death, Job asked the question of the ages: “If a man dies, will he live again?” Since the dawn of history, the subject of death and the afterlife has been the great question of human existence. It&amp;rsquo;s a subject that everyone wonders about. What lies behind the veil of death? Is there really life after death? Is there a place called hell? This small yet power-packed book answers, in a very straightforward, reader-friendly format, all the most-asked questions ordinary people have about death, near-death experiences, cremation, purgatory, hell, heaven, and our future bodies. You&amp;rsquo;ll be amazed at what awaits us beyond the grave.Is There Sex in Heaven? It&amp;rsquo;s a fair question! And so are the rest. Go ahead…flip to the table of contents. Discover another one, two, or fifty-four others that are guaranteed to intrigue you. Questions like: Do those in heaven know what&amp;rsquo;s happening on earth? and Will I see my pets in heaven? Because even if you&amp;rsquo;d rather avoid the topic, death will not avoid you. So fire away! Ask the tough questions, and get the dead-on answers you need. Straightforward and easy to read, 55 Answers to Questions About Life After Death satisfies that nagging, curious voice whispering from the corner of your mind. Story Behind the Book“Three key experiences in my life have come together to make this book a reality. First, as the pastor of a local church for thirteen years, I have had the privilege of visiting people who are facing imminent death, conducting funerals, and ministering to grieving families. During these times people often have probing questions about life after death. Second, due to my interest and writing in the area of Bible prophecy, I am frequently asked questions about the afterlife at conferences and via e-mail. Third, all kinds of books, TV shows, and groups out there today are fostering unbiblical views of life after death. Knowing that this is a subject of universal interest and great confusion, I have a passionate desire to create a user-friendly, clear, straightforward resource to answer all the key questions that people everywhere are asking about life&amp;rsquo;s greatest mystery.”</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="5_people_who_died_during_sex" isbn="0767920597">
+<Title>5 People Who Died During Sex</Title>
+<TitleLong>5 People Who Died During Sex: and 100 Other Terribly Tasteless Lists</TitleLong>
+<AuthorsText>Karl Shaw, </AuthorsText>
+<PublisherText publisher_id="broadway">Broadway</PublisherText>
+<Details dewey_decimal="001.9" physical_description_text="304 pages" language="" edition_info="Paperback; 2007-02-13" dewey_decimal_normalized="1.9" lcc_number="" change_time="2007-03-06T23:57:04Z" price_time="2007-10-24T10:55:31Z" />
+<Summary>All in perfectly bad tastePrepare to be amazed, appalled, disgusted, and hugely entertained by this compendium of indelicate oddities. Nothing is too inane, too insane, too bizarre, or too distasteful for this incredible, seemingly impossible, but absolutely true collection of facts from across the ages and around the world.Did you know……that Pope Benedict XII was such a hardened boozer that he inspired the expression “drunk as a pope”? (From “10 Historic Drunks”)…that as a special honeymoon treat, Prince Charles read Princess Diana passages from the works of Carl Jung and Laurens van der Post? (From “History’s 10 Least Romantic Honeymoons”)…that the best-dressed gentlemen in medieval England exposed their genitals below a short-fitting tunic? (From “History’s 10 Greatest Fashion Mistakes”)…that Alfred Hitchcock suffered from ovophobia—fear of eggs? (From “10 Phobias of the Famous”)…that King Louis XIV only took three baths in his lifetime, each of them under protest?(From “10 Great Unwashed”)…that in 1930, Sears customers became enraged when the catalog was first printed on glossy, non-absorbent paper?(From “12 Magical Moments in Toilet Paper History”)</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="60_days_of_low_fat_low_cost_meals_in_minutes" isbn="0471346527">
+<Title>60 Days of Low Fat Low Cost Meals in Minutes </Title>
+<TitleLong>60 Days of Low Fat Low Cost Meals in Minutes : Over 150 Delicious, Healthy Recipes &amp; Menus That Fit Your Budget</TitleLong>
+<AuthorsText>M. J. Smith</AuthorsText>
+<PublisherText publisher_id="wiley">Wiley</PublisherText>
+<Details dewey_decimal="" physical_description_text="5.5&quot;x8.5&quot;x0.8&quot;; 304 pages; 0.8 lb" language="" edition_info="Paperback; 1999-01-08" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-21T09:41:18Z" price_time="2007-10-16T20:56:21Z" />
+<Summary>Delicious and Healthful Meals and Menus That Wont Take a Bite Out of Your Family Budget. If youre among the millions of Americans watching your fat intake, as well as your pocketbook and time, heres good news. This innovative and exciting cookbook helps you save on all three. Most of these mouth-watering, health-wise recipes take under 30 minutes to prepare with ingredients that usually cost less than $10 per meal. 60 Days of Low-Fat, Low-Cost Meals in Minutes introduces more than 150 flavor-packed, easy-to-make recipes for real foodwithout all of the cholesterol, fat, sodium, and calories. Using nutritious ingredients found in virtually any grocery store, this guide contains a 60-day plan for low-fat dining, complete with shopping lists and preparation tips. M.J. Smith, author of the best-selling All-American Low-Fat Meals in Minutes also explains what foods to buy and what to avoid. She offers:A pocket guide to fat gramsInexpensive ingredient substitutesA kitchen-tested guide on cutting fat from your favorite recipesMeat and poultry cooking chartsA sure-fire guide for selecting first-rate produceMicrowave cooking tipsMeasurement shortcutsComplete nutrition information, including exchangesFrom hearty entrees to enticing desserts, 60 Days of Low-Fat, Low-Cost Meals in Minutes contains the blueprints for such scintillating dishes as:  Banana Breakfast Muffins  Winter in New England Clam Chowder  Creole Shrimp Salad  No-Fat Fried Chicken  Beef Burgundy in a French Bread Crust  Grilled Halibut with Pineapple Salsa  Coconut Lovers Macaroons  Better Than Sex Cake Plus, the Special Binding Keeps the Book Open While You Work.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_cooking_food_wine_general">Amazon.com -- Cooking, Food &amp; Wine -- General</Subject>
+<Subject subject_id="amazon_com_cooking_food_wine_quick_easy_general">Amazon.com -- Cooking, Food &amp; Wine -- Quick &amp; Easy -- General</Subject>
+<Subject subject_id="amazon_com_cooking_food_wine_special_diet_low_fat">Amazon.com -- Cooking, Food &amp; Wine -- Special Diet -- Low Fat</Subject>
+<Subject subject_id="amazon_com_health_mind_body_diets_weight_loss_diets_low_fat">Amazon.com -- Health, Mind &amp; Body -- Diets &amp; Weight Loss -- Diets -- Low Fat</Subject>
+<Subject subject_id="amazon_com_health_mind_body_diets_weight_loss_special__aaaa0">Amazon.com -- Health, Mind &amp; Body -- Diets &amp; Weight Loss -- Special Conditions -- Low-Fat Diet</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="60_things_god_said_about_sex" isbn="0883687704">
+<Title>60 Things God Said About Sex</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Lester Frank Sumrall, </AuthorsText>
+<PublisherText publisher_id="whitaker_house">Whitaker House</PublisherText>
+<Details dewey_decimal="" physical_description_text="141 pages" language="" edition_info="Paperback; 2002-07-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-04-07T22:16:46Z" price_time="2007-11-07T18:34:20Z" />
+<Summary></Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="6200_wisecracks_witty_remarks_epigrams_for_all_occasions" isbn="0517320908">
+<Title>6200 Wisecracks, Witty Remarks &amp; Epigrams for All Occasions</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Edmund Fuller, </AuthorsText>
+<PublisherText publisher_id="gramercy">Gramercy</PublisherText>
+<Details dewey_decimal="808.882" physical_description_text="352 pages" language="" edition_info="Hardcover; 1993-11-20" dewey_decimal_normalized="808.882" lcc_number="" change_time="2007-01-19T21:55:38Z" price_time="2007-11-17T02:25:42Z" />
+<Summary>Put zip into your conversations, speeches, etc. with positively hilarious quips and comments. You'll have an answer for everything and it will be easy to find in this alphabetized collection with topics that include sex, the economy, doctors, business and more.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="637_best_things_anybody_ever_said" isbn="0449203751">
+<Title>637 Best Things Anybody Ever Said</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Robert Byrne, </AuthorsText>
+<PublisherText publisher_id="fawcett">Fawcett</PublisherText>
+<Details dewey_decimal="" physical_description_text="" language="" edition_info="Paperback; 1983-10-12" dewey_decimal_normalized="" lcc_number="" change_time="2005-12-27T17:11:10Z" price_time="2007-10-29T10:32:27Z" />
+<Summary>"This collection contains some real gems!"UNITED PRESS INTERNATIONALFrom Golda Meir to Erma Bombeck...from Aldous Huxley to Abbie Hoffman...from Oscar Wilde to W.C. Fields...from Queen Victoria to Mae West...from Aristotle to Idi Amin....here are the 637 best things anybody ever said--on God, Life, Death, Murder, Stupidity, Narcisism, Birth, Youth, Sex, Love, Marriage, Horses, Greeks, Romans, Politics, Literature, Drink, Presidents, and a great deal more.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="69_things_to_do_with_a_dead_princess_a01" isbn="184195182X">
+<Title>69 Things to Do with a Dead Princess</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Stewart Home, </AuthorsText>
+<PublisherText publisher_id="canongate_pub">Canongate Pub.</PublisherText>
+<Details dewey_decimal="" physical_description_text="182 pages" language="" edition_info="Hardcover; 2002-01" dewey_decimal_normalized="" lcc_number="" change_time="2007-01-12T23:28:21Z" price_time="2007-11-18T00:05:21Z" />
+<Summary>This is where the novel has a nervous breakdown. Anna Noon is a twenty-year-old student with a taste for perverse sex involving an enigmatic older man and a ventriloquist's dummy. Anna lives in Aberdeen, Scotland, and her sex life revolves around the ancient stone circles in the region. The sublime grandeur of the stones provides a backdrop against which Anna is able to act out her provocative psychodramas. This is a book about the body in which the carnal is a manifestation of consciousness: a book in which it is virtually impossible to distinguish the ancient from the postmodern. Drawing on literary and continental philosophy, as well as pulp appropriations, 69 Things suggests that schizophrenia may well be the only sane response to capitalism.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+</BookList>
 </ISBNdb>

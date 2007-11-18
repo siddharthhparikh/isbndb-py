@@ -1,185 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ISBNdb server_time="2005-12-20T19:13:52">
- <KeyStats granted="0" access_key="test" requests="0" limit="0" />
- <BookList total_results="8408" page_size="10" page_number="12" shown_results="10">
-  <BookData book_id="after_a_stroke" isbn="1932603115">
-   <Title>After a Stroke</Title>
-   <TitleLong>After a Stroke: 300 Tips for Making Life Easier</TitleLong>
-   <AuthorsText>Cleo Hutton, RN, Cleo Hutton, </AuthorsText>
-   <PublisherText publisher_id="demos_medical_publishing">Demos Medical Publishing</PublisherText>
-   <Details dewey_decimal="" physical_description_text="128 pages" language="" edition_info="Paperback; 2005-06-10" dewey_decimal_normalized="" lcc_number="" change_time="2005-10-21T01:16:23" price_time="2005-11-02T14:33:55" />
-   <Summary>Covers the home-recovery process after a stroke -- and no subject is off-limits. Readers will learn how to progress from patient to person again. The author shares 300+ tips she learned and used during her recovery, including information about communication, emotional liability, safety issues, rest periods, dressing, personal care, cooking, home maintenance, housekeeping skills, traveling, relaxation techniques, and sex.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
-  <BookData book_id="after_the_second_sex" isbn="0394724305">
-   <Title>After The second sex</Title>
-   <TitleLong>After The second sex: conversations with Simone De Beauvoir</TitleLong>
-   <AuthorsText>by Alice Schwarzer; translated from the French by Marianne Howarth</AuthorsText>
-   <PublisherText publisher_id="pantheon_books">New York : Pantheon Books, c1984.</PublisherText>
-   <Details dewey_decimal="305.4/2/0924" physical_description_text="220 p. ; 21 cm." language="eng" edition_info="(pbk.) :$5.95" dewey_decimal_normalized="305.420924" lcc_number="HQ1154" change_time="2004-03-06T15:42:40" price_time="2005-09-28T13:51:40" />
-   <Summary></Summary>
-   <Notes>Translation of: Simone de Beauvoir heute.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="beauvoir_simone_de_1908_interviews">Beauvoir, Simone de,1908-Interviews</Subject>
-    <Subject subject_id="feminism">Feminism</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="after_the_second_sex_a01" isbn="0394537424">
-   <Title>After The second sex</Title>
-   <TitleLong>After The second sex: conversations with Simone De Beauvoir</TitleLong>
-   <AuthorsText>by Alice Schwarzer; translated from the French by Marianne Howarth</AuthorsText>
-   <PublisherText publisher_id="pantheon_books">New York : Pantheon Books, c1984.</PublisherText>
-   <Details dewey_decimal="305.4/2/0924" physical_description_text="220 p. ; 21 cm." language="eng" edition_info="$10.95" dewey_decimal_normalized="305.420924" lcc_number="HQ1154" change_time="2004-03-06T15:42:40" price_time="2005-10-07T13:22:31" />
-   <Summary></Summary>
-   <Notes>Translation of: Simone de Beauvoir heute.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="beauvoir_simone_de_1908_interviews">Beauvoir, Simone de,1908-Interviews</Subject>
-    <Subject subject_id="feminism">Feminism</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="after_welfare" isbn="0814797547">
-   <Title>After welfare</Title>
-   <TitleLong>After welfare: the culture of postindustrial social policy</TitleLong>
-   <AuthorsText>Sanford F. Schram</AuthorsText>
-   <PublisherText publisher_id="new_york_university_press">New York : New York University Press, c2000.</PublisherText>
-   <Details dewey_decimal="361.6/1/0973" physical_description_text="x, 234 p. : ill., map ; 24 cm." language="eng" edition_info="(cloth : alk. paper)" dewey_decimal_normalized="361.610973" lcc_number="HN65" change_time="2004-07-01T22:07:15" price_time="2005-12-15T00:40:09" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 185-228) and index.
+<ISBNdb server_time="2007-11-18T00:05:22Z">
+<KeyStats granted="50" access_key="26CUOUG4" requests="50" limit="100" />
+<BookList total_results="14655" page_size="10" page_number="12" shown_results="10">
+<BookData book_id="abduction_a07" isbn="042517736X">
+<Title>Abduction</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Robin Cook, </AuthorsText>
+<PublisherText publisher_id="berkley_publishing_group">Berkley Publishing Group</PublisherText>
+<Details dewey_decimal="" physical_description_text="1 pages" language="" edition_info="Mass Market Paperback; 2000-11-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-08-24T18:39:50Z" price_time="2007-09-28T22:47:40Z" />
+<Summary>Perry Berg is president of Benthic Marine and a passenger aboard The Benthic Explorer, a 450-foot research ship endeavoring to drill into, and sample for the first time, the earth's magma core. Also onboard are the lovely Dr. Suzanne Newell; ex-navy commander and present submersible skipper Donald Fuller; and navy-cum-Neanderthal divers Richard Adams and Michael Donaghue. It is this cast of characters who, with the reluctant Perry, dive to the stilled drill site in order to make repairs. En route, they are sucked (or suckered) into a defunct undersea volcano and deposited into an otherworldly wonderland. That takes about 75 pages of fairly cogent spadework. The next 375 pages sprout some of the looniest, most derivative, made-for-TV-movie science fiction imaginable. Our heroes, you see, have been abducted to Interterra, an undersea world of staggering beauty and unheard of technologies--intergalactic travel and eternal life, for starters--populated by stunningly beautiful, toga-wearing, first-generation humans. First-generation? They were here first, see, and had been doing very nicely until their scientists realized that the earth was about to be "showered with planetesimal collisions, just as had happened in its primordial state," and that they had better start digging. While the Interterrans prospered and thrived undersea, we, the second generation, began hauling our single-celled bodies up by our ooze-straps and started all over again. And that's about it. People with names like Arak and Sufa speak strangely, giggle at the primitive second-generationists, recoil at the very thought of violence, press their palms together to have sex, and direct "worker clones" to do the dishes while the second generation does its stereotypical best to, in turns, exemplify, define, and defile humankind. If you've yet to read Robin Cook's innumerable (and mostly successful) medical thrillers, start now. If you want to read about an alternative world, start off right with H.G. Wells's 1895 masterpiece, The Time Machine. --Michael Hudson</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="abduction_a11" isbn="0330369008">
+<Title>Abduction</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Robin Cook</AuthorsText>
+<PublisherText publisher_id="pan">London : Pan, 2000.</PublisherText>
+<Details dewey_decimal="813.54" physical_description_text="409 p. ; 18 cm." language="eng" edition_info="(pbk.) :£5.99" dewey_decimal_normalized="813.54" lcc_number="" change_time="2007-04-12T06:07:37Z" price_time="2007-06-30T16:52:01Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="abduction_fiction">Abduction -- Fiction</Subject>
+<Subject subject_id="deep_diving_fiction">Deep diving -- Fiction</Subject>
+<Subject subject_id="atlantic_ocean_fiction">Atlantic Ocean -- Fiction</Subject>
+<Subject subject_id="science_fiction">Science fiction</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="aberration_of_starlight_a01" isbn="1564784398">
+<Title>Aberration of Starlight</Title>
+<TitleLong>Aberration of Starlight (American Literature (Dalkey Archive))</TitleLong>
+<AuthorsText>Gilbert Sorrentino, </AuthorsText>
+<PublisherText publisher_id="dalkey_archive_press">Dalkey Archive Press</PublisherText>
+<Details dewey_decimal="813" physical_description_text="211 pages" language="" edition_info="Paperback; 2005-09-30" dewey_decimal_normalized="813" lcc_number="" change_time="2007-01-20T07:15:16Z" price_time="2007-06-04T14:17:37Z" />
+<Summary>Set at a boardinghouse in rural New Jersey in the summer of 1939, this novel revolves around four people who experience the comedies, torments and rare pleasures of family, romance and sex while on vacation from Brooklyn and the Depression. Billy Recco, an eager ten-year-old in search of a father . . . Marie Recco, ne McGrath, an attractive divorce caught between her son and father, without a life of her own . . . John McGrath, dignified in manner yet brutally soured by life, insanely fearful of his daughter's restlessness . . . Tom Thebus, a rakish salesman who precipitates the conflict between Marie's hopes and her father's wrath. We follow these individuals through the events of thirty-six hours, culminating in Tom's disastrous near seduction of Marie. As the novel's perspective shifts to each of these characters, four discrete stories take form, stories that Sorrentino further enriches by using a variety of literary methodsfantasies, letters, a narrative question-and-answer, fragments of dialogue and memory. Strong and unforgettable, each voice is compelling in itself, yet in the end is only part of a complex, painful pattern in which dreams go unfulfilled and efforts unrewarded. What emerges is a sure understanding of four people who are occasionally ridiculous, but whose integrity and good intentions are consistently, and tragically, frustrated. Combining humor and feeling, balancing the details and the rhythms of experience, Aberration of Starlight re-creates a time and a place as it captures the sadness and value of four lives. It is widely considered one of Sorrentino's finest novels.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="about_criminals" isbn="0761928162">
+<Title>About criminals</Title>
+<TitleLong>About criminals: a view of the offender's world</TitleLong>
+<AuthorsText>Mark R. Pogrebin, editor</AuthorsText>
+<PublisherText publisher_id="sage_publications">Thousand Oaks, Calif. : Sage Publications, c2004.</PublisherText>
+<Details dewey_decimal="364.3/0973" physical_description_text="xiii, 358 p. ; 26 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="364.30973" lcc_number="HV6789" change_time="2007-07-13T12:55:27Z" price_time="2007-07-13T18:31:19Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references and indexes.</Notes>
+<UrlsText>Table of contents http://www.loc.gov/catdir/toc/ecip0411/2003025481.html
 
-Contracting America : the cycle of representation and the contagion of policy discourse -- Where the welfare queen resides : the subtext of personal responsibility -- In the clinic : the medicalization of welfare -- Deconstructing devolution : racing to the bottom and other ironies of welfare reform -- Redefining the family, redefining the state : the politics of incorporation and the case of same-sex marriage -- A new space for welfare policy research : benefit decline on the internet -- After social security : searching for a postindustrial ethic.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="public_welfare_united_states">Public welfare -- United States</Subject>
-    <Subject subject_id="united_states_social_policy_1993">United States -- Social policy -- 1993</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="after_welfare_a01" isbn="0814797555">
-   <Title>After welfare</Title>
-   <TitleLong>After welfare: the culture of postindustrial social policy</TitleLong>
-   <AuthorsText>Sanford F. Schram</AuthorsText>
-   <PublisherText publisher_id="new_york_university_press">New York : New York University Press, c2000.</PublisherText>
-   <Details dewey_decimal="361.6/1/0973" physical_description_text="x, 234 p. : ill., map ; 24 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="361.610973" lcc_number="HN65" change_time="2004-07-01T22:07:17" price_time="2005-11-28T01:01:27" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 185-228) and index.
-
-Contracting America : the cycle of representation and the contagion of policy discourse -- Where the welfare queen resides : the subtext of personal responsibility -- In the clinic : the medicalization of welfare -- Deconstructing devolution : racing to the bottom and other ironies of welfare reform -- Redefining the family, redefining the state : the politics of incorporation and the case of same-sex marriage -- A new space for welfare policy research : benefit decline on the internet -- After social security : searching for a postindustrial ethic.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="public_welfare_united_states">Public welfare -- United States</Subject>
-    <Subject subject_id="united_states_social_policy_1993">United States -- Social policy -- 1993</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="after_welfare_a02" isbn="0585325278">
-   <Title>After welfare</Title>
-   <TitleLong>After welfare the culture of postindustrial social policy</TitleLong>
-   <AuthorsText>Sanford F. Schram</AuthorsText>
-   <PublisherText publisher_id="new_york_university_press">New York : New York University Press, c2000.</PublisherText>
-   <Details dewey_decimal="361.6/1/0973" physical_description_text="x, 234 p. : ill. ; 24 cm." language="eng" edition_info="(electronic bk.) :$55.00" dewey_decimal_normalized="361.610973" lcc_number="HN65" change_time="2004-07-15T19:46:51" price_time="2005-12-14T11:21:06" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 185-228) and index.
-
-Contracting America : the cycle of representation and the contagion of policy discourse -- Where the welfare queen resides : the subtext of personal responsibility -- In the clinic : the medicalization of welfare -- Deconstructing devolution : racing to the bottom and other ironies of welfare reform -- Redefining the family, redefining the state : the politics of incorporation and the case of same-sex marriage -- A new space for welfare policy research : benefit decline on the Internet -- After social security : sea
-
-Electronic reproduction.Boulder, Colo. :NetLibrary,2000.Available via World Wide Web.Access may be limited to NetLibrary affiliated libraries.</Notes>
-   <UrlsText>http://www.netLibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=48236 An electronic book accessible through the World Wide Web; click for information</UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="public_welfare_united_states">Public welfare -- United States</Subject>
-    <Subject subject_id="united_states_social_policy_1993">United States -- Social policy -- 1993</Subject>
-    <Subject subject_id="electronic_books">Electronic books</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="ageing_and_later_life_a01" isbn="0803989652">
-   <Title>Ageing and later life</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>edited by Julia Johnson and Robert Slater</AuthorsText>
-   <PublisherText publisher_id="sage_publications_in_associati">London ; Sage Publications in association with The Open University, 1993.</PublisherText>
-   <Details dewey_decimal="305.26/0941" physical_description_text="xi, 369 p. : ill., map ; 24 cm." language="eng" edition_info="(cased)" dewey_decimal_normalized="305.260941" lcc_number="HQ1064" change_time="2005-02-06T05:59:10" price_time="2005-11-29T12:15:06" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references and indexes.
-
-Personal Accounts -- 1.Look me in the eye /Barbara Macdonald -- 2.Coming out of the age closet /Maxine Myers -- 3.ageing of Mary Berenson /Bill Bytheway -- 4.Home from home? /Evan Marsh -- 5.Mrs Hatter /Janet Ford and Ruth Sinclair -- 6.Mr and Mrs Cosgrove /Jeremy Seabrook -- 7.Epilogue to An Autobiography /Agatha Christie -- Images and identity -- 8.Old age in crime fiction /Mike Hepworth -- 9.cream cracker under the settee /Alan Bennett -- 10.Have the men had enough? /Margaret Forster -- 11.photographic image /Kathleen Woodward -- 12.Ageing with a disability /Gerry Zarb -- 13.Ageing and cultural stereotypes of older women /Jay Ginn and Sara Arber -- 14.Ageing and ethnicity /Ken Blakemore -- Ill-Health and Well-Being -- 15.health of older Asians /Liam Donaldson and Marie Johnson -- 16.Osteoporosis in women /Jean Shapiro -- 17.Depression in later life /Elaine Murphy -- 18.Frames of reference for an understanding of dementia /Tom Kitwood -- 19.Love, sex and aging /Edward M. Brecher -- 20.Age discrimination in health care /Melanie Henwood -- Intervention and Therapy -- 21.Does group living work? /Julia Johnson -- 22.holistic approach in the ward /Helen Passant -- 23.Elderly people: their medicines and their doctors /Drug and Therapeutics Bulletin -- 24.Assessing risk /Alison Norman -- 25.Vulnerable to abuse /Olive Stevenson -- 26.Baffle locks: in whose best interest? /Grainne Sheridan -- 27.Freedom to wander /Peter Blackburn -- Power and Control -- 28.Obstacles to the development of user-centred services /Tim Booth -- 29.Rest assured: new moves in quality assurance for residential care /Leonie Kellaher and Sheila Peace -- 30.powerhouse for change: empowering users /Phyllida Parsloe and Olive Stevenson -- 31.Approaches to advocacy /Chris Phillipson -- 32.pensioners' movement: federation, consolidation, fragmentation, 1938-1948 /Andrew Blaikie -- 33.On being a woman in the pensioners' movement /Zelda Curtis -- Concepts and Values -- 34.Ageism: concept and definition /Julia Johnson and Bill Bytheway -- 35.'Us' and 'them'? Feminist research, community care and disability /Jenny Morris -- 36.Philosophical perspectives on quality of life /Andrew Sixsmith -- 37.Religion and aging /David O. Moberg -- 38.Gerontological approaches to quality of life /Beverley Hughes -- 39.Measuring quality of life /Michael Bury and Anthea Holme -- Policy and Politics -- 40.Ideology and the private sector of welfare /Roy Parker -- 41.Housing and community care /Robin Means -- 42.Workers versus pensioners /Paul Johnson, Christoph Conrad and David Thompson -- 43.new prospects for retirement /Michael Young and Tom Schuller -- 44.Older people in Europe: social and economic policies /Alan Walker and Jens Alber -- Pasts -- 45.Born 1898; a brief group biography /Mark Abrams -- 46.Oral history as a social movement: reminiscence and older people /Joanna Bornat -- 47.History of migration to the United Kingdom /John Young and James George -- 48.Glimpses of a lost history /Paul Thompson -- 49.Social services for elderly people: from Beveridge to Thatcher /Robin Means -- 50.historical development of geriatric medicine as a specialty /Helen Evers -- 51.History of old age in western culture and society /Georges Minois -- Futures -- 52.politics of age /Russell A. Ward -- 53.Ageing in developing countries: has it got anything to do with us? /Alex Kalache -- 54.Paths for future population aging /Jill S. Grigsby -- 55.Can we survive the world revolution? /Alexander King and Bertrand Schneider.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="older_people_great_britain">Older people -- Great Britain</Subject>
-    <Subject subject_id="aging_social_aspects_great_britain">Aging -- Social aspects -- Great Britain</Subject>
-    <Subject subject_id="humans_ageing">Humans -- Ageing</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="age_aint_nothing_but_a_number" isbn="0807028231">
-   <Title>Age ain't nothing but a number</Title>
-   <TitleLong>Age ain't nothing but a number: Black women explore midlife</TitleLong>
-   <AuthorsText>edited by Carleen Brice</AuthorsText>
-   <PublisherText publisher_id="beacon_press">Boston : Beacon Press, c2003.</PublisherText>
-   <Details dewey_decimal="810.8/09287/096073" physical_description_text="xiii, 233 p. ; 22 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="810.809287096073" lcc_number="PS509" change_time="2004-07-22T20:01:13" price_time="2005-12-01T04:13:03" />
-   <Summary></Summary>
-   <Notes>Who says an older woman shouldn't dance? / Gloria Wade-Gayles -- Age / Nikki Giovanni -- The affirmation / Patricia Raybon -- Journal (February 12, 1987) / Alice Walker -- Unlocking midlife / Jackie Warren-Moore -- Games / Jackie Warren-Moore -- What I learned on the way to getting old : don't tell your age and other lessons / Elyse Singleton -- Midlife blues / Carmen Turner -- How to fly into fifty (without a fear of flying) / S. Pearl Sharp -- The ball of a lifetime / Trudier Harris-Lopez -- In search of meaningful work / Jan Thomas -- Dreaming of crones / Carleen Brice -- New bones / Lucille Clifton -- Choosing longevity / Susan L. Taylor -- Maneuvering through menopause : a rite of passage / Marilyn Hughes Gaston and Gayle K. Porter. -- To my last period / Lucille Clifton -- Hair matters at midlife / Brenda J. Allen -- Am I ugly? / Terri Sutton -- Banyan trunk / Ada Nelribi -- From I left my back door open / April Sinclair -- Used / Rita Dove -- My cups used to runneth over / Diane Donaldson -- Middle-age UFO / Colleen McElroy -- From a day late and a dollar short / Terry McMillan -- Homegirl reunion / Joan Hopewell-Hartgens -- Letting go with love / Miriam Decosta-Willis -- From the women of Brewster Place / Gloria Naylor -- Babies??!! / Tina McElroy Ansa -- Adoption : a midlife love story / Sheila Stainback -- The pathway home / Stephanie Rose Bird -- The dance of life / Wuanda M. T. Walls -- Full circling / Elaine Lee -- In the heat of shadow / Jewelle Gomez -- Parents, wives, and womanhood : the lessons we never learned / Ta'shia Asanti Karade -- Age and sexuality / Maya Angelou -- Trust me / Pearl Cleage -- Gray pussy hair / Opal Palmer Adisa -- Safer sex (before and) after fifty / Gale Madyun -- Plum jelly in hot shiny jars / Akasha Gloria Hull -- It might as well be spring / Carleen Brice -- The company she keeps / Colleen McElroy -- From do-it-yourself rainbows / J. California Cooper.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="american_literature_african_american_authors">American literature -- African American authors</Subject>
-    <Subject subject_id="african_american_women_literary_collections">African American women -- Literary collections</Subject>
-    <Subject subject_id="middle_aged_women_literary_collections">Middle aged women -- Literary collections</Subject>
-    <Subject subject_id="american_literature_women_authors">American literature -- Women authors</Subject>
-    <Subject subject_id="middle_aged_women_united_states">Middle aged women -- United States</Subject>
-    <Subject subject_id="middle_age_literary_collections">Middle age -- Literary collections</Subject>
-    <Subject subject_id="aging_literary_collections">Aging -- Literary collections</Subject>
-    <Subject subject_id="middle_age_united_states">Middle age -- United States</Subject>
-    <Subject subject_id="aging_united_states">Aging -- United States</Subject>
-    <Subject subject_id="african_american_women">African American women</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="age_and_sex" isbn="0660573679">
-   <Title>Age and sex</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Statistics Canada = Âge et sexe / Statistique Canada</AuthorsText>
-   <PublisherText publisher_id="statistics_canada_statistique_">Ottawa : Statistics Canada = Statistique Canada, 1993.</PublisherText>
-   <Details dewey_decimal="306/.089/9710021$220" physical_description_text="xiii, 57, 33 p. ; 28 cm." language="eng" edition_info="" dewey_decimal_normalized="306.0899710021" lcc_number="" change_time="2005-12-16T01:13:18" price_time="2005-12-16T01:13:27" />
-   <Summary></Summary>
-   <Notes>Text in English and French.
-
-On cover: 91 aboriginal data.
-
-"Catalogue no.94-327"</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="sex_statistics">Sex -- Statistics</Subject>
-    <Subject subject_id="age_canada_statistics">Age -- Canada -- Statistics</Subject>
-    <Subject subject_id="canada_statistics_vital">Canada -- Statistics, Vital</Subject>
-    <Subject subject_id="canada_census_1991">Canada -- Census, 1991</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="age_and_sex_distribution_of_estimated_resident_population_qu" isbn="0642132550">
-   <Title>Age and sex distribution of estimated resident population, Queensland, 30 June 1986</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Australian Bureau of Statistics, Queensland Office</AuthorsText>
-   <PublisherText publisher_id="abs_queensland_office">Brisbane : ABS, Queensland Office, 1987.</PublisherText>
-   <Details dewey_decimal="307.2/0994/3" physical_description_text="53 p., 5 folded leaves : 6 maps ; 30 cm." language="eng" edition_info="" dewey_decimal_normalized="307.209943" lcc_number="" change_time="2005-04-27T10:03:52" price_time="2005-04-27T10:03:59" />
-   <Summary></Summary>
-   <Notes>Catalogue no. 3210.3.
-
-"D.N. Allen, Deputy Commonwealth Statistician" -- p. 3.
-
-Chiefly tables.
-
-Cover title.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="queensland_statistics_vital">Queensland -- Statistics, Vital</Subject>
-   </Subjects>
-  </BookData>
- </BookList>
+Publisher description http://www.loc.gov/catdir/enhancements/fy0658/2003025481-d.html</UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="criminals_united_states">Criminals -- United States</Subject>
+<Subject subject_id="criminal_behavior_united_states">Criminal behavior -- United States</Subject>
+<Subject subject_id="crime_united_states">Crime -- United States</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="about_love_a03" isbn="0872208575">
+<Title>About Love</Title>
+<TitleLong>About Love: Reinventing Romance for Our Times</TitleLong>
+<AuthorsText>Robert C. Solomon, </AuthorsText>
+<PublisherText publisher_id="hackett_publishing_company">Hackett Publishing Company</PublisherText>
+<Details dewey_decimal="128.46" physical_description_text="349 pages" language="" edition_info="Paperback; 2006-09-30" dewey_decimal_normalized="128.46" lcc_number="" change_time="2007-01-07T23:25:52Z" price_time="2007-11-18T00:05:22Z" />
+<Summary>About Love is a refreshingly reasonable and engagingly readable study of the phenomenon of romantic love. Offering insightful observations from a broad range of sourcesliterary, historical, and personalRobert Solomon explores the crucial ingredients of time and sex in contemporary relationships and discusses whether love "at first sight" is possible, and whether love that lasts a lifetime is probable.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="about_man" isbn="0827800282">
+<Title>About man</Title>
+<TitleLong>About man: an introduction to anthropology</TitleLong>
+<AuthorsText>Edited, and with annotations by Arthur Asa Berger</AuthorsText>
+<PublisherText publisher_id="pflaum_standard">Dayton, Ohio, Pflaum/Standard [1974]</PublisherText>
+<Details dewey_decimal="" physical_description_text="192 p. illus. 23 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="GN325" change_time="2003-10-31T21:23:15Z" price_time="2007-11-15T07:26:54Z" />
+<Summary></Summary>
+<Notes>Orwell, G. Marrakech.--McCord, W. The Indian untouchable.--Hinton, W. Long Bow Village.--Neville, G. K. Human beings and social change.--Lee, D. The Greek's view of self.--Lee, D. Responsibility among the Dakota.--Lifton, R. J. Who is more dry? Heroes of Japanese youth.--Linton, R. One hundred percent American.--Johnson, S. The Christmas gift horse.--Paz, O. Gastrosophy.--Kochman, T. Rapping in the ghetto.--Berger, A. A. Women and advertising: selling with sex.--Dundes, A. Folklore.--Berger, A. A. Heroes and everyday life.--Tamony, P. Levi's and hardhats.--Winick, C. Barbie as baby doll.--Gold, H. To whom it may concern, re: California.--Bibliography (p. 191-192)</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="ethnology">Ethnology</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="about_to_burst" isbn="0963660748">
+<Title>About to Burst </Title>
+<TitleLong>About to Burst : Handling Stress &amp; Ending Violence--A Message for Youth</TitleLong>
+<AuthorsText>Rebecca Ruggles Radcliffe, </AuthorsText>
+<PublisherText publisher_id="ease">Ease</PublisherText>
+<Details dewey_decimal="" physical_description_text="208 pages" language="" edition_info="Paperback; 1999-04-01" dewey_decimal_normalized="" lcc_number="" change_time="2006-01-29T01:03:05Z" price_time="2007-11-09T09:21:42Z" />
+<Summary>About to Burst: Handling Stress &amp; Ending Violence--A Message for Youth is a timely and powerful antidote to the escalating violence in teen lives. Teens feel pressure on all fronts: home, school, peers, work, etc. And they do not know how to find relief. Some drink, do drugs, smoke, eat, get angry, shop, turn to inappropriate sex, and even become violent. No one has taught them how to positively cope with stress. About to Burst's simple, easy, and quick approach to cooling down gives young people ways to let off steam--before they hurt themselves or others. About to Burst gives young people the power and self control they need when they feel overwhelmed and ready to blow. Perfect for young people, parents, teachers, counselors, and anyone who works with kids under stress.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="absolutely_positively_not" isbn="0439591090">
+<Title>Absolutely, positively not</Title>
+<TitleLong></TitleLong>
+<AuthorsText>David LaRochelle</AuthorsText>
+<PublisherText publisher_id="arthur_a_levine_books">New York : Arthur A. Levine Books, 2005.</PublisherText>
+<Details dewey_decimal="[Fic]" physical_description_text="219 p. ; 22 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="PZ7" change_time="2007-07-12T15:51:08Z" price_time="2007-11-15T01:53:36Z" />
+<Summary>Chronicles a teenage boy's humorous attempts to fit in at his Minnesota high school by becoming a macho, girl-loving, "Playboy" pinup-displaying heterosexual.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText>ALA Best Book for Young Adults, 2006</AwardsText>
+<Subjects>
+<Subject subject_id="homosexuality_fiction">Homosexuality -- Fiction</Subject>
+<Subject subject_id="coming_out_sexual_orientation_fiction">Coming out (Sexual orientation) -- Fiction</Subject>
+<Subject subject_id="conformity_fiction">Conformity -- Fiction</Subject>
+<Subject subject_id="high_schools_fiction">High schools -- Fiction</Subject>
+<Subject subject_id="schools_fiction">Schools -- Fiction</Subject>
+<Subject subject_id="humorous_stories">Humorous stories</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="absolute_beginners" isbn="0749005408">
+<Title>Absolute Beginners</Title>
+<TitleLong>Absolute Beginners (Absolute Classics S.)</TitleLong>
+<AuthorsText>Colin MacInnes</AuthorsText>
+<PublisherText publisher_id="allison_busby">Allison &amp; Busby</PublisherText>
+<Details dewey_decimal="" physical_description_text="5.2&quot;x7.8&quot;x0.6&quot;; 203 pages; 0.5 lb" language="" edition_info="Paperback; 2001-08-15" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-25T15:56:50Z" price_time="2007-10-25T07:22:04Z" />
+<Summary>London, 1958-Soho, Notting Hill . . .a world of smoky jazz clubs, coffee bars, and hip hangouts in the center of London's emerging youth culture. The young and restless--the absolute beginners--were creating a world as different as they dared from the traditional image of England's green and pleasant land. Follow our young photographer as he records the moments of a young teenager's life in the capital--sex, drugs, and rock'n'roll, the era of the first race riots and the lead up to the swinging sixties . . . A twentieth century classic, Absolute Beginners remains the style bible for anyone interested in the Mod culture and paints a vivid picture of a changing society with insight and sensitivity.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_literature_fiction_general_contemporary">Amazon.com -- Literature &amp; Fiction -- General -- Contemporary</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="absolute_truths" isbn="0449225550">
+<Title>Absolute Truths</Title>
+<TitleLong></TitleLong>
+<AuthorsText>SUSAN HOWATCH, </AuthorsText>
+<PublisherText publisher_id="fawcett">Fawcett</PublisherText>
+<Details dewey_decimal="" physical_description_text="4.1&quot;x6.8&quot;x1.2&quot;; 640 pages; 0.6 lb" language="" edition_info="Paperback; 1996-05-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-14T12:11:53Z" price_time="2007-09-20T12:19:34Z" />
+<Summary>"A SKILLFUL BLEND OF CHARACTER, PHILOSOPHY AND NARRATIVE. . .Formidable personalities embroil themselves in ruthless power struggles that would make a corporate raider blush."--The Washington Post Book WorldIt is 1965, and Charles Ashworth has attained the plum position of bishop of Starbridge, an honor that keeps him in a heady whirl of activity that would exhaust the most seasoned corporate executive. With the invaluable support of his minions and his attractive, unsinkable wife, Ashworth stands against the amorality and decadence of the age--"Anti-Sex Ashworth." He slays his opponents by being a tough, efficient, confident churchman, the torments of his past long since dead and buried.And then the unexpected, the unthinkable, strikes.Suddenly Ashworth finds himself staring into the chasm of all the lies hes been telling himself for years: about his marriage, his children, even his views on the Church. And as he suspects his old nemesis and dean, Neville Aysgarth, of drinking too much, of financial chicanery, of--God forbid--having an affair, Ashworth discovers to his horror that he is tempted to commit the very acts that he has so publicly denounced. . . ."ENTHRALLING. . .Rich, dense, almost indecently entertaining."--San Jose Mercury News"POWERFUL. . .MIRACULOUS."--Booklist (starred review)SELECTED BY THE BOOK-OF-THE-MONTH CLUB</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_literature_fiction_genre_fiction_historical">Amazon.com -- Literature &amp; Fiction -- Genre Fiction -- Historical</Subject>
+<Subject subject_id="amazon_com_literature_fiction_authors_a_z_h_howatch_susan">Amazon.com -- Literature &amp; Fiction -- Authors, A-Z -- ( H ) -- Howatch, Susan</Subject>
+<Subject subject_id="amazon_com_religion_spirituality_fiction_general">Amazon.com -- Religion &amp; Spirituality -- Fiction -- General</Subject>
+</Subjects>
+</BookData>
+</BookList>
 </ISBNdb>

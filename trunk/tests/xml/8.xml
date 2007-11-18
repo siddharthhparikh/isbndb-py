@@ -1,165 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ISBNdb server_time="2005-12-20T19:13:45">
- <KeyStats granted="0" access_key="test" requests="0" limit="0" />
- <BookList total_results="8408" page_size="10" page_number="8" shown_results="10">
-  <BookData book_id="acts_of_abuse" isbn="0415073723">
-   <Title>Acts of abuse</Title>
-   <TitleLong>Acts of abuse: sex offenders and the criminal justice system</TitleLong>
-   <AuthorsText>Adam Sampson</AuthorsText>
-   <PublisherText publisher_id="routledge">London ; Routledge, 1994.</PublisherText>
-   <Details dewey_decimal="364.1/53/092241" physical_description_text="xiv, 141 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="364.153092241" lcc_number="HQ72" change_time="2003-11-12T09:16:23" price_time="2005-11-19T19:56:14" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. [126]-137) and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="sex_offenders_great_britain">Sex offenders -- Great Britain</Subject>
-    <Subject subject_id="criminal_justice_administration_of_great_britain">Criminal justice, Administration of -- Great Britain</Subject>
-    <Subject subject_id="sex_offenders">Sex offenders</Subject>
-    <Subject subject_id="great_britain">Great Britain</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="acts_of_abuse_a01" isbn="0415073731">
-   <Title>Acts of abuse</Title>
-   <TitleLong>Acts of abuse: sex offenders and the criminal justice system</TitleLong>
-   <AuthorsText>Adam Sampson</AuthorsText>
-   <PublisherText publisher_id="routledge">London ; Routledge, 1994.</PublisherText>
-   <Details dewey_decimal="364.1/53/092241" physical_description_text="xiv, 141 p. ; 23 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="364.153092241" lcc_number="HQ72" change_time="2003-11-12T09:16:28" price_time="2005-03-01T07:11:34" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. [126]-137) and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="sex_offenders_great_britain">Sex offenders -- Great Britain</Subject>
-    <Subject subject_id="criminal_justice_administration_of_great_britain">Criminal justice, Administration of -- Great Britain</Subject>
-    <Subject subject_id="sex_offenders">Sex offenders</Subject>
-    <Subject subject_id="great_britain">Great Britain</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="act_of_marriage_after_40_the" isbn="0310231140">
-   <Title>Act of Marriage After 40, The</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Tim LaHaye, Beverly LaHaye, Mike Yorkey</AuthorsText>
-   <PublisherText publisher_id="zondervan_publishing_company">Zondervan Publishing Company</PublisherText>
-   <Details dewey_decimal="" physical_description_text="5.8&quot;x8.9&quot;x1.0&quot;; 272 pages; 0.9 lb" language="" edition_info="Hardcover; 2000-10-01" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-21T07:58:02" price_time="2005-11-23T18:23:47" />
-   <Summary>The Act of Marriage After 40: Making Love for Life by Tim and Beverly LaHaye with Mike Yorkey is a practical, no-nonsense guidebook that will teach married couples to have a more satisfying sex life in middle age and beyond. A follow-up to their successful Act of Marriage, the topics covered in this book are based on the results of a comprehensive survey investigating the sexual issues that are most important to older Christian couples. Although the LaHayes say their research indicates that "the frequency of sex is reduced by advancing age," they make a convincing case for their belief that "the meaning of the act of marriage can be enriching, more satisfying even with the passage of years." Each chapter of the book explores topics such as menopause, erectile dysfunction, breast cancer, prostate cancer, and the temptation of extramarital affairs. The LaHayes also provide a number of strategies for jump-starting stalled sex lives. Some of these strategies are atmospheric (men will learn that "items that stir a woman's senses are a bouquet of flowers, a bowl of fresh fruit, or 100-gram bars of Swiss chocolate (chocolate has been known for its aphrodisiac qualities for centuries)." Other strategies are more technical. (Various sexual positions are described, and although the LaHayes "do not personally recommend or advocate oral sex," they "see no biblical grounds to preclude two married people from enjoying the practice.") The Act of Marriage is a passionate exploration of an important subject, and its advice will help many married couples practice sexual faithfulness to one another as an expression of Christian faith. --Paul Power</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_health_mind_body_relationships_marriage">Amazon.com -- Health, Mind &amp; Body -- Relationships -- Marriage</Subject>
-    <Subject subject_id="amazon_com_health_mind_body_sex_general">Amazon.com -- Health, Mind &amp; Body -- Sex -- General</Subject>
-    <Subject subject_id="amazon_com_religion_spirituality_christianity_christia_aaaa3">Amazon.com -- Religion &amp; Spirituality -- Christianity -- Christian Living -- Relationships -- Marriage</Subject>
-    <Subject subject_id="amazon_com_religion_spirituality_authors_a_z_l_lahaye_tim_ge">Amazon.com -- Religion &amp; Spirituality -- Authors, A-Z -- ( L ) -- Lahaye, Tim -- General</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="addicted_to_love" isbn="0892836997">
-   <Title>Addicted to "love"</Title>
-   <TitleLong>Addicted to "love": recovering from unhealthy dependencies in romance, relationships, and sex</TitleLong>
-   <AuthorsText>Stephen Arterburn</AuthorsText>
-   <PublisherText publisher_id="servant_publications">Ann Arbor, Mich. : Servant Publications, c1991.</PublisherText>
-   <Details dewey_decimal="248.8/6" physical_description_text="287 p. ; 24 cm." language="eng" edition_info="$16.95 (est.)" dewey_decimal_normalized="248.86" lcc_number="BV4596" change_time="2005-05-20T02:52:36" price_time="2005-12-12T22:50:06" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 287).</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="relationship_addiction_religious_aspects_christianity">Relationship addiction -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="sex_addiction_religious_aspects_christianity">Sex addiction -- Religious aspects -- Christianity</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="addicted_to_love_a01" isbn="0892839309">
-   <Title>Addicted to "love"</Title>
-   <TitleLong>Addicted to "love": understanding dependencies of the heart: romance, relationships, and sex</TitleLong>
-   <AuthorsText>Stephen Arterburn</AuthorsText>
-   <PublisherText publisher_id="vine_books">Ann Arbor, Mich. : Vine Books, c1996.</PublisherText>
-   <Details dewey_decimal="248.8/6" physical_description_text="307 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="248.86" lcc_number="BV4596" change_time="2005-10-19T21:56:43" price_time="2005-10-19T23:36:08" />
-   <Summary></Summary>
-   <Notes>"Now includes study guide"--Cover.
+<ISBNdb server_time="2007-11-18T00:05:19Z">
+<KeyStats granted="50" access_key="26CUOUG4" requests="50" limit="100" />
+<BookList total_results="14655" page_size="10" page_number="8" shown_results="10">
+<BookData book_id="365_days_of_sensational_sex" isbn="159240037X">
+<Title>365 Days of Sensational Sex</Title>
+<TitleLong>365 Days of Sensational Sex: Tantalizing Tips and Techniques to Keep the Fires Burning All Year Long</TitleLong>
+<AuthorsText>Lou Paget, </AuthorsText>
+<PublisherText publisher_id="gotham_books">Gotham Books</PublisherText>
+<Details dewey_decimal="" physical_description_text="6.3&quot;x9.2&quot;x1.1&quot;; 352 pages; 1.3 lb" language="" edition_info="Hardcover; 2003-12-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-23T11:27:10Z" price_time="2007-10-10T04:32:32Z" />
+<Summary>The nation's savviest sex educator delivers a daily dose of passionate advice for lovers. Lou Paget's sophisticated yet sizzling approach to sexuality has made her books and workshops phenomenally popular around the world. Whereas her other books were about seduction, 365 Days of Sensational Sex is about sustaining passion in a relationship. She provides both men and women with refreshing essays on: * Creating a sexual atmosphere in your relationship, from turning your bedroom into a sanctuary for sex to letting your partner know you find him or her irresistible and turning almost anyplace into a venue for a sexual encounter * The link between healthy relationships and a healthy sex life * Secrets and advice on maintaining an attitude toward sex that is open and curious and committed to passion-forever * A collection of Lou's "classics"-her most popular techniques for hot foreplay, pleasing each other in various positions, and trying something new * The most popular types of sexual fantasies and how to ask for one you want * Frequently asked questions, Lou's best research, and unknown sexual tidbits Over seventy-five instructional line drawings enhance the pages, and the book's one-a-day format makes it perfect for every couple seeking to stay energized years after the thrill of that initial seduction. A complete treat, 365 Days of Sensational Sex will inspire great lovers for the long term.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_health_mind_body_self_help_general">Amazon.com -- Health, Mind &amp; Body -- Self-Help -- General</Subject>
+<Subject subject_id="amazon_com_health_mind_body_sex_sex_instruction_general">Amazon.com -- Health, Mind &amp; Body -- Sex -- Sex Instruction -- General</Subject>
+<Subject subject_id="amazon_com_health_mind_body_general">Amazon.com -- Health, Mind &amp; Body -- General</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="365_days_of_sensational_sex_a01" isbn="0340832622">
+<Title>365 Days of Sensational Sex</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Lou Paget, </AuthorsText>
+<PublisherText publisher_id="hodder_mobius">Hodder Mobius</PublisherText>
+<Details dewey_decimal="612" physical_description_text="336 pages" language="" edition_info="Paperback; 2004-12-06" dewey_decimal_normalized="612" lcc_number="" change_time="2007-02-05T03:15:30Z" price_time="2007-10-10T04:32:37Z" />
+<Summary>The nation’s savviest sex educator -- whose books top 325,000 copies in print -- delivers a daily dose of passionate advice for lovers.Lou Paget’s sophisticated yet sizzling approach to sexuality has made her books and workshops phenomenally popular around the world. Whereas her other books were about seduction, 365 Days of Sensational Sex is about sustaining passion in a relationship. She provides both men and women with refreshing essays on:• Creating a sexual atmosphere in your relationship, from turning your bedroom into a sanctuary for sex to letting your partner know you find them irresistible, to turning almost any place into a venue for a sexual encounter.• The link between healthy relationships and a healthy sex life.• Secrets and advice on maintaining an attitude towards sex that is open and curious and committed to passion -- forever.• A collection of Lou Paget’s “classics” -- her most popular techniques for hot foreplay, pleasing each other in various positions and trying something new.• The most popular types of sexual fantasy and how to ask for one you want.• Frequently asked questions and Paget’s best research and unknown sexual tidbits.Dozens of line drawings enhance the pages, and the book’s one-a-day format makes it perfect for every couple seeking to stay energized years after the thrill of that initial seduction. A complete treat, 365 Days of Sensational Sex will inspire lovers for the long term.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="365_questions_for_couples" isbn="158062068X">
+<Title>365 Questions for Couples</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Michael J. Beck, Stanis Marusak Beck, Seanna Beck, Stams Maruseb Beck</AuthorsText>
+<PublisherText publisher_id="adams_media_corporation">Adams Media Corporation</PublisherText>
+<Details dewey_decimal="" physical_description_text="4.0&quot;x6.1&quot;x0.6&quot;; 206 pages; 0.3 lb" language="" edition_info="Paperback; 1999-04-01" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-22T18:28:11Z" price_time="2007-04-24T03:16:06Z" />
+<Summary>What Does He Really Think? How many things would you like to know-but don't-about you partner? Do you wish your partner would ask about your past, your goals, your inner thoughts? When was the last time the two of you shared a dream, a memory, or a fantasy together? 365 Questions For Couples shows you how to get closer to your partner by asking and answering thought-provoking questions on such subjects as: Your Relationship Relationships With Others Goals and Fantasies Memories Sex Remember, there are no right or wrong answers. The only rule is that you cannot ask a question that you refuse to answer yourself. So put some quiet time aside, make yourself comfortable and enter together into a world of goals, dreams, emotions, and your previously hidden past!</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_health_mind_body_relationships_interpersonal_rela">Amazon.com -- Health, Mind &amp; Body -- Relationships -- Interpersonal Relations</Subject>
+<Subject subject_id="amazon_com_health_mind_body_relationships_love_romance">Amazon.com -- Health, Mind &amp; Body -- Relationships -- Love &amp; Romance</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="365_ways_to_improve_your_sex_life" isbn="0452275768">
+<Title>365 ways to improve your sex life</Title>
+<TitleLong>365 ways to improve your sex life: from the files of the Playboy advisor</TitleLong>
+<AuthorsText>[edited by] James R. Petersen</AuthorsText>
+<PublisherText publisher_id="plume_a01">New York : Plume, 1996.</PublisherText>
+<Details dewey_decimal="613.9/6" physical_description_text="xvi, 300 p. ; 21 cm." language="eng" edition_info="" dewey_decimal_normalized="613.96" lcc_number="HQ31" change_time="2007-07-09T21:21:06Z" price_time="2007-11-12T01:07:44Z" />
+<Summary></Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="sexual_excitement">Sexual excitement</Subject>
+<Subject subject_id="sex">Sex</Subject>
+<Subject subject_id="sex_instruction">Sex instruction</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="39_holding" isbn="1599983575">
+<Title>39 &amp; Holding</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Tia Bangs, Samhain Publishing (Creator)</AuthorsText>
+<PublisherText publisher_id="samhain_publishing">Samhain Publishing</PublisherText>
+<Details dewey_decimal="813" physical_description_text="204 pages" language="" edition_info="Paperback; 2007-04-01" dewey_decimal_normalized="813" lcc_number="" change_time="2007-06-16T03:01:41Z" price_time="2007-08-23T12:23:51Z" />
+<Summary>Look out ex-husbands. Melissa has some unexplained powers and she's not afraid to use them! Melissa needs a break from the rut that she's in. She needed to make some changes but would they be what she bargained for or would it all blow up in her face? At this point, she didn't care. One day at the salon took her by surprise and her life has not been the same! She has magical powers that came with a drawback. Brent was sent to teach her how to control the powers before she destroys civilization with just the snap of a finger. He couldn't stand Melissa's attitude. Melissa thought every minute that she had to be in the same room with him was one too many. Suddenly the leader arrives and he was making their lives miserable. The leader has a secret and was pulling no stops to keep it that way. Will Brent and Melissa put their differences aside and work together before it's too late? It's all in Melissa's hands. Can she figure out the puzzle that would banish the leader for good, and allow Brent to stay in her world, before his time is up and he's gone forever? Warning, this title contains the following: explicit sex, graphic language.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="40_hour_man" isbn="0976969009">
+<Title>40 Hour Man</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Beaupre Stephen, </AuthorsText>
+<PublisherText publisher_id="manx_media">Manx Media</PublisherText>
+<Details dewey_decimal="741" physical_description_text="248 pages" language="" edition_info="Mass Market Paperback; 2006-06-05" dewey_decimal_normalized="741" lcc_number="" change_time="2007-01-11T22:17:58Z" price_time="2007-08-20T03:18:02Z" />
+<Summary>Is it a career or just a series of lame jobs? It's all here from doing time as a miniature golf lackey, to going bust in the internet boom. Beaupre recounts skirmishes with bad bosses, crazy co-workers, sex, drugs and polyester uniforms as he delineates his quest to find and hang onto a job he can live with.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="42nd_street_a02" isbn="0851703550">
+<Title>42nd Street</Title>
+<TitleLong></TitleLong>
+<AuthorsText>J. Hoberman</AuthorsText>
+<PublisherText publisher_id="bfi_publishing">London : BFI Publishing, 1993.</PublisherText>
+<Details dewey_decimal="" physical_description_text="79 p. : ill. ; 19 cm." language="eng" edition_info="$9.95" dewey_decimal_normalized="" lcc_number="PN1997" change_time="2007-07-20T22:04:02Z" price_time="2007-09-04T13:17:23Z" />
+<Summary>Six days before the election of Franklin D. Roosevelt in 1932, Warner Bros. completed shooting on a new-style musical. Hard-bitten, fast moving, full of gritty realism about the Depression and frank about sex, 42nd Street was in the vanguard of Warners's New Deal in Entertainment. Its plot is sheer cliche: a backstage story in which, just before opening night, the star breaks an ankle, the young understudy goes on and becomes an overnight sensation. What keeps the movie fresh sixty years later is the snappy dialogue, terrific performances from Ruby Keeler, Ginger Rogers and a host of Warners contract players, and above all the delirious dance routines of the incomparable Busby Berkeley. J. Hoberman's description of the film catches its mixture of New Deal optimism and showbiz brashness, and places them expertly in the context of Hollywood's attempt to come to terms with hard times.</Summary>
+<Notes>Includes bibliographical references (p. 78).</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="42nd_street_motion_picture">42nd street (Motion picture)</Subject>
+<Subject subject_id="motion_picture_plays_history_and_criticism">Motion picture plays -- History and criticism</Subject>
+<Subject subject_id="motion_picture_plays_technique">Motion picture plays -- Technique</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="44_dublin_made_me_a01" isbn="0140286411">
+<Title>44</Title>
+<TitleLong>44: Dublin made me</TitleLong>
+<AuthorsText>Peter Sheridan</AuthorsText>
+<PublisherText publisher_id="penguin_books">New York : Penguin Books, 2000.</PublisherText>
+<Details dewey_decimal="822/.914" physical_description_text="vi, 278 p. : ill. ; 21 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="822.914" lcc_number="PR6069" change_time="2006-07-21T06:54:44Z" price_time="2007-10-17T10:04:26Z" />
+<Summary></Summary>
+<Notes>Originally published: New York : Viking Penguin, 1999.
 
-Includes bibliographical references (p. 287).</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="relationship_addiction_religious_aspects_christianity">Relationship addiction -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="sex_addiction_religious_aspects_christianity">Sex addiction -- Religious aspects -- Christianity</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="addicted_to_love_understanding_dependencies_of_the_heart" isbn="0830733760">
-   <Title>Addicted to "love"</Title>
-   <TitleLong>Addicted to "love": understanding dependencies of the heart: romance, relationships, and sex</TitleLong>
-   <AuthorsText>Stephen Arterburn</AuthorsText>
-   <PublisherText publisher_id="regal_books">Ventura, Calif. : Regal Books, 2004.</PublisherText>
-   <Details dewey_decimal="248.8/6" physical_description_text="307 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="248.86" lcc_number="BV4596" change_time="2005-11-03T14:27:52" price_time="2005-11-03T14:27:58" />
-   <Summary></Summary>
-   <Notes>Originally published: Ann Arbor, Mich. : Servant Publications, c1991.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="relationship_addiction_religious_aspects_christianity">Relationship addiction -- Religious aspects -- Christianity</Subject>
-    <Subject subject_id="sex_addiction_religious_aspects_christianity">Sex addiction -- Religious aspects -- Christianity</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="addressing_the_needs_of_developmentally_delayed_sex_offender" isbn="0662265998">
-   <Title>Addressing the needs of developmentally delayed sex offenders</Title>
-   <TitleLong>Addressing the needs of developmentally delayed sex offenders: a guide</TitleLong>
-   <AuthorsText></AuthorsText>
-   <PublisherText publisher_id="">Ottawa, 2000.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="40 p." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2004-10-08T11:11:28" price_time="2005-09-29T04:37:54" />
-   <Summary></Summary>
-   <Notes>Cat. no. H72-21/155-1998E.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="crime_and_criminals">Crime and criminals</Subject>
-    <Subject subject_id="criminal_justice_system">Criminal justice system</Subject>
-    <Subject subject_id="high_risk_offenders">High risk offenders</Subject>
-    <Subject subject_id="clinical_practice_guidelines">Clinical practice guidelines</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="add_romance" isbn="087833209X">
-   <Title>ADD &amp; romance</Title>
-   <TitleLong>ADD &amp; romance: finding fulfillment in love, sex &amp; relationships</TitleLong>
-   <AuthorsText>Jonathan Scott Halverstadt</AuthorsText>
-   <PublisherText publisher_id="taylor_publishing_co">Dallas, TX : Taylor Publishing Co., c1998.</PublisherText>
-   <Details dewey_decimal="306.7" physical_description_text="x, 230 p. ; 23 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="306.7" lcc_number="HQ801" change_time="2004-09-07T19:05:47" price_time="2005-10-17T12:02:00" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="man_woman_relationships">Man-woman relationships</Subject>
-    <Subject subject_id="attention_deficit_disordered_adults_aaaa0">Attention-deficit disordered adults</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="administering_and_teaching_sex_education_in_the_elementary_s" isbn="0130051659">
-   <Title>Administering and teaching sex education in the elementary school</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Muriel Schoenbrun Karlin</AuthorsText>
-   <PublisherText publisher_id="parker_pub_co">West Nyack, N.Y. : Parker Pub. Co., [1975]</PublisherText>
-   <Details dewey_decimal="372.3/7" physical_description_text="221 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="372.37" lcc_number="HQ57.5" change_time="2004-12-28T12:28:39" price_time="2005-11-21T23:31:10" />
-   <Summary></Summary>
-   <Notes>Includes bibliographies and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="sex_instruction_united_states">Sex instruction -- United States</Subject>
-    <Subject subject_id="sex_instruction_for_youth">Sex instruction for youth</Subject>
-    <Subject subject_id="sex_instruction_curricula">Sex instruction -- Curricula</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="adolescence_a42" isbn="0072878797">
-   <Title>Adolescence</Title>
-   <TitleLong>Adolescence: Continuity, Change and Diversity with Student CD and PowerWeb</TitleLong>
-   <AuthorsText>Nancy Cobb, Nancy Cobb, </AuthorsText>
-   <PublisherText publisher_id="mcgraw_hill_humanities_social_">McGraw-Hill Humanities/Social Sciences/Languages</PublisherText>
-   <Details dewey_decimal="" physical_description_text="600 pages" language="" edition_info="Paperback; 2003-08-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-10-17T01:02:27" price_time="2005-10-18T01:35:55" />
-   <Summary>Recognized as one of the leading texts in the field, this highly acclaimed text provides an up-to-date and thorough review of current research and theory. Praised for its engaging writing style, this text is distinguished by its excellent coverage of identity research, gender and ethnic diversity, and issues related to early and late adolescence. The inclusion of focus boxes in each chapter provides a comprehensive coverage of developmental research methods. The new Fifth Edition includes updated statistics throughout the text, a new discussion of group identity as a distinct psychosocial crisis of early adolescence, extended coverage of sex education programs, a new section on bullying, and much more!</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects></Subjects>
-  </BookData>
- </BookList>
+"With a new photo insert of the Sheridan family"--P. [4] of cover.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_biographies_memoirs_arts_literature_authors">Amazon.com -- Biographies &amp; Memoirs -- Arts &amp; Literature -- Authors</Subject>
+<Subject subject_id="sheridan_peter_1952_homes_and_haunts_ireland_dublin">Sheridan, Peter,1952-Homes and haunts -- Ireland -- Dublin</Subject>
+<Subject subject_id="dramatists_irish_homes_and_haunts_ireland_dublin">Dramatists, Irish -- Homes and haunts -- Ireland -- Dublin</Subject>
+<Subject subject_id="amazon_com_biographies_memoirs_arts_literature_theatre">Amazon.com -- Biographies &amp; Memoirs -- Arts &amp; Literature -- Theatre</Subject>
+<Subject subject_id="dublin_ireland_intellectual_life_20th_century">Dublin (Ireland) -- Intellectual life -- 20th century</Subject>
+<Subject subject_id="amazon_com_biographies_memoirs_ethnic_national_irish">Amazon.com -- Biographies &amp; Memoirs -- Ethnic &amp; National -- Irish</Subject>
+<Subject subject_id="amazon_com_biographies_memoirs_general">Amazon.com -- Biographies &amp; Memoirs -- General</Subject>
+<Subject subject_id="sheridan_peter_1952_childhood_and_youth">Sheridan, Peter,1952-Childhood and youth</Subject>
+<Subject subject_id="amazon_com_biographies_memoirs_family_childhood">Amazon.com -- Biographies &amp; Memoirs -- Family &amp; Childhood</Subject>
+<Subject subject_id="dramatists_irish_20th_century_biography">Dramatists, Irish -- 20th century -- Biography</Subject>
+<Subject subject_id="amazon_com_biographies_memoirs_memoirs">Amazon.com -- Biographies &amp; Memoirs -- Memoirs</Subject>
+<Subject subject_id="dublin_ireland_social_life_and_customs">Dublin (Ireland) -- Social life and customs</Subject>
+<Subject subject_id="dublin_ireland_biography">Dublin (Ireland) -- Biography</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="45_rpm_a01" isbn="1568983581">
+<Title>45 RPM</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Spencer Drate, Charles L. Granata</AuthorsText>
+<PublisherText publisher_id="princeton_architectural_press">Princeton Architectural Press</PublisherText>
+<Details dewey_decimal="" physical_description_text="7.7&quot;x7.7&quot;x0.9&quot;; 240 pages; 1.5 lb" language="" edition_info="Paperback; 2002-10-01" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-25T15:56:58Z" price_time="2007-05-30T21:44:02Z" />
+<Summary>Singles, 45s, 7-inchers-they have many names, but come in only one package: a square of folded cardboard with a miniature poster on either side. The gold standard of Top 40 playlists for some four decades after their introduction in 1949, these small albums have long been the favorites of DJs and collectors, who prize them for their genius of small-scale graphic design. 45 RPM is the first ever collection of 7-inch sleeves. Organized chronologically, it juxtaposes more than 200 albums, from all genres of music, chosen for their inventive design. It includes albums by such legendary artists as Paul Anka, the Beatles, the Boston Pops, the Clash, Donovan, Dizzy Gillespie, Jerry Lee Lewis, Dean Martin, Curtis Mayfield, Roy Orbison, Elvis Presley, the Ramones, REM, the Rolling Stones, the Sex Pistols, Frank Sinatra, Talking Heads, and many others. Music historian Chuck Granata provides a general introduction to the history of the 45, its place in the music business, and the designers who created the covers. Each decade of design is introduced by a specialist in that period: Eric Kohler on the 1950s, Spencer Drate on the 1960s, Roger Dean (designer of the acclaimed albums for the band Yes) on the 1970s, Bob Grossweiner on the 1980s, and Art Chantry on the 1990s and contemporary design.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_arts_photography_graphic_design_graphic_arts_gene">Amazon.com -- Arts &amp; Photography -- Graphic Design -- Graphic Arts -- General</Subject>
+<Subject subject_id="amazon_com_entertainment_music_general">Amazon.com -- Entertainment -- Music -- General</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="47th_samurai_the" isbn="1593551770">
+<Title>47th Samurai, The</Title>
+<TitleLong>47th Samurai, The (Swagger)</TitleLong>
+<AuthorsText>Stephen Hunter, Buck Schirner (Narrator)</AuthorsText>
+<PublisherText publisher_id="brilliance_audio_on_cd">Brilliance Audio on CD</PublisherText>
+<Details dewey_decimal="813.54" physical_description_text="" language="" edition_info="Audio CD; 2007-09-11" dewey_decimal_normalized="813.54" lcc_number="" change_time="2007-10-26T16:53:51Z" price_time="2007-11-18T00:05:19Z" />
+<Summary>Bob Lee Swagger and Philip Yano are bound together by a single moment at Iwo Jima, 1945, when their fathers, two brave fighters on opposite sides, met in the bloody and chaotic battle for the island. Only Earl Swagger survived.More than sixty years later, Yano comes to America to honor the legacy of his heroic father by recovering the sword he used in the battle. His search has led him to Crazy Horse, Idaho, where Bob Lee, ex-marine and Vietnam veteran, has settled into a restless retirement and immediately pledges himself to Yano's quest.Bob Lee finds the sword and delivers it to Yano in Tokyo. On inspection, they discover that it is not a standard WWII blade, but a legendary shin-shinto katana, an artifact of the nation. It is priceless but worth killing for. Suddenly Bob is at the center of a series of terrible crimes he barely understands but vows to avenge. And to do so, he throws himself into the world of the samurai, Tokyo's dark, criminal yakuza underworld, and the unwritten rules of Japanese culture.Swagger's allies, hard-as-nails, American-born Susan Okada and the brave, cocaine-dealing tabloid journalist Nick Yamamoto, help him move through this strange, glittering, and ominous world from the shady bosses of the seamy Kabukicho district to officials in the highest echelons of the Japanese government, but in the end, he is on his own and will succeed only if he can learn that to survive samurai, you must become samurai.As the plot races and the violence escalates, it becomes clear that a ruthless conspiracy is in place, and the only thing that can be taken for granted is that money, power, and sex can drive men of all nationalities to gruesome extremes. If Swagger hopes to stop them, he must be willing not only to die but also to kill.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+</BookList>
 </ISBNdb>

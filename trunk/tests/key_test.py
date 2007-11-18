@@ -1,5 +1,5 @@
+import sys
 if __name__ == '__main__':
-    import sys
     sys.path.insert(0,'..')
     prependdir = ''
 else:
@@ -7,10 +7,13 @@ else:
 
 import unittest
 
-try:
-    import cElementTree as ElementTree
-except:
-    from elementtree import ElementTree
+if sys.version_info[0] == 2 and sys.version_info[1] <= 4:
+    try:
+        import cElementTree as ElementTree
+    except:
+        from elementtree import ElementTree
+elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
+    from xml.etree import ElementTree
 
 import isbndb.keys as keys
 from isbndbkey import KEY
@@ -73,6 +76,7 @@ class TestKeyFuncs(unittest.TestCase):
         self.assertEqual(keys._KEYFILE, prependdir+'xml/keys',
                          "FAILED (set bad KEYFILE)\n%s"%keys._KEYFILE)
         print "OK"
+
     def test_loadKeysEmpty(self):
         print "Testing loadKeys() with a non-existant file...",
         import os, os.path

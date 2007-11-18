@@ -1,249 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ISBNdb server_time="2005-12-20T19:13:55">
- <KeyStats granted="0" access_key="test" requests="0" limit="0" />
- <BookList total_results="8408" page_size="10" page_number="14" shown_results="10">
-  <BookData book_id="aids_drugs_and_prostitution_a01" isbn="0415041090">
-   <Title>AIDS, drugs, and prostitution</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>edited by Martin Plant</AuthorsText>
-   <PublisherText publisher_id="routledge">London ; Routledge, 1990.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="xvi, 213 p. ; 22 cm." language="eng" edition_info="(pbk.) :$16.95" dewey_decimal_normalized="" lcc_number="" change_time="2005-05-15T12:50:56" price_time="2005-05-15T12:50:59" />
-   <Summary></Summary>
-   <Notes>Includes statistical tables.
+<ISBNdb server_time="2007-11-18T00:05:24Z">
+<KeyStats granted="50" access_key="26CUOUG4" requests="50" limit="100" />
+<BookList total_results="14655" page_size="10" page_number="14" shown_results="10">
+<BookData book_id="achieving_it_all_a_novel" isbn="0595095313">
+<Title>Achieving It All: A Novel</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Bengta Boydstrom, </AuthorsText>
+<PublisherText publisher_id="writers_club_press">Writers Club Press</PublisherText>
+<Details dewey_decimal="813" physical_description_text="276 pages" language="" edition_info="Paperback; 2000-04" dewey_decimal_normalized="813" lcc_number="" change_time="2007-01-20T04:51:10Z" price_time="2007-11-18T00:05:24Z" />
+<Summary>This novel was written at a women's writing workshop. It's purpose is to explore the ways in which the rules of female sexuality keep changing. The intent is to help each woman have a better sense of her body in all its parts and to empower her to claim it as her own. It also looks at several health risks resulting from the sexual revolution, and tries to do this all with humor. The goal is to help each woman not have more sex, but to gain better satisfaction.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="acid_rains_on_liberal_propaganda" isbn="059566914X">
+<Title>Acid Rains on Liberal Propaganda </Title>
+<TitleLong>Acid Rains on Liberal Propaganda : Ultra Liberals, Far Lefters and Global Warmers Beware</TitleLong>
+<AuthorsText>Gerald T Westbrook, </AuthorsText>
+<PublisherText publisher_id="iuniverse_inc">iUniverse, Inc.</PublisherText>
+<Details dewey_decimal="" physical_description_text="137 pages" language="" edition_info="Hardcover; 2004-12-09" dewey_decimal_normalized="" lcc_number="" change_time="2005-08-04T17:55:42Z" price_time="2005-12-20T19:14:09Z" />
+<Summary>This book is about war, as waged by the ultra Liberals and the far Left and about the insidious propaganda tidal wave they have launched. This book is about the hype and scare stories on the environment and climate change, issues that are extremely difficult for the average citizen to assess. Everyday we are besieged with thousands of messages. TV is terrible. Magazines are particularly egregious, stuck in the face of every housewife and teenager at every check out station in the country. These offer secrets on everything: looks, stress, sex, health, environment, etc. In addition you are given a one-sided message about each new issue, namely that big government is the answer. And the press usually provides unlimited, un-researched and un-skeptical support. Serving as a shill for such issues is not journalism. It is a corruption of the profession. It is prostitution, a selling out of the values of honest journalism for the adoration of the so-called elite, and the hope of ultimately becoming one of these so-called elite.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="acquaintance_rape" isbn="0471510238">
+<Title>Acquaintance rape</Title>
+<TitleLong>Acquaintance rape: the hidden crime</TitleLong>
+<AuthorsText>edited by Andrea Parrot, Laurie Bechhofer</AuthorsText>
+<PublisherText publisher_id="wiley">New York : Wiley, c1991.</PublisherText>
+<Details dewey_decimal="362.88/3" physical_description_text="xxiii, 401 p. : ill. ; 25 cm." language="eng" edition_info="$42.95" dewey_decimal_normalized="362.883" lcc_number="HV6561" change_time="2003-11-08T02:01:32Z" price_time="2007-10-08T18:45:29Z" />
+<Summary></Summary>
+<Notes>"A Wiley-Interscience publication."
 
 Includes bibliographical references and indexes.
 
-Sex work, alcohol, drugs, and AIDS / Martin Plant -- Prostitution, intravenous drug use, and HIV-1 in the United States / William Darrow -- Safer prostitution: a new approach in Holland / Petrien U. Venema and Jan Visser -- The Praed Street Project: a cohort of prostitute women in London / Sophie Day and Helen Ward -- Outreach work with female prostitutes in Liverpool / Lyn Matthews -- AIDS risks, alcohol, drugs, and the sex industry; a Scottish study
+What is acquaintance rape? / Laurie Bechhofer and Andrea Parrot -- Rape myths and acquaintance rape / Martha R. Burt -- Young people's attitudes toward acquaintance rape / Jacquelyn W. White and John A. Humphrey -- Attributions of responsibility for acquaintance rape / Karen S. Calhoun and Ruth M. Townsley -- The contribution of sex-role socialization to acquaintance rape / Robin Warshaw and Andrea Parrot -- Alcohol and acquaintance rape / Deborah R. Richardson and Georgina S. Hammock -- Misperception as an antecedent of acquaintance rape : a consequenceof ambiguity in communication between women and men / Antonia Abbey -- Nonviolent sexual coercion / Charlene L. Muehlenhard and Jennifer L. Schrag.
 
-/ Ruth M. Thomas -- Intravenous drug use and syringe-sharing practices of call men and hustlers / Dan Waldorf and Sheigla Murphy --
+Wife rape / Diana E.H. Russell -- Acquaintance gang rape on campus / Chris S. O'Sullivan -- Factors that increase the likelihood of victimization / Patricia A. Harney and Charlene L. Muehlenhard -- Women as victims : antecedents and consequences of acquaintance rape / Catalina A.Mandoki and Barry R. Burkhart -- Male victims of acquaintance rape / Cindy Struckman-Johnson -- Sexually coercive college males / Karen R. Rapaport and C. Dale Posey -- Attraction to sexual aggression / Neil M. Malamuth and Karol E. Dean -- The psychological impact of stranger versus nonstranger rape on victims' recovery / Bonnie L. Katz -- The effects of acquaintance rape on the female victim / Christine A. Gidycz and Mary P. Koss.
 
-Female prostitutes, AIDS, drugs, and alcohol in New South Wales / Christine Harcourt and Ross Philpot -- Prostitution and AIDS risks among female drug users in Frankfurt / Dagmar Hedrich -- Prostitution in Accra / Alfred Neequaye -- Prostitution and AIDS in Spain / Pilar Estebanez Estebanez -- Conclusions and future strategies / Martin Plant.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="prostitution_and_aids">Prostitution and AIDS</Subject>
-    <Subject subject_id="drugs_and_sex_behavior">Drugs and sex behavior</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="aids_in_europe" isbn="0203500938">
-   <Title>AIDS in Europe</Title>
-   <TitleLong>AIDS in Europe new challenges for the social sciences</TitleLong>
-   <AuthorsText>edited by Jean-Paul Moatti... [et al.]</AuthorsText>
-   <PublisherText publisher_id="routledge">London ; Routledge, 2000.</PublisherText>
-   <Details dewey_decimal="362.1/969792/0094" physical_description_text="xviii, 268 p. : ill. ; 24 cm." language="eng" edition_info="(electronic bk.)" dewey_decimal_normalized="362.19697920094" lcc_number="RA644" change_time="2004-07-15T19:18:52" price_time="2005-09-25T11:15:05" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references and index.
-
-Living with HIV and therapeutic advances. Coping with a chronic illness: the experience of families of HIV-infected children -- HIV seropositivity, adaptation and everyday life in Greece -- Psychological and behavioural factors and the natural history of HIV infection -- Attitudinal factors and adherence to protease inhibitor combination therapy -- Living with HIV/AIDS and adherence to antiretroviral treatments -- New perspectives on sexuality. Seropositivity, risk and sexuality -- Socio-economic status and HIV prevalence among gay men in Germany -- Condom use among 15 to 18 year-olds in France: changes in behaviour over time -- Sexual revolution in Russia and the tasks of sex education -- Young people, social relationships and sexuality in Bulgaria -- Drug use: user and policy perspectives. Risk behaviour and HIV infection in European prisons -- Drug users' views and service evaluation -- Between public health and public order: harm reduction facilities and neighbourhood problems -- Drug use, AIDS and social exclusion in France -- Accounting for the epidemic. The normalisation of AIDS policies in Europe: patterns, path dependency and innovation -- UK HIV testing practice: by how much might the infection diagnosis rate increase through normalisation? -- Modelling network structure: implications for the spread and prevention of HIV infection -- Understanding risk management: towards an integration of individual, interactive and social levels.
-
-Access restricted to Vanderbilt users.
-
-Electronic reproduction.Boulder, Colo. :NetLibrary,2002.Available via World Wide Web.Access may be limited to NetLibrary affiliated libraries.</Notes>
-   <UrlsText>http://www.netLibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=72370 An electronic book accessible through the World Wide Web; click for information</UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="aids_disease_social_aspects_europe">AIDS (Disease) -- Social aspects -- Europe</Subject>
-    <Subject subject_id="acquired_immunodeficiency_syndrome_epidemiology_europe_congr">Acquired Immunodeficiency Syndrome -- epidemiology -- Europe -- Congresses</Subject>
-    <Subject subject_id="acquired_immunodeficiency_syndrome_psychology_europe_congres">Acquired Immunodeficiency Syndrome -- psychology -- Europe -- Congresses</Subject>
-    <Subject subject_id="health_behavior_europe_congresses">Health Behavior -- Europe -- Congresses</Subject>
-    <Subject subject_id="sex_behavior_europe_congresses">Sex Behavior -- Europe -- Congresses</Subject>
-    <Subject subject_id="socioeconomic_factors_europe_congresses">Socioeconomic Factors -- Europe -- Congresses</Subject>
-    <Subject subject_id="substance_abuse_intravenous_europe_congresses">Substance Abuse, Intravenous -- Europe -- Congresses</Subject>
-    <Subject subject_id="sida_aspect_social_europe">Sida -- Aspect social -- Europe</Subject>
-    <Subject subject_id="electronic_books">Electronic books</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alan_of_lilles_grammar_of_sex" isbn="0910956855">
-   <Title>Alan of Lille's grammar of sex</Title>
-   <TitleLong>Alan of Lille's grammar of sex: the meaning of grammar to a twelfth-century intellectual</TitleLong>
-   <AuthorsText>Jan Ziolkowski</AuthorsText>
-   <PublisherText publisher_id="medieval_academy_of_america">Cambridge, Mass. : Medieval Academy of America, 1985.</PublisherText>
-   <Details dewey_decimal="871/.03" physical_description_text="xi, 171 p. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="871.03" lcc_number="P85" change_time="2004-12-26T14:14:00" price_time="2005-11-11T11:36:40" />
-   <Summary></Summary>
-   <Notes>Bibliography: p. 145-171.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="alanus_de_insulis_d_1202_criticism_and_interpretation">Alanus,de Insulis,d. 1202 -- Criticism and interpretation</Subject>
-    <Subject subject_id="grammar_comparative_and_general_history">Grammar, Comparative and general -- History</Subject>
-    <Subject subject_id="homosexuality">Homosexuality</Subject>
-    <Subject subject_id="latin_literature_medieval_and_modern_history_and_criticism">Latin literature, Medieval and modern -- History and criticism</Subject>
-    <Subject subject_id="education_medieval">Education, Medieval</Subject>
-    <Subject subject_id="theology_doctrinal_history_middle_ages_600_1500">Theology, Doctrinal -- History -- Middle Ages, 600-1500</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alan_of_lilles_grammar_of_sex_a01" isbn="0910956863">
-   <Title>Alan of Lille's grammar of sex</Title>
-   <TitleLong>Alan of Lille's grammar of sex: the meaning of grammar to a twelfth-century intellectual</TitleLong>
-   <AuthorsText>Jan Ziolkowski</AuthorsText>
-   <PublisherText publisher_id="medieval_academy_of_america">Cambridge, Mass. : Medieval Academy of America, 1985.</PublisherText>
-   <Details dewey_decimal="871/.03" physical_description_text="xi, 171 p. ; 24 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="871.03" lcc_number="P85" change_time="2004-12-26T14:14:04" price_time="2005-08-20T18:18:09" />
-   <Summary></Summary>
-   <Notes>Bibliography: p. 145-171.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="alanus_de_insulis_d_1202_criticism_and_interpretation">Alanus,de Insulis,d. 1202 -- Criticism and interpretation</Subject>
-    <Subject subject_id="grammar_comparative_and_general_history">Grammar, Comparative and general -- History</Subject>
-    <Subject subject_id="homosexuality">Homosexuality</Subject>
-    <Subject subject_id="latin_literature_medieval_and_modern_history_and_criticism">Latin literature, Medieval and modern -- History and criticism</Subject>
-    <Subject subject_id="education_medieval">Education, Medieval</Subject>
-    <Subject subject_id="theology_doctrinal_history_middle_ages_600_1500">Theology, Doctrinal -- History -- Middle Ages, 600-1500</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alcoholism_and_women_a01" isbn="0306471388">
-   <Title>Alcoholism and women</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>edited by Marc Galanter</AuthorsText>
-   <PublisherText publisher_id="kluwer_academic_pub">New York : Kluwer Academic Pub., c2002.</PublisherText>
-   <Details dewey_decimal="616.86/1/0088042" physical_description_text="xxiii, 472 p. : ill. ; 26 cm." language="eng" edition_info="(electronic bk.)" dewey_decimal_normalized="616.8610088042" lcc_number="HV5137" change_time="2004-07-31T20:13:03" price_time="2005-10-19T21:18:50" />
-   <Summary></Summary>
-   <Notes>Electronic version version of ed. published: New York : Plenum Press, c1995.
-
-Includes bibliographical references and index.
-
-Epidemiology. Vulnerability to alcoholism in women : genetic and cultural factors / Shirley Y. Hill -- Drinking and problem drinking in U.S. women : patterns and recent trends / Sharon C. Wilsnack and Richard W. Wilsnack -- Older women and alcohol : use and abuse / Edith S. Lisansky Gomberg.
-
-Epidemiology (con't.). Violent victimization among women with alcohol problems / Brenda A. Miller a0d William R. Downs -- Women, alcohol, and driving / Patricia F. Waller and Frederic C. Blow -- Employed women with alcohol problems who seek help from employee assistance programs : description and comparisons / Terry C. Blum, Paul M. Roman, and Eileen M. Harwood.
-
-Physiology. Gender differences in alcohol metabolism : physiological responses to ethanol / Holly S. Thomasson -- Mental and physical health consequences of alcohol use in women / Shirley Y. Hill -- Alcohol effects on hormone levels in normal postmenopausal women and in postmenopausal women with alcohol-induced cirrhosis / Judith S. Gavaler -- Gender differences in animal studies : implications for the study of human alcoholism / Francine E. Lancaster -- Sex distinctiveness in effective genotype / Gerald E. McClearn.
-
-Physiology (con't.). Sex differences in ethanol-related behaviors in genetically defined murine stocks / Byron C. Jones and Keith E. Whitfield -- Sex differences in mesolimbic dopamine responses to ethanol and relationship to ethanol intake in rats / Betty A. Blanchard and Stanley D. Glick -- Anxiolytic effects of steroid hormones during estrous cycle : interactions with ethanol / Michelle D. Brot, George F. Koob, and Karen T. Britton.
-
-Behavior and treatment issues. Women, alcohol, and sexuality / Linda J. Beckman and Kimberly T. Ackerman -- Cognitive psychosocial performance and recovery in female alcoholics / Sara Jo Nixon and Susan Wagner Glenn -- Emergence of problem-drinking women as a special population in need of treatment / Laura Schmidt and Constance Weisner.
-
-Social and cultural issues. Race/ethnicity and other sociocultural influences on alcoholism treatment for women / Beatrice A. Rouse, James H. Carter, and Sylvia Rodriguez-Andrew -- Patterns of alcohol use among ethnic minority adolescent women / Ruth W. Edwards, Pamela Jumper Thurman, and Fred Beauvais.
-
-Alcoholism in the family : a multicultural exploration / Andrea G. Barthwell -- Gender differences for the risk of alcohol-related problems in multiple national contexts : a research synthesis from the collaborative alcohol-related longitudinal project / Kaye Middleton Fillmore ... [et al.].
-
-Made available through NetLibrary; access may be limited to NetLibrary affiliated libraries.</Notes>
-   <UrlsText>Bibliographic record display http://ezproxy.prescott.latech.edu:2048/login?url=http://www.netlibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=70205 An electronic book accessible through the World Wide Web; click for information</UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="women_alcohol_use">Women -- Alcohol use</Subject>
-    <Subject subject_id="alcoholism_treatment">Alcoholism -- Treatment</Subject>
-    <Subject subject_id="women_alcoholics_psychology">Women alcoholics -- Psychology</Subject>
-    <Subject subject_id="alcoholism">Alcoholism</Subject>
-    <Subject subject_id="women">Women</Subject>
-    <Subject subject_id="electronic_books">Electronic books</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alcoholism_in_women" isbn="0840321120">
-   <Title>Alcoholism in women</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>edited by Cristen C. Eddy, John L. Ford</AuthorsText>
-   <PublisherText publisher_id="kendall_hunt_pub_co">Dubuque, Iowa : Kendall/Hunt Pub. Co., c1980.</PublisherText>
-   <Details dewey_decimal="362.2/92/088042" physical_description_text="xvi, 189 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="362.292088042" lcc_number="HV5137" change_time="2004-10-29T17:35:31" price_time="2005-10-17T05:39:30" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references and index.
-
-Introduction -- Sex-role adjustment in women alcoholics / Frederick B. Parker -- Femininity by the bottle / Sharon C. Wilsnack -- Women and men problem drinkers / Harold A. Mulford -- The effects of alcohol on anxiety in problem and nonproblem drinking women / Cristen C. Eddy -- Prevention of alcohol problems in women / Sharon C. Wilsnack -- Women employees and job-based alcoholism programs / Harrison M. Trice and Janice M. Beyer -- Women on skid row / Gerald A. Garrett and Howard M. Bahr -- Fetal alcohol syndrome and drinking during pregnancy / Cristen C. Eddy and Christine M. Olson -- Diagnosis, casefinding, and treatment of alcohol problems in women / Sheila B. Blume -- Alcoholism and the lesbian community / Brenda Weathers -- Marital therapy of women alcoholics / Daniel Dinaburg, Ira D. Glick, and Elliott Feigenbaum -- Women helping women / Marian Sandmaier -- Women and alcohol / Jean Kirkpatrick.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="women_alcoholics">Women alcoholics</Subject>
-    <Subject subject_id="women_alcohol_use_prevention">Women -- Alcohol use -- Prevention</Subject>
-    <Subject subject_id="alcoholism_treatment">Alcoholism -- Treatment</Subject>
-    <Subject subject_id="alcoholism_prevention_control_essays">Alcoholism -- prevention &amp; control -- Essays</Subject>
-    <Subject subject_id="women_essays">Women -- essays</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alcohol_sex_and_gender_in_late_medieval_and_early_modern_a01" isbn="0333711947">
-   <Title>Alcohol, sex, and gender in late medieval and early modern Europe</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>A. Lynn Martin</AuthorsText>
-   <PublisherText publisher_id="palgrave">Houndmills, Basingstoke, Hampshire ; Palgrave, 2001.</PublisherText>
-   <Details dewey_decimal="394.1/3/094" physical_description_text="x, 200 p. ; 23 cm." language="eng" edition_info="(SERIES)" dewey_decimal_normalized="394.13094" lcc_number="HV5438" change_time="2003-11-18T16:08:14" price_time="2005-12-06T12:10:56" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 182-191) and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="drinking_of_alcoholic_beverages_europe_history">Drinking of alcoholic beverages -- Europe -- History</Subject>
-    <Subject subject_id="women_alcohol_use_europe_history">Women -- Alcohol use -- Europe -- History</Subject>
-    <Subject subject_id="men_alcohol_use_europe_history">Men -- Alcohol use -- Europe -- History</Subject>
-    <Subject subject_id="sex_customs_europe_history">Sex customs -- Europe -- History</Subject>
-    <Subject subject_id="alcoholism_and_crime_europe_history">Alcoholism and crime -- Europe -- History</Subject>
-    <Subject subject_id="alcohol_drinking_history">Alcohol Drinking -- history</Subject>
-    <Subject subject_id="england">England</Subject>
-    <Subject subject_id="alcoholism_history">Alcoholism -- History</Subject>
-    <Subject subject_id="france">France</Subject>
-    <Subject subject_id="gender_identity_history">Gender Identity -- history</Subject>
-    <Subject subject_id="italy">Italy</Subject>
-    <Subject subject_id="sex_history">Sex -- history</Subject>
-    <Subject subject_id="social_behavior_history">Social Behavior -- history</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alcohol_sex_and_gender_in_late_medieval_and_early_modern_a02" isbn="0333922425">
-   <Title>Alcohol, sex, and gender in late medieval and early modern Europe</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>A. Lynn Martin</AuthorsText>
-   <PublisherText publisher_id="palgrave">Houndmills [England] ; Palgrave, 2001.</PublisherText>
-   <Details dewey_decimal="394.1/3/094" physical_description_text="x, 200 p. ; 23 cm." language="eng" edition_info="(Outside North America : cloth)" dewey_decimal_normalized="394.13094" lcc_number="HV5438" change_time="2004-03-02T06:36:44" price_time="2005-12-06T12:11:01" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 182-191) and index.
-
-1. Introduction. The functions of alcohol in traditional Europe. Variations over time and place. Alcohol, sex, and gender. Sources and method -- 2. Women and Alcohol. Abstinent and temperate women. Drinking women. The functions of alcohol. Playing with statistics. Explaining it away -- 3. Sex and Alcohol. The symbolism of alcohol. Conception and pregnancy. Variations on Lot and Terence. Weddings -- 4. Alehouses, Taverns, and Prostitutes. The sociability of drinking. The devil's church. Prostitutes. Female keepers. The clientele -- 5. Sexual Encounters. Foreplay. Seduction and rape. In alehouses and taverns. Promiscuity and impotence -- 6. Unruly Women and Violent Men. The unruly woman in literature. The unruly woman in 'life'. Drinking men. Alcohol and violence -- 7. Husbands and Wives. Good fellows and shrewish wives. The economic cost of drinking. Adultery. Domestic violence. Domestic harmony -- 8. Conclusion.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="drinking_of_alcoholic_beverages_europe_history">Drinking of alcoholic beverages -- Europe -- History</Subject>
-    <Subject subject_id="women_alcohol_use_europe_history">Women -- Alcohol use -- Europe -- History</Subject>
-    <Subject subject_id="men_alcohol_use_europe_history">Men -- Alcohol use -- Europe -- History</Subject>
-    <Subject subject_id="sex_customs_europe_history">Sex customs -- Europe -- History</Subject>
-    <Subject subject_id="alcoholism_and_crime_europe_history">Alcoholism and crime -- Europe -- History</Subject>
-    <Subject subject_id="alcohol_drinking_history">Alcohol Drinking -- history</Subject>
-    <Subject subject_id="england">England</Subject>
-    <Subject subject_id="alcoholism_history">Alcoholism -- History</Subject>
-    <Subject subject_id="france">France</Subject>
-    <Subject subject_id="gender_identity_history">Gender Identity -- history</Subject>
-    <Subject subject_id="italy">Italy</Subject>
-    <Subject subject_id="sex_history">Sex -- history</Subject>
-    <Subject subject_id="social_behavior_history">Social Behavior -- history</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alcohol_sex_and_gender_in_late_medieval_and_early_modern_eur" isbn="0312234147">
-   <Title>Alcohol, sex and gender in late medieval and early modern Europe</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>A. Lynn Martin</AuthorsText>
-   <PublisherText publisher_id="palgrave">Houndmills, Basingstoke, Hampshire ; Palgrave, 2001.</PublisherText>
-   <Details dewey_decimal="394.1/3/094" physical_description_text="x, 200 p. ; 23 cm." language="eng" edition_info="(cloth)" dewey_decimal_normalized="394.13094" lcc_number="HV5438" change_time="2003-11-12T04:38:59" price_time="2005-12-17T01:23:04" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references (p. 182-191) and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="drinking_of_alcoholic_beverages_europe_history">Drinking of alcoholic beverages -- Europe -- History</Subject>
-    <Subject subject_id="women_alcohol_use_europe_history">Women -- Alcohol use -- Europe -- History</Subject>
-    <Subject subject_id="men_alcohol_use_europe_history">Men -- Alcohol use -- Europe -- History</Subject>
-    <Subject subject_id="sex_customs_europe_history">Sex customs -- Europe -- History</Subject>
-    <Subject subject_id="alcoholism_and_crime_europe_history">Alcoholism and crime -- Europe -- History</Subject>
-    <Subject subject_id="alcohol_drinking_history">Alcohol Drinking -- history</Subject>
-    <Subject subject_id="england">England</Subject>
-    <Subject subject_id="alcoholism_history">Alcoholism -- History</Subject>
-    <Subject subject_id="france">France</Subject>
-    <Subject subject_id="gender_identity_history">Gender Identity -- history</Subject>
-    <Subject subject_id="italy">Italy</Subject>
-    <Subject subject_id="sex_history">Sex -- history</Subject>
-    <Subject subject_id="social_behavior_history">Social Behavior -- history</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="alec_baldwin_doesnt_love_me_and_other_trials_of_my_queer_lif" isbn="1555834310">
-   <Title>Alec Baldwin Doesn't Love Me and Other Trials of My Queer Life</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Michael Thomas Ford, </AuthorsText>
-   <PublisherText publisher_id="alyson_publications">Alyson Publications</PublisherText>
-   <Details dewey_decimal="" physical_description_text="5.4&quot;x8.5&quot;x0.6&quot;; 256 pages; 0.5 lb" language="" edition_info="Paperback; 1998-01-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-07T04:30:35" price_time="2005-11-01T00:55:34" />
-   <Summary>The short humorous essay is a form that few writers can master. Sure, pithy and funny are easy enough (if you are, in fact, pithy and funny), but the failings of most humorous essays come from a lack of seriousness. Humor is most effective when the writing articulates a clear, thoughtful point of view. The essays in Michael Thomas Ford's Alec Baldwin Doesn't Love Me &amp; Other Trials from My Queer Life are perfect models of the form. Ford, who writes a syndicated column titled "My Queer Life," can muse on anything from Martha Stewart's manias to his devotion to Alec Baldwin's chest, from the elusive gay gene to right-wing Fundamentalist Christianity (in which he was raised), and he manages to make us laugh and sometimes even cry. His ironic view of a world that keeps threatening to be wonderful but never quite succeeds dovetails perfectly with his desire for world peace, freedom for gay people, and better sex. Witty, funny, and surprisingly moving, Michael Thomas Ford explains life to us and it actually begins to make sense.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_entertainment_humor_general">Amazon.com -- Entertainment -- Humor -- General</Subject>
-    <Subject subject_id="amazon_com_literature_fiction_essays_general">Amazon.com -- Literature &amp; Fiction -- Essays -- General</Subject>
-    <Subject subject_id="amazon_com_gay_lesbian_nonfiction_general">Amazon.com -- Gay &amp; Lesbian -- Nonfiction -- General</Subject>
-   </Subjects>
-  </BookData>
- </BookList>
+Conceptual and practical analysis of therapy for acquaintance rape victims / Barry R. Burkhart -- Medical community response to acquaintancerape : recommendations / Andrea Parrot -- Acquaintance rape and the law / Carol Bohmer -- The personal perspective of acquaintance rape prevention : a three-tier approach / Patricia D. Rozée, Py Bateman, and Theresa Gilmore -- Institutional response : how can acquaintance rape be prevented? ; Recommendations for college policies and procedures to deal with acquaintance rape / Andrea Parrot.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="acquaintance_rape_united_states">Acquaintance rape -- United States</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="acquired_motives" isbn="0743463358">
+<Title>Acquired Motives</Title>
+<TitleLong>Acquired Motives: A Dr. Silvia Strange Novel</TitleLong>
+<AuthorsText>Sarah Lovett, </AuthorsText>
+<PublisherText publisher_id="pocket">Pocket</PublisherText>
+<Details dewey_decimal="" physical_description_text="368 pages" language="" edition_info="Paperback; 2003-02-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-04-17T02:15:48Z" price_time="2007-01-24T21:45:40Z" />
+<Summary>A different kind of serial killer is terrorizing the city of Santa Fe. All of the victims have one thing in common: they were violent sex offenders who slipped through the cracks in the justice system, and walked on legal technicalities. Someone has decided to make them pay. Forensic psychologist Dr. Sylvia Strange is called upon to help catch the killer, even if she has mixed feelings about the victims. She must uncover the pain of a madman -- pain that has driven him over the edge and into the depths of sadistic retribution. But Sylvia soon draws the attentions of the vigilante, who decides that anyone who tries to stop justice must be dealt with as any other criminal -- with a sentence of death. Includes exciting excerpts from Sarah Lovett's thrillers featuring Dr. Sylvia Strange: Dangerous Attachments, A Desperate Silence, Dantes' Inferno and her lastest hardcover, Dark Alchemy, coming soon from Simon and Schuster</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="acquisition_of_power" isbn="1591293073">
+<Title>Acquisition of Power</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Erika Barr, </AuthorsText>
+<PublisherText publisher_id="publishamerica_book_publishers">PublishAmerica Book Publishers</PublisherText>
+<Details dewey_decimal="813" physical_description_text="214 pages" language="" edition_info="Paperback; 2002-01-01" dewey_decimal_normalized="813" lcc_number="" change_time="2007-11-14T04:42:06Z" price_time="2007-11-18T00:05:24Z" />
+<Summary>Unveil the Corporate Underworld: Ruthless Backstabbing, Sexcapades, Power Plays, Incompetent Executives, Sycophantic Employees... Telecommunications mogul Dean MacNamara manipulates Wall Street analysts into supporting his hostile takeover bid for EPIK. Only one obstacle remains: James Atherton. But Atherton is distracted just when his company needs him most. Lucy, Atherton's alcoholic wife, trapped by her own excesses, hides a threatening secret. Gillian, his European mistress, follows a dangerous, but ambitious agenda. MacNamara, Atherton's nemesis, is a formidable and unpredictable opponent. His dark mind games position players in twisted scenarios along a trail of greed, blackmail, sex, and murder. From Manhattan's Silicon Alley to Connecticut, California, London, and Paris, join this thriller as the rivals fight for ultimate control in Acquisition of Power.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="across_the_great_divide_a04" isbn="0415924715">
+<Title>Across the Great Divide</Title>
+<TitleLong>Across the Great Divide: cultures of manhood in the American West</TitleLong>
+<AuthorsText>edited by Matthew Basso, Laura McCall, and Dee Garceau</AuthorsText>
+<PublisherText publisher_id="routledge">New York : Routledge, 2001.</PublisherText>
+<Details dewey_decimal="305.31/0978" physical_description_text="x, 308 p. : ill. ; 23 cm." language="eng" edition_info="(pbk. : alk. paper)" dewey_decimal_normalized="305.310978" lcc_number="HQ1090.5" change_time="2006-01-25T01:09:26Z" price_time="2006-08-05T16:58:55Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="masculinity_west_u_s_history">Masculinity -- West (U.S.) -- History</Subject>
+<Subject subject_id="men_west_u_s_history">Men -- West (U.S.) -- History</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="acting_on_conscience" isbn="0702235822">
+<Title>Acting on Conscience</Title>
+<TitleLong>Acting on Conscience: How Can We Responsibly Mix Law, Religion And Politics?</TitleLong>
+<AuthorsText>Frank Brennan, </AuthorsText>
+<PublisherText publisher_id="university_of_queensland_press">University of Queensland Press</PublisherText>
+<Details dewey_decimal="322.10994" physical_description_text="280 pages" language="" edition_info="Paperback; 2006-10-01" dewey_decimal_normalized="322.10994" lcc_number="" change_time="2007-11-14T22:38:44Z" price_time="2007-11-18T00:05:24Z" />
+<Summary>Is there a place for personal beliefs in public life?Is a Catholic health minister in a fit position to legislate on women's issues such as the right to an abortion pill? When the prime minister invokes church leaders' support in going to war with Iraq - and those church leaders tacitly approve this - is there a moral issue at stake?In Acting on Conscience Jesuit priest, human rights lawyer and academic Frank Brennan tackles these issues head on. He explores some of the legal, moral and ethical issues that capture the public imagination - and critically examine the figures in public life who pass judgement on them. Issues covered include:The War in IraqSame-sex marriage and parentingLate-term abortionPolitics and the judiciaryThrough detailed analysis of examples from both Australia and the US, Brennan asks: Is there a place for personal beliefs in public life? As citizens and voters, how can we ensure that in the future, our leaders will speak for us - but not out of turn?'In an age of fear and bigotry here is a welcome book of courage and conscience.' SENATOR BOB BROWN, Australian Greens</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="activating_theory" isbn="0853157901">
+<Title>Activating theory</Title>
+<TitleLong>Activating theory: lesbian, gay, bisexual politics</TitleLong>
+<AuthorsText>edited by Joseph Bristow and Angelia R. Wilson</AuthorsText>
+<PublisherText publisher_id="lawrence_wishart">London : Lawrence &amp; Wishart, 1993.</PublisherText>
+<Details dewey_decimal="305.9/0664" physical_description_text="xi, 266 p. ; 22 cm." language="eng" edition_info="(pbk)" dewey_decimal_normalized="305.90664" lcc_number="HQ76.5" change_time="2003-11-12T10:15:00Z" price_time="2007-11-05T21:25:30Z" />
+<Summary>Activating Theory is the first comprehensive volume to represent the diversity of lesbian, gay and bisexual identities and subcultures that have flourished over the past decade. In particular, it gives prominence to the controversial emergence of queer activism, and the birth of a bisexual politics. Is there any common ground between bisexuals and homosexuals? How has ACTUP affected demands for lesbian and gay rights? What's stopping health educators teaching school children about HIV/AIDS? Combining work by academics and activists belonging to a variety of fields - including psychoanalysis, political theory, sex education and AIDS research - this is a wide-ranging and provocative collection that will appeal to many different audiences.</Summary>
+<Notes>Includes index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="gay_liberation_movement">Gay liberation movement</Subject>
+<Subject subject_id="homosexuality_political_aspects">Homosexuality -- Political aspects</Subject>
+<Subject subject_id="gay_men_political_activity">Gay men -- Political activity</Subject>
+<Subject subject_id="lesbians_political_activity">Lesbians -- Political activity</Subject>
+<Subject subject_id="bisexuals_political_activity">Bisexuals -- Political activity</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="active_sex_after_sixty" isbn="0668017767">
+<Title>Active sex after sixty</Title>
+<TitleLong></TitleLong>
+<AuthorsText>[by] Herman H. Rubin and Benjamin W. Newman</AuthorsText>
+<PublisherText publisher_id="arco">New York, NY : Arco, [1969]</PublisherText>
+<Details dewey_decimal="" physical_description_text="128 p. ; 23 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="HQ30" change_time="2005-12-28T23:24:52Z" price_time="2007-06-29T13:22:43Z" />
+<Summary></Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="sex_instruction_for_older_people">Sex instruction for older people</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="actresses_and_whores" isbn="0521541026">
+<Title>Actresses and whores</Title>
+<TitleLong>Actresses and whores: on stage and in society</TitleLong>
+<AuthorsText>Kirsten Pullen</AuthorsText>
+<PublisherText publisher_id="cambridge_university_press">Cambridge ; Cambridge University Press, 2005.</PublisherText>
+<Details dewey_decimal="792.02/092273" physical_description_text="xii, 215 p. : ill. ; 24 cm." language="eng" edition_info="(pbk.)" dewey_decimal_normalized="792.02092273" lcc_number="PN1590" change_time="2007-07-17T22:24:47Z" price_time="2007-07-17T22:29:28Z" />
+<Summary>"The categories of 'whore' and "'ctress' have overlapped over centuries. Actresses are assumed to be sexually available and promiscuous, and prostitutes are assumed to perform for their clients. Employing historical biographies as well as interviews with contemporary sex workers, this book compares actresses and prostitutes from Nell Gwynne to Mae West. Ranging from the seventeenth century to the present, Kirsten Pullen offers many new insights to theater historians and scholars of cultural, social and gender studies."--Publisher's description.</Summary>
+<Notes>Includes bibliographical references (p. 195-212) and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_arts_photography_performing_arts_theater_acting_a">Amazon.com -- Arts &amp; Photography -- Performing Arts -- Theater -- Acting &amp; Auditioning</Subject>
+<Subject subject_id="actors_and_actresses_united_states_social_conditions">Actors and actresses -- United States -- Social conditions</Subject>
+<Subject subject_id="actresses_united_states_social_conditions">Actresses -- United States -- Social conditions</Subject>
+<Subject subject_id="actors_and_actresses_great_britain_social_conditions">Actors and actresses -- Great Britain -- Social conditions</Subject>
+<Subject subject_id="actresses_great_britain_social_conditions">Actresses -- Great Britain -- Social conditions</Subject>
+<Subject subject_id="amazon_com_arts_photography_performing_arts_theater_stagecra">Amazon.com -- Arts &amp; Photography -- Performing Arts -- Theater -- Stagecraft</Subject>
+<Subject subject_id="amazon_com_nonfiction_social_sciences_gender_studies_general">Amazon.com -- Nonfiction -- Social Sciences -- Gender Studies -- General</Subject>
+<Subject subject_id="prostitutes_united_states_social_conditions">Prostitutes -- United States -- Social conditions</Subject>
+<Subject subject_id="prostitutes_great_britain_social_conditions">Prostitutes -- Great Britain -- Social conditions</Subject>
+<Subject subject_id="feminism_and_theater_united_states_history">Feminism and theater -- United States -- History</Subject>
+<Subject subject_id="feminism_and_theater_great_britain_history">Feminism and theater -- Great Britain -- History</Subject>
+</Subjects>
+</BookData>
+</BookList>
 </ISBNdb>

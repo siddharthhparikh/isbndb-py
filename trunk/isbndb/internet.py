@@ -1,9 +1,14 @@
 #!/usr/bin/env python
+import sys
 
-try:
-    import cElementTree as ElementTree
-except:
-    from elementtree import ElementTree
+if sys.version_info[0] == 2 and sys.version_info[1] <= 4:
+    try:
+        import cElementTree as ElementTree
+    except:
+        from elementtree import ElementTree
+elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
+    from xml.etree import ElementTree
+
 import urllib, datetime, time
 from helpers import LimitList
 import keys

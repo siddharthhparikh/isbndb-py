@@ -2,10 +2,14 @@ import unittest
 from datetime import datetime
 import sys
 sys.path.insert(0,'..')
-try:
-    import cElementTree as ElementTree
-except:
-    from elementtree import ElementTree
+
+if sys.version_info[0] == 2 and sys.version_info[1] <= 4:
+    try:
+        import cElementTree as ElementTree
+    except:
+        from elementtree import ElementTree
+elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
+    from xml.etree import ElementTree
 
 from isbndb.book import IsbndbBook
 

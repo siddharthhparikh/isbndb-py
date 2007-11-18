@@ -1,6 +1,13 @@
-import os
-import ElementTree
+import os, sys
 from isbndbkey import KEY
+
+if sys.version_info[0] == 2 and sys.version_info[1] <= 4:
+    try:
+        import cElementTree as ElementTree
+    except:
+        from elementtree import ElementTree
+elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
+    from xml.etree import ElementTree
 
 def make_keyfiles():
     x = ElementTree.Element('Keys')

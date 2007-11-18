@@ -1,190 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ISBNdb server_time="2005-12-20T19:13:54">
- <KeyStats granted="0" access_key="test" requests="0" limit="0" />
- <BookList total_results="8408" page_size="10" page_number="13" shown_results="10">
-  <BookData book_id="age_and_sex_in_human_societies" isbn="0534003117">
-   <Title>Age and sex in human societies</Title>
-   <TitleLong>Age and sex in human societies: a biosocial perspective</TitleLong>
-   <AuthorsText>[by] Pierre L. van den Berghe</AuthorsText>
-   <PublisherText publisher_id="wadsworth_pub_co">Belmont, Calif., Wadsworth Pub. Co. [1973]</PublisherText>
-   <Details dewey_decimal="301.41" physical_description_text="140 p. 22 cm." language="eng" edition_info="" dewey_decimal_normalized="301.41" lcc_number="HM131" change_time="2004-07-13T12:44:33" price_time="2005-12-07T12:54:07" />
-   <Summary></Summary>
-   <Notes>Bibliography: p. 124-135.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="age_groups">Age groups</Subject>
-    <Subject subject_id="sex_role">Sex role</Subject>
-    <Subject subject_id="social_interaction">Social interaction</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="age_right_turn_back_the_clock_with_a_proven_personalized_ant" isbn="0684857200">
-   <Title>Age Right : Turn Back the Clock with a Proven, Personalized, Anti-Aging Program</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Karlis Ullis</AuthorsText>
-   <PublisherText publisher_id="fireside">Fireside</PublisherText>
-   <Details dewey_decimal="" physical_description_text="5.5&quot;x8.4&quot;x0.8&quot;; 320 pages; 0.6 lb" language="" edition_info="Paperback; 2000-02-17" dewey_decimal_normalized="" lcc_number="" change_time="2004-12-21T05:33:35" price_time="2005-11-09T20:22:31" />
-   <Summary>Welcome to the new age in antiaging therapy Don't resign yourself to growing old gracefully. With Age Right as your guide, you can reduce body fat, increase strength and energy, and boost your sex drive, all while adding years to your life. With his revolutionary approach, Karlis Ullis, M.D,, provides you with the latest methods for stopping -- and even reversing -- the aging process. Based on twenty years of pioneering work with Olympic and professional athletes, Age Right offers an antiaging program that helps you extend your life span by identifying your unique aging pathway through the "Mind-Body-Spirit" test. USING A STEP-BY-STEP, PERSONALIZED PLAN OF EXERCISE, NUTRITION, AND ANTIAGING SUPPLEMENTS, THIS UNIQUE PROGRAM OFFERS The most up-to-date information on how and why we age, and the four key factors in the aging process Self-tests to determine your "biological age" (versus your chronological age) Expert advice on the best combination of nutrition, exercise, and supplements to fight the effects of age-related problems as indicated by your aging pathway Specific guidelines for modifying your antiaging regimen based on gender, fitness level, and lifestyle Detailed descriptions of all the antiaging supplements available today as well as treatments for the next millennium Practical and extensive resources for choosing the right supplements, creating a specific diet and exercise plan, and finding the best antiaging health professionals</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_health_mind_body_nutrition_general">Amazon.com -- Health, Mind &amp; Body -- Nutrition -- General</Subject>
-    <Subject subject_id="amazon_com_medicine_specialties_preventive_medicine">Amazon.com -- Medicine -- Specialties -- Preventive Medicine</Subject>
-    <Subject subject_id="amazon_com_health_mind_body_personal_health_healthy_living">Amazon.com -- Health, Mind &amp; Body -- Personal Health -- Healthy Living</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="age_sex_marital_status_and_common_law_status" isbn="0660142589">
-   <Title>Age, sex, marital status and common-law status</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Statistics Canada</AuthorsText>
-   <PublisherText publisher_id="statistics_canada">Ottawa : Statistics Canada, 1993.</PublisherText>
-   <Details dewey_decimal="" physical_description_text="iii, 66 p. ; 28 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2004-07-31T06:43:42" price_time="2005-06-20T12:19:52" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="age_canada_statistics">Age -- Canada -- Statistics</Subject>
-    <Subject subject_id="sex_statistics">Sex -- Statistics</Subject>
-    <Subject subject_id="marital_status_canada_statistics">Marital status -- Canada -- Statistics</Subject>
-    <Subject subject_id="unmarried_couples_canada_statistics">Unmarried couples -- Canada -- Statistics</Subject>
-    <Subject subject_id="canada_statistics_vital">Canada -- Statistics, Vital</Subject>
-    <Subject subject_id="canada_census_1991">Canada -- Census, 1991</Subject>
-    <Subject subject_id="age_canada_statistiques">Âge -- Canada -- Statistiques</Subject>
-    <Subject subject_id="statistiques_selon_le_sexe">Statistiques selon le sexe</Subject>
-    <Subject subject_id="etat_matrimonial_canada_statistiques">État matrimonial -- Canada -- Statistiques</Subject>
-    <Subject subject_id="concubinage_canada_statistiques">Concubinage -- Canada -- Statistiques</Subject>
-    <Subject subject_id="canada_statistiques_demographiques">Canada -- Statistiques démographiques</Subject>
-    <Subject subject_id="canada_recensement_1991">Canada -- Recensement, 1991</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="aging_sex_and_dna_repair" isbn="0120928604">
-   <Title>Aging, sex, and DNA repair</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Carol Bernstein, Harris Bernstein</AuthorsText>
-   <PublisherText publisher_id="academic_press">San Diego : Academic Press, c1991.</PublisherText>
-   <Details dewey_decimal="574.3/72" physical_description_text="xii, 382 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="574.372" lcc_number="QP86" change_time="2003-11-06T09:32:13" price_time="2005-12-17T00:14:48" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="aging_molecular_aspects">Aging -- Molecular aspects</Subject>
-    <Subject subject_id="dna_repair">DNA repair</Subject>
-    <Subject subject_id="dna_damage">DNA damage</Subject>
-    <Subject subject_id="sex_biology">Sex (Biology)</Subject>
-    <Subject subject_id="aging_genetics">Aging -- genetics</Subject>
-    <Subject subject_id="reproduction_genetics">Reproduction -- genetics</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="agrippina_a01" isbn="0300065981">
-   <Title>Agrippina</Title>
-   <TitleLong>Agrippina: sex, power, and politics in the early Empire</TitleLong>
-   <AuthorsText>Anthony A. Barrett</AuthorsText>
-   <PublisherText publisher_id="yale_university_press">New Haven : Yale University Press, 1996.</PublisherText>
-   <Details dewey_decimal="937/.07/092" physical_description_text="xxi, 330 p., 8 p. of plates : ill., maps ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="937.07092" lcc_number="DG282.6" change_time="2003-11-22T08:51:31" price_time="2005-12-06T11:11:39" />
-   <Summary></Summary>
-   <Notes>"Published 1996 in the United Kingdom as Agrippina, Mother of Nero"--T.p. verso.
-
-Includes bibliographical references (p. 305-324) and index.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="agrippina_minor_15_59">Agrippina,Minor,15-59</Subject>
-    <Subject subject_id="empresses_rome_biography">Empresses -- Rome -- Biography</Subject>
-    <Subject subject_id="rome_history_the_five_julii_30_b_c_68_a_d">Rome -- History -- The five Julii, 30 B.C.-68 A.D</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="agrippina_sex_power_and_politics_in_the_early_empire" isbn="0300078560">
-   <Title>Agrippina: Sex, Power, and Politics in the Early Empire</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>Anthony Barrett, </AuthorsText>
-   <PublisherText publisher_id="yale_university_press">Yale University Press</PublisherText>
-   <Details dewey_decimal="" physical_description_text="6.1&quot;x9.2&quot;x0.8&quot;; 330 pages; 1.1 lb" language="" edition_info="Paperback; 1999-07-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-11T23:45:52" price_time="2005-07-16T08:15:13" />
-   <Summary></Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_biographies_memoirs_historical_general">Amazon.com -- Biographies &amp; Memoirs -- Historical -- General</Subject>
-    <Subject subject_id="amazon_com_history_ancient_rome">Amazon.com -- History -- Ancient -- Rome</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="ah_ku_and_karayuki_san_a01" isbn="9971692678">
-   <Title>Ah Ku and Karayuki-San</Title>
-   <TitleLong>Ah Ku and Karayuki-San: Prostitution in Singapore 1880-1940</TitleLong>
-   <AuthorsText>James Francis Warren, </AuthorsText>
-   <PublisherText publisher_id="singapore_university_press">Singapore University Press</PublisherText>
-   <Details dewey_decimal="" physical_description_text="6.4&quot;x9.7&quot;x1.3&quot;; 472 pages; 1.5 lb" language="" edition_info="Paperback; 2003-05-01" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-10T22:06:57" price_time="2005-11-23T02:55:34" />
-   <Summary>Among the many groups of workers whose labor built Singapore in the 20th century, there may be none as marginalized in memory as the women who travelled from China and Japan to work in Singapore as prostitutes. This study sketches in the trade in women and children in Asia, and--making innovative use of Coroner's Inquests and other records--hones in on the details of the prostitutes' lives in the colonial city: the daily brothel routine, crises and violence, social relations, leisure, mobility, disease and death. The result is a powerful historical account of human nature, of human relationships, of pride, prejudice, struggle and spirit. Ordinary people tumble from the pages of the records: they talk about choice of partners, love and betrayal, desperation and alienation, drawing us into their lives. This social history is a powerful corrective to the romantic image of colonial Singapore as a city of excitement, sophistication, exotic charm and easy sex. In the years since its original publication in 1992, this book, and its companion Rickshaw Coolie, have become an inspiration to those seeking to come to grips with Singapore's past.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="amazon_com_history_asia_singapore">Amazon.com -- History -- Asia -- Singapore</Subject>
-    <Subject subject_id="amazon_com_health_mind_body_psychology_counseling_sexuality_">Amazon.com -- Health, Mind &amp; Body -- Psychology &amp; Counseling -- Sexuality -- Human</Subject>
-    <Subject subject_id="amazon_com_history_asia_china_general">Amazon.com -- History -- Asia -- China -- General</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="aids_and_sex" isbn="0195069099">
-   <Title>AIDS and sex</Title>
-   <TitleLong>AIDS and sex: an integrated biomedical and biobehavioral approach</TitleLong>
-   <AuthorsText>edited by Bruce Voeller, June Machover Reinisch, Michael Gottlieb</AuthorsText>
-   <PublisherText publisher_id="oxford_university_press">New York : Oxford University Press, 1990.</PublisherText>
-   <Details dewey_decimal="616.97/92" physical_description_text="xv. 449 p. : ill. ; 25 cm." language="eng" edition_info="" dewey_decimal_normalized="616.9792" lcc_number="RA644" change_time="2003-10-27T23:40:59" price_time="2005-10-02T06:55:11" />
-   <Summary></Summary>
-   <Notes>Proceedings of the Symposium on AIDS and Sex held at the Kinsey Institute, Dec. 5-8, 1987, cosponsored by the Kinsey Institute for Research in Sex, Gender, and Reproduction, the National Institute of Allergy and Infectious Diseases and the National Institute of Child Health and Human Development.
-
-Includes index.
-
-Includes bibliographical references.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="aids_disease_congresses">AIDS (Disease) -- Congresses</Subject>
-    <Subject subject_id="aids_disease_social_aspects_congresses">AIDS (Disease) -- Social aspects -- Congresses</Subject>
-    <Subject subject_id="acquired_immunodeficiency_syndrome_congresses">Acquired Immunodeficiency Syndrome -- Congresses</Subject>
-    <Subject subject_id="sex_behavior_congresses">Sex Behavior -- congresses</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="aids_b04" isbn="092191802X">
-   <Title>AIDS</Title>
-   <TitleLong>AIDS: words and meanings</TitleLong>
-   <AuthorsText>by Theresa Dobko</AuthorsText>
-   <PublisherText publisher_id="aids_committee_of_toronto">Toronto : AIDS Committee of Toronto, 1990.</PublisherText>
-   <Details dewey_decimal="616.97/92/003" physical_description_text="[81] p. ; 27 cm." language="eng" edition_info="$15.00" dewey_decimal_normalized="616.9792003" lcc_number="" change_time="2004-10-11T23:29:55" price_time="2005-11-16T15:26:16" />
-   <Summary>Listing of AIDS-associated words and definitions. Intended for persons with HIV and for those working with persons with HIV. Includes all AIDS terminology available, also including "medical tests, treatment, experimental drugs, safer sex terms, and drug use terms." Explains both slang and clinical words. Entries are explanatory and contain cross references.</Summary>
-   <Notes></Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="aids_disease_dictionaries">AIDS (Disease) -- Dictionaries</Subject>
-    <Subject subject_id="acquired_immunodeficiency_syndrome_terminology">Acquired Immunodeficiency Syndrome -- terminology</Subject>
-   </Subjects>
-  </BookData>
-  <BookData book_id="aids_drugs_and_prostitution" isbn="0415041082">
-   <Title>AIDS, drugs, and prostitution</Title>
-   <TitleLong></TitleLong>
-   <AuthorsText>edited by Martin Plant</AuthorsText>
-   <PublisherText publisher_id="tavistock_routledge">London ; Tavistock/Routledge, 1990.</PublisherText>
-   <Details dewey_decimal="616.97/92071" physical_description_text="xvi, 213 p. : 22 cm." language="eng" edition_info="" dewey_decimal_normalized="616.9792071" lcc_number="RA644" change_time="2003-11-12T03:39:08" price_time="2005-12-05T22:29:02" />
-   <Summary></Summary>
-   <Notes>Includes bibliographical references and indexes.
-
-Sex work, alcohol, drugs, and AIDS / Martin Plant -- Prostitution, intravenous drug use, and HIV-1 in the United States / William Darrow -- Safer prostitution : a new approach in Holland / Petrien Uniken Venema and Jan Visser -- The Praed Street Project : a cohort of prostitute women in London / Sophie Day and Helen Ward -- Outreach work with female prostitutes in Liverpool / Lyn Matthews -- AIDS risks, alcohol, drugs, and the sex industry : a Scottish study / Ruth Morgan Thomas -- Intravenous drug use and syringe-sharing practices of call men and hustlers / Dan Waldorf and Sheigla Murphy -- Female prostitutes, AIDS, drugs, and alcohol in New South Wales / Christine Harcourt and Ross Philpot -- Prostitution and AIDS risks among female drug users in Frankfurt / Dagmar Hedrich -- Prostitution in Accra / Alfred Neequaye.
-
-Prostitution and AIDS in Spain / Pilar Estebanez Estebanez -- Conclusions and future strategies / Martin Plant.</Notes>
-   <UrlsText></UrlsText>
-   <AwardsText></AwardsText>
-   <Subjects>
-    <Subject subject_id="aids_disease_epidemiology">AIDS (Disease) -- epidemiology</Subject>
-    <Subject subject_id="prostitutes_diseases">Prostitutes -- Diseases</Subject>
-    <Subject subject_id="prostitutes_health_and_hygiene">Prostitutes -- Health and hygiene</Subject>
-    <Subject subject_id="prostitutes_drug_use">Prostitutes -- Drug use</Subject>
-    <Subject subject_id="prostitutes_alcohol_use">Prostitutes -- Alcohol use</Subject>
-   </Subjects>
-  </BookData>
- </BookList>
+<ISBNdb server_time="2007-11-18T00:05:23Z">
+<KeyStats granted="50" access_key="26CUOUG4" requests="50" limit="100" />
+<BookList total_results="14655" page_size="10" page_number="13" shown_results="10">
+<BookData book_id="absolute_truths_a04" isbn="0517170779">
+<Title>Absolute Truths</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Susan Howatch, </AuthorsText>
+<PublisherText publisher_id="random_house_value_publishing">Random House Value Publishing</PublisherText>
+<Details dewey_decimal="" physical_description_text="" language="" edition_info="Hardcover; 1996-08-14" dewey_decimal_normalized="" lcc_number="" change_time="2006-12-30T21:58:27Z" price_time="2007-04-15T22:58:35Z" />
+<Summary>"A SKILLFUL BLEND OF CHARACTER, PHILOSOPHY AND NARRATIVE. . .Formidable personalities embroil themselves in ruthless power struggles that would make a corporate raider blush."--The Washington Post Book WorldIt is 1965, and Charles Ashworth has attained the plum position of bishop of Starbridge, an honor that keeps him in a heady whirl of activity that would exhaust the most seasoned corporate executive. With the invaluable support of his minions and his attractive, unsinkable wife, Ashworth stands against the amorality and decadence of the age--"Anti-Sex Ashworth." He slays his opponents by being a tough, efficient, confident churchman, the torments of his past long since dead and buried.And then the unexpected, the unthinkable, strikes.Suddenly Ashworth finds himself staring into the chasm of all the lies hes been telling himself for years: about his marriage, his children, even his views on the Church. And as he suspects his old nemesis and dean, Neville Aysgarth, of drinking too much, of financial chicanery, of--God forbid--having an affair, Ashworth discovers to his horror that he is tempted to commit the very acts that he has so publicly denounced. . . ."ENTHRALLING. . .Rich, dense, almost indecently entertaining."--San Jose Mercury News"POWERFUL. . .MIRACULOUS."--Booklist (starred review)SELECTED BY THE BOOK-OF-THE-MONTH CLUBFrom the Paperback edition.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="abstract_sex" isbn="0826469906">
+<Title>Abstract sex</Title>
+<TitleLong>Abstract sex: philosophy, bio-technology and the mutations of desire</TitleLong>
+<AuthorsText>Luciana Parisi</AuthorsText>
+<PublisherText publisher_id="continuum">London ; Continuum, c2004.</PublisherText>
+<Details dewey_decimal="306.701" physical_description_text="x, 227 p. : ill. ; 24 cm." language="eng" edition_info="(PBK.)" dewey_decimal_normalized="306.701" lcc_number="HQ16" change_time="2006-10-29T01:51:27Z" price_time="2007-10-10T04:33:34Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references (p. 207-221) and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="sex_philosophy">Sex -- Philosophy</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="abstract_sex_a01" isbn="0826469892">
+<Title>Abstract sex</Title>
+<TitleLong>Abstract sex: philosophy, bio-technology and the mutations of desire</TitleLong>
+<AuthorsText>Luciana Parisi</AuthorsText>
+<PublisherText publisher_id="continuum">London ; Continuum, c2004.</PublisherText>
+<Details dewey_decimal="306.701" physical_description_text="x, 227 p. : ill. ; 24 cm." language="eng" edition_info="" dewey_decimal_normalized="306.701" lcc_number="HQ16" change_time="2006-10-29T01:51:24Z" price_time="2007-10-10T04:33:39Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references (p. 207-221) and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="sex_philosophy">Sex -- Philosophy</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="absurdities_scandals_stupidities_in_politics" isbn="1847289460">
+<Title>ABSURDITIES, SCANDALS &amp; STUPIDITIES IN POLITICS</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Hakeem, Shittu, Callie, Query, </AuthorsText>
+<PublisherText publisher_id="lulu_com">Lulu.com</PublisherText>
+<Details dewey_decimal="" physical_description_text="148 pages" language="" edition_info="Paperback; 2006-10-04" dewey_decimal_normalized="" lcc_number="" change_time="2006-11-23T03:12:05Z" price_time="2007-06-17T20:57:35Z" />
+<Summary>An ex-president crashes into an elderly pedestrian while driving drunk. A congressman beats a colleague senseless in the Capitol building. A presidential candidate dares the press to expose his affair and is promptly exposed. A district attorney prosecutes himself at taxpayer's expense. You might be surprised to find that none of this is fiction. These are all actions by individuals voted into our public institutions. In this book, authors Hakeem Shittu and Callie Query meticulously chronicle these tales of adultery, deception, drugs, murder, sex, stupidity, theft and treason as practiced by American politicians. The nonpartisan effort spans the formative days of the republic through recent times, relentlessly exposing political misdeeds and misquotes along the way. The result is sure to evoke laughter, shock, and amazement at the antics of those "esteemed" individuals that we elect to our public offices.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="academic_and_public_librarians" isbn="0838970613">
+<Title>Academic and public librarians</Title>
+<TitleLong>Academic and public librarians: data by race, ethnicity and sex</TitleLong>
+<AuthorsText>project director, Jeniece Guy</AuthorsText>
+<PublisherText publisher_id="american_library_associati_a08">Chicago, Ill. : American Library Association, Office for Library Personnel Resources, 1986.</PublisherText>
+<Details dewey_decimal="" physical_description_text="34 p. ; 28 cm." language="eng" edition_info="" dewey_decimal_normalized="" lcc_number="" change_time="2007-08-28T21:36:28Z" price_time="2007-08-28T22:22:02Z" />
+<Summary></Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="academic_librarians_united_states_statistics">Academic librarians -- United States -- Statistics</Subject>
+<Subject subject_id="public_librarians_united_states_statistics">Public librarians -- United States -- Statistics</Subject>
+<Subject subject_id="library_surveys_united_states">Library surveys -- United States</Subject>
+<Subject subject_id="bibliothecaires_duniversite_etats_unis">Bibliothécaires d'université -- États-Unis</Subject>
+<Subject subject_id="bibliothecaires_de_bibliotheques_publiques_etats_unis">Bibliothécaires de bibliothèques publiques -- États-Unis</Subject>
+<Subject subject_id="minorites_en_bibliotheconomie_etats_unis">Minorités en bibliothéconomie -- États-Unis</Subject>
+<Subject subject_id="bibliotheques_enquetes_etats_unis">Bibliothèques -- Enquêtes -- États-Unis</Subject>
+<Subject subject_id="bibliotheques_universitaires_etats_unis">Bibliothèques universitaires -- États-Unis</Subject>
+<Subject subject_id="bibliotheques_publiques_etats_unis">Bibliothèques publiques -- États-Unis</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="access_and_exclusion" isbn="0762309741">
+<Title>Access and exclusion</Title>
+<TitleLong></TitleLong>
+<AuthorsText>edited by Malcolm Tight</AuthorsText>
+<PublisherText publisher_id="jai">Amsterdam ; JAI, 2003.</PublisherText>
+<Details dewey_decimal="378.1/61" physical_description_text="ix, 270 p. : ill. ; 24 cm." language="eng" edition_info="(hc : alk. paper)" dewey_decimal_normalized="378.161" lcc_number="LB2351" change_time="2007-07-02T21:42:16Z" price_time="2007-10-01T10:21:41Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references.</Notes>
+<UrlsText>Publisher description http://www.loc.gov/catdir/enhancements/fy0613/2002035368-d.html</UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="universities_and_colleges_admission_cross_cultural_studies">Universities and colleges -- Admission -- Cross-cultural studies</Subject>
+<Subject subject_id="educational_equalization_cross_cultural_studies">Educational equalization -- Cross-cultural studies</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="access_to_health_a03" isbn="0205336647">
+<Title>Access to Health</Title>
+<TitleLong>Access to Health (7th Edition)</TitleLong>
+<AuthorsText>Rebecca J. Donatelle, Lorraine G. Davis, </AuthorsText>
+<PublisherText publisher_id="benjamin_cummings_publishi_a03">Benjamin-Cummings Publishing Company</PublisherText>
+<Details dewey_decimal="" physical_description_text="736 pages" language="" edition_info="Paperback; 2001-07-25" dewey_decimal_normalized="" lcc_number="" change_time="2005-10-21T00:49:01Z" price_time="2007-03-21T05:46:41Z" />
+<Summary>Teacher and mentor Rebecca J. Donatelle helps readers make wise decisions about their health using the most current information available. Along with insightful self-assessments and behavior change commitments, Access to Health, Eighth Edition also includes a comprehensive supplements package. Access to Health is comprehensive, readable, and generously illustrated, making it the book of choice for todayUs health and wellness enthusiasts. KEY TOPICS The Eighth Edition includes the latest research and statistics, as well as hot topics of interest and importance to readers such as body art, fast food, club drugs, alternative medicine, and safer sex. For college instructors, students, or anyone interested in health and wellness.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+<BookData book_id="access_to_health_eighth_edition" isbn="0805355642">
+<Title>Access to health</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Rebecca J. Donatelle</AuthorsText>
+<PublisherText publisher_id="benjamin_cummings_a01">San Francisco : Benjamin Cummings, c2004.</PublisherText>
+<Details dewey_decimal="613" physical_description_text="xxv, 651, [76] p. : col. ill. ; 28 cm." language="eng" edition_info="(alk. paper)" dewey_decimal_normalized="613" lcc_number="RA776" change_time="2005-06-05T13:43:16Z" price_time="2007-07-11T06:35:20Z" />
+<Summary></Summary>
+<Notes>Includes bibliographical references and index.</Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_health_mind_body_personal_health_general">Amazon.com -- Health, Mind &amp; Body -- Personal Health -- General</Subject>
+<Subject subject_id="health">Health</Subject>
+<Subject subject_id="amazon_com_health_mind_body_general">Amazon.com -- Health, Mind &amp; Body -- General</Subject>
+<Subject subject_id="amazon_com_health_mind_body_personal_health_healthy_living">Amazon.com -- Health, Mind &amp; Body -- Personal Health -- Healthy Living</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="accidental_playboy" isbn="0446527009">
+<Title>Accidental Playboy</Title>
+<TitleLong>Accidental Playboy: Caught in the Ultimate Male Fantasy</TitleLong>
+<AuthorsText>Leif Ueland, </AuthorsText>
+<PublisherText publisher_id="warner_books">Warner Books</PublisherText>
+<Details dewey_decimal="" physical_description_text="6.3&quot;x9.3&quot;x1.1&quot;; 304 pages; 1.1 lb" language="" edition_info="Hardcover; 2002-11-06" dewey_decimal_normalized="" lcc_number="" change_time="2005-01-28T20:51:54Z" price_time="2007-05-12T19:05:00Z" />
+<Summary>Struggling writer Leif Ueland has hit rock bottom: no job, no money, no decent apartment, no girlfriend, and he's also a really nice guy. Acutely insecure, he's been trying to get a grip on things with the help of a mentoring therapist. Then the opportunity of a lifetime arrives: Playboy's Playmate of the Millennium search. Dozens of cities. Thousands of women. And one man covering it all. Suddenly, Leif, a son in a family of feminists, the anti-Hefner, finds himself at the center of a vortex of erotica, sexual harrassment, plastic surgery, stripping, and, always, beautiful women. But what does it mean to be a heterosexual, single guy? Sensitivity to women's needs? A life full of machismo and meaningless sex? Leif Ueland is about to find out-and tell all.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects>
+<Subject subject_id="amazon_com_nonfiction_social_sciences_popular_culture">Amazon.com -- Nonfiction -- Social Sciences -- Popular Culture</Subject>
+<Subject subject_id="amazon_com_entertainment_pop_culture_magazines">Amazon.com -- Entertainment -- Pop Culture -- Magazines</Subject>
+<Subject subject_id="amazon_com_nonfiction_social_sciences_sociology_general">Amazon.com -- Nonfiction -- Social Sciences -- Sociology -- General</Subject>
+</Subjects>
+</BookData>
+<BookData book_id="accidents_in_the_home_a02" isbn="009942858X">
+<Title>Accidents in the Home</Title>
+<TitleLong></TitleLong>
+<AuthorsText>Tessa Hadley, </AuthorsText>
+<PublisherText publisher_id="vintage_rand">VINTAGE (RAND)</PublisherText>
+<Details dewey_decimal="" physical_description_text="256 pages" language="" edition_info="Paperback; 2003-03-06" dewey_decimal_normalized="" lcc_number="" change_time="2007-07-22T15:08:40Z" price_time="2007-11-18T00:05:23Z" />
+<Summary>The debut novel of a formidable fictional talent.An improbable coincidence brings Clare back into contact with someone she once had sex with as a teenager; to complicate matters, he is now going out with her best friend, Helly. The encounter could have just been embarrassing, but it shakes up everything in Clare’s life. Clare and Helly learned to smoke and shoplift together, and even read an old copy of The Female Eunuch together, squeezed side by side on Helly’s bed. Now Clare is married with three small children, bakes her own bread and buys her clothes from the charity shop. Helly is a model and has her image up on billboards ten feet high. And each of them seems to want what the other has.</Summary>
+<Notes></Notes>
+<UrlsText></UrlsText>
+<AwardsText></AwardsText>
+<Subjects></Subjects>
+</BookData>
+</BookList>
 </ISBNdb>

@@ -1,5 +1,4 @@
 class LimitList(list):
-
     def __init__(self, li = [],ok= ['foo','bar', 'baz']):
         self.__ok = tuple(ok)
         if isinstance(li, LimitList):

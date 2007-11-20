@@ -1,8 +1,20 @@
 #summary isbndb-py documentation
 
-= Table of Contents =
+=[http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]=
 
-==[http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]==
-==isbndb-py Starting Points==
-==isbndb-py Development==
-==isbndb-py Support==
+
+
+=isbndb-py Starting Points=
+==Project Home Page==
+==Installing isbndb-py==
+==Using isbndb-py Quick Start Guide==
+
+
+
+=isbndb-py Development=
+==FAQ==
+
+
+
+=isbndb-py Support=
+==Issue Hotlist==

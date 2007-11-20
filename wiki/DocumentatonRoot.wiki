@@ -1,5 +1,0 @@
-#summary The starting point for documentation
-#labels Featured
-= isbndb-py Documentation Root =
-
-This is the starting point for documentaion.

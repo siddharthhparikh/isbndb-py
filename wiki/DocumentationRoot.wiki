@@ -13,9 +13,10 @@
 
 
 = isbndb-py Development =
-  * FAQ
 
 
 
 = isbndb-py Support =
+  * FAQ
+
   * [http://code.google.com/p/isbndb-py/issues/list Issues Hotlist]

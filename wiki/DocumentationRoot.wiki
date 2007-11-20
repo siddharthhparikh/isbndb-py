@@ -1,0 +1,5 @@
+#summary isbndb-py documentation
+
+= Table of Contents =
+
+[http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]

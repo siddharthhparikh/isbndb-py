@@ -2,4 +2,7 @@
 
 = Table of Contents =
 
-[http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]
+==[http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]==
+==isbndb-py Starting Points==
+==isbndb-py Development==
+==isbndb-py Support==

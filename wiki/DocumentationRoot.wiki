@@ -1,11 +1,9 @@
 #summary isbndb-py documentation
 
-= [http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals] =
-
-
-
 = isbndb-py Starting Points =
   * [http://code.google.com/p/isbndb-py/ Project Home]
+
+  * [http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]
 
   * Installing isbndb-py
 

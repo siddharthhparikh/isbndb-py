@@ -7,7 +7,7 @@
 
   * Installing isbndb-py
 
-  * Using isbndb-py Quick Start Guide
+  * Using isbndb-py: Quick Start Guide
 
 
 

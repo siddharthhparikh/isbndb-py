@@ -5,16 +5,19 @@
 
 
 = isbndb-py Starting Points =
-== [http://code.google.com/p/isbndb-py/ Project Home] ==
-== Installing isbndb-py ==
-== Using isbndb-py Quick Start Guide ==
+  * [http://code.google.com/p/isbndb-py/ Project Home]
+
+  * Installing isbndb-py
+
+  * Using isbndb-py Quick Start Guide
+
 
 
 
 = isbndb-py Development =
-== FAQ ==
+  * FAQ
 
 
 
 = isbndb-py Support =
-== [http://code.google.com/p/isbndb-py/issues/list Issues Hotlist] ==
+  * [http://code.google.com/p/isbndb-py/issues/list Issues Hotlist]

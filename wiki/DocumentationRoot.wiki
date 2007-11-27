@@ -56,7 +56,7 @@ Updating your working copy is done in the usual way with {{{ svn update }}}
 == Using the ISBNdb.com Services ==
 isbndb-py is a wrapper for searching the ISBNdb.com database. Access to that database requires each developer to have one or more "keys". To register for yours, please visit https://isbndb.com/account/create.html to create an account and follow the instructions to obtain your key(s). I would recommend that you read their remote data access introduction as well: https://isbndb.com/data-intro.html
 
-=== Using your ISBNdb.com Key with isbndb-py ===
+==== Using your ISBNdb.com Key with isbndb-py ====
 Once you have your key:
 
   1. Navigate the the folder where you have installed isbndb-py e.g. cd ~/isbndb-py

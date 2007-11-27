@@ -42,6 +42,16 @@ To accomplish these goals ISBNDb.py has implemented the following:
 
 
 == Installing isbndb-py ==
+isbndb-py is currently available by Subversion repository access (thanks Google Code!). You can checkout the latest version for our repository using:
+
+{{{
+   svn checkout http://isbndb-py.googlecode.com/svn/trunk/ isbndb-py-read-only
+}}}
+
+This is a read-only version of the repository. If you would like to commit changes and fixes feel welcome to send an email to join the project.
+
+Updating your working copy is done in the usual way with {{{ svn update }}}
+
 
 == Using the ISBNdb.com Services ==
 isbndb-py is a wrapper for searching the ISBNdb.com database. Access to that database requires each developer to have one or more "keys". To register for yours, please visit https://isbndb.com/account/create.html to create an account and follow the instructions to obtain your key(s). I would recommend that you read their remote data access introduction as well: https://isbndb.com/data-intro.html

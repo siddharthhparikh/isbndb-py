@@ -1,6 +1,4 @@
-  * Name
-
-  * Synopsis
+  * Overview
 
   * Description
 
@@ -31,11 +29,10 @@
 
 = ........ =
 
-== Name ==
 
 
-== Synopsis ==
-
+== Overview ==
+isbndb-py is a Python wrapper for seaching the ISBNdb.com database for bibliographic data on books
 
 == Description ==
 
@@ -56,5 +53,3 @@ Once you have your key:
 
 
 isbndb-py will now use this key to access ISBNdb.com
-
-

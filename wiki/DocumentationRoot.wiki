@@ -4,7 +4,7 @@
 
   * Description
 
-  * Installation
+  * Installing isbndb-py
 
   * Using the ISBDdb.Com Service
 
@@ -41,7 +41,7 @@ To accomplish these goals ISBNDb.py has implemented the following:
 5. individual books can be accessed as raw XML, ElementTrees, or a native python object.
 
 
-== Installation ==
+== Installing isbndb-py ==
 
 == Using the ISBNdb.com Services ==
 isbndb-py is a wrapper for searching the ISBNdb.com database. Access to that database requires each developer to have one or more "keys". To register for yours, please visit https://isbndb.com/account/create.html to create an account and follow the instructions to obtain your key(s).

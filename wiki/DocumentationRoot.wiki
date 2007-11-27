@@ -53,7 +53,7 @@ Once you have your key:
 
   2. Within that folder go to the folder called "tests"
 
-  3. In "tests" create a file called ".isbndbkey"
+  3. In "tests" create a file called ".isbndbkey" (notice that the file name starts with a period)
 
   4. Copy your key in to ".isbndbkey" and save it
 

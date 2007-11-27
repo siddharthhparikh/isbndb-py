@@ -1,22 +1,60 @@
-#summary isbndb-py documentation
+  * Name
 
-= isbndb-py Starting Points =
-  * [http://code.google.com/p/isbndb-py/ Project Home]
+  * Synopsis
 
-  * [http://code.google.com/p/isbndb-py/wiki/CurrentGoals Project Goals]
+  * Description
 
-  * Installing isbndb-py
+  * Installation
 
-  * Using isbndb-py: Quick Start Guide
+  * Using the ISBDdb.Com Service
+
+  * Methods
+
+  * Constructor
+
+  * Accessors
+
+  * Default Attribute Values
+
+  * Managing Types
+
+  * Retrieving Data
+
+  * Caveats
+
+  * See Also
+
+  * Author
+
+  * Copyright
 
 
+= ........ =
+
+== Name ==
 
 
-= isbndb-py Development =
+== Synopsis ==
 
 
+== Description ==
 
-= isbndb-py Support =
-  * FAQ
 
-  * [http://code.google.com/p/isbndb-py/issues/list Issues Hotlist]
+== Using the ISBNdb.com Services ==
+isbndb-py is a wrapper for searching the ISBNdb.com database. Access to that database requires each developer to have one or more "keys". To register for yours, please visit https://isbndb.com/account/create.html to create an account and follow the instructions to obtain your key(s).
+
+=== Using your ISBNdb.com Key with isbndb-py ===
+Once you have your key:
+
+  1. Navigate the the folder where you have installed isbndb-py e.g. cd ~/isbndb-py
+
+  2. Within that folder go to the folder called "tests"
+
+  3. In "tests" create a file called ".isbndbkey"
+
+  4. Copy your key in to ".isbndbkey" and save it
+
+
+isbndb-py will now use this key to access ISBNdb.com
+
+

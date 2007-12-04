@@ -21,7 +21,7 @@ isbndb-py is a Python wrapper for seaching the ISBNdb.com database for bibliogra
 == Description ==
 The goals of this project are to:
 
-1. allow serches on ISBNdb.comfrom a python script
+1. allow serches on ISBNdb.com from a python script
 
 2. abstract all http and XML out of a users code
 

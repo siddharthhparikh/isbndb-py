@@ -59,6 +59,7 @@ isbndb-py is a wrapper for searching the ISBNdb.com database. Access to that dat
 ==== Using your ISBNdb.com Key with isbndb-py ====
 Once you have your key:
 
+_This section is yet to be completed_
 
 
 isbndb-py will now use this key to access ISBNdb.com

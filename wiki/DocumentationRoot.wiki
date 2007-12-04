@@ -59,13 +59,6 @@ isbndb-py is a wrapper for searching the ISBNdb.com database. Access to that dat
 ==== Using your ISBNdb.com Key with isbndb-py ====
 Once you have your key:
 
-  1. Navigate the the folder where you have installed isbndb-py e.g. cd ~/isbndb-py
-
-  2. Within that folder go to the folder called "tests"
-
-  3. In "tests" create a file called ".isbndbkey" (notice that the file name starts with a period)
-
-  4. Copy your key in to ".isbndbkey" and save it
 
 
 isbndb-py will now use this key to access ISBNdb.com

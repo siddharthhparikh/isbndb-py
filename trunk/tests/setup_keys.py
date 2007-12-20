@@ -12,7 +12,8 @@ elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
 def make_keyfiles():
     x = ElementTree.Element('Keys')
     y = ElementTree.Element('key')
-    y.text = KEY
+    y["name"] = KEY[0]
+    y.text = KEY[1]
     x.append(y)
     y = ElementTree.Element('key')
     y.text = 'foo'

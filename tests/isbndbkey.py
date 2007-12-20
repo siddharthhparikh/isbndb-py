@@ -4,4 +4,4 @@ if os.getcwd().strip('/').endswith('tests'):
 else:
     fname = 'tests/.isbndbkey'
 
-KEY = open(fname,'r').read().strip()
+KEY = open(fname,'r').read().strip().split(':')

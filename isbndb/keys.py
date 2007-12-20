@@ -12,23 +12,23 @@ elif sys.version_info[0] == 2 and sys.version_info[1] >= 5:
 __all__ = ['getKey']
 
 _KEYFILE = ''
-_KEYS = []
+_KEYS = {}
 
-def addKey(key,force_=False):
+def addKey(key, name='',force_=False):
     try:
-        k = Key(key, force_)
+        k = Key(key, name, force_)
     except:
         return False
     _KEYS.append(k)
     return True
 
 def getKey():
-    for x in _KEYS:
+    for x in _KEYS.values():
         if x.active:
             return x
     return None
 
-def loadKeys(fname=None):
+def loadKeys(fname=None, force_=False):
     global _KEYS,_KEYFILE
     if not fname:
         fname = os.path.expanduser('~/.isbndbkeys')
@@ -36,13 +36,16 @@ def loadKeys(fname=None):
         a = ElementTree.Element('Keys')
         ElementTree.ElementTree(a).write(fname)
     _KEYFILE = fname
-    _KEYS = []
+    _KEYS = dict()
     tree = ElementTree.parse(fname)
     for x in tree.findall('key'):
         try:
-            _KEYS.append(Key(x.text))
+            _KEYS[x.get("name")]=Key(x.text,x.get("name"))
         except:
-            _KEYS.append(Key(x.text, force_=True))
+            if force_:
+                _KEYS[x.get("name")]=Key(x.text,x.get("name"), force_=True)
+            else:
+                pass
 
 def saveKeys():
     if not _KEYFILE:
@@ -55,39 +58,36 @@ def saveKeys():
         tree.getroot().append(e)
     tree.write(_KEYFILE)
 
-#def newKey(k):
-#    global KEY
-#    try:
-#        KEY = Key(k)
-#    except:
-#        raise
-
 class Key(str):
     def __new__(cls, key, force_=False):
         return str.__new__(cls,key)
 
-    def __init__(self, key, force_=False):
+    def __init__(self, key, name, force_=False):
         #didn't i read somwhere that variable reuse is bad like this? :)
         #sys.stdout.write('Got key: %s\n' % (key,))
         x = 'http://isbndb.com/api/books.xml?access_key=%s&index1=isbn'
         x += '&value1=foo&results=keystats'
         x %=key
         a = urllib.urlopen(x).read()
-        #sys.stdout.write('Got from isbndb:\n %s\n' % (a,))
+        sys.stdout.write('Got from isbndb:\n %s\n' % (a,))
         y = ElementTree.fromstring(a)
         if ElementTree.iselement(y.find('ErrorMessage')):
+            sys.stdout.write('Found error...')
             if force_:
+                sys.stdout.write('forcing\n')
                 self.active = False
                 self.granted = 0
                 self.limit = 0
                 return
             else:
+                sys.stdout.write('erroring\n')
                 raise ValueError, 'either bad key or something'
         else:
             self.active = True
         y = y.find('KeyStats')
         self.granted = int(y.get('granted'))
         self.limit = int(y.get('limit'))
+        self.name = name
 
     def update(self, elem):
         self.granted = int(elem.get('granted'))

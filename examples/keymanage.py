@@ -42,7 +42,7 @@ def main():
         i = 0
         for k in keys._KEYS:
             i += 1
-            print '%s: %s' % (i, k)
+            print '%s. %s: %s' % (i,k.name, k)
         sys.exit(0)
 
 if __name__ == '__main__':
